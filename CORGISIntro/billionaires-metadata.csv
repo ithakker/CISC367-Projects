@@ -1,0 +1,19 @@
+Name, Billionaires
+Author, Ishaan Thakker
+Created, 3/19/2021
+Data File, billionaires - corgis.csv
+Information about billionaires all around the world.
+Data Source, https://github.com/civisanalytics/potato/tree/master/data/billion
+Description, This data set contains statistics about billionaires all over the world.
+Tags, "money, rich, wealthy, people, person, billionaire"
+Acknowledgement, 
+Row, report
+Icon, billionaire-icon.png
+Splash, billionaire-icon.png
+Properties, Name, Type, Description
+,Name, string, Name of Billionaire
+,Age, int, Current Age of Billionaire
+,Gender, string, A string representing their gender
+,Net_Worth, float, Number of dollars in billions that this person is worth.
+,Region, string, Region of the world where the billionaire lives.
+,Company, string, Name of the company they owned/founded
