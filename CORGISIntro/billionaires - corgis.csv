@@ -1,0 +1,2614 @@
+,Name,Age,Gender,Net_Worth,Region,Company
+1,Bill Gates,58.0,male,76.0,North America,Microsoft
+4,Carlos Slim Helu,74.0,male,72.0,Latin America,Telmex
+7,Amancio Ortega,77.0,male,64.0,Europe,Zara
+0,Bill Gates,45.0,male,58.7,North America,Microsoft
+10,Warren Buffett,83.0,male,58.2,North America,Berkshire Hathaway
+13,Larry Ellison,69.0,male,48.0,North America,Oracle
+16,Charles Koch,78.0,male,40.0,North America,Koch industries
+17,David Koch,73.0,male,40.0,North America,Koch industries
+22,Sheldon Adelson,80.0,male,38.0,North America,Las Vegas Sands
+25,Christy Walton,59.0,female,36.7,North America,Walmart
+29,Jim Walton,66.0,male,34.7,North America,Walmart
+31,Liliane Bettencourt,91.0,female,34.5,Europe,L'Oreal
+34,Stefan Persson,66.0,male,34.4,Europe, H&M
+37,Alice Walton,64.0,female,34.3,North America,Walmart
+40,S. Robson Walton,70.0,male,34.2,North America,Walmart
+43,Bernard Arnault,64.0,male,33.5,Europe,LVMH
+46,Michael Bloomberg,72.0,male,33.0,North America,Bloomberg
+49,Larry Page,40.0,male,32.3,North America,Google
+3,Warren Buffett,70.0,male,32.3,North America,Berkshire Hathaway
+53,Jeff Bezos,50.0,male,32.0,North America,Amazon
+55,Sergey Brin,40.0,male,31.8,North America,Google
+58,Li Ka-shing,85.0,male,31.0,East Asia,Cheung Kong
+6,Paul Allen,48.0,male,30.4,North America,Microsoft
+62,Mark Zuckerberg,29.0,male,28.5,North America, Facebook
+64,Michele Ferrero,88.0,male,26.5,Europe,Ferrero spa
+9,Larry Ellison,56.0,male,26.0,North America,Oracle
+67,Aliko Dangote,56.0,male,25.0,Sub-Saharan Africa,Dangote Group
+68,Karl Albrecht,94.0,male,25.0,Europe,Aldi Sud
+12,Theo and Karl Albrecht,,male,25.0,Europe,Aldi
+73,Carl Icahn,78.0,male,24.5,North America,Icahn Enterprises
+76,George Soros,83.0,male,23.0,North America,Soros Fund Management
+80,David Thomson,56.0,male,22.6,North America,Thomson Corporation (now Thomson Reuters)
+82,Lui Che Woo,84.0,male,22.0,East Asia,K. Wah Group
+85,Dieter Schwarz,74.0,male,21.1,Europe,Schwarz Group
+88,Prince Alwaleed Bin Talal Alsaud,58.0,male,20.4,Middle East/North Africa,Kingdom Holding Company
+15,Prince Alwaleed Bin Talal Alsaud,44.0,male,20.0,Middle East/North Africa,Kingdom Holding Company
+94,"Forrest Mars, Jr.",82.0,male,20.0,North America,"Mars, Incorperated"
+95,Jacqueline Mars,74.0,female,20.0,North America,"Mars, Incorperated"
+96,John Mars,77.0,male,20.0,North America,"Mars, Incorperated"
+100,Jorge Paulo Lemann,74.0,male,19.7,Latin America,Ambev
+104,Lee Shau Kee,86.0,male,19.6,East Asia,Henderson Land Development
+106,Steve Ballmer,57.0,male,19.3,North America,Microsoft
+107,"Theo Albrecht, Jr.",63.0,male,19.3,Europe,Aldi Nord
+112,Leonardo Del Vecchio,78.0,male,19.2,Europe,?Luxottica
+19,Jim Walton,53.0,male,18.8,North America,Walmart
+21,John Walton,55.0,male,18.7,North America,Walmart
+115,Len Blavatnik,56.0,male,18.7,North America,Renova Group
+119,Alisher Usmanov,60.0,male,18.6,Europe,Metalloinvest
+120,Mukesh Ambani,56.0,male,18.6,South Asia,Reliance
+24,S Robson Walton,57.0,male,18.6,North America,Walmart
+27,Alice Walton,52.0,female,18.5,North America,Walmart
+28,Helen Walton,81.0,female,18.5,North America,Walmart
+124,Masayoshi Son,56.0,male,18.4,East Asia,Softbank
+125,Michael Otto,70.0,male,18.4,Europe,Otto Group
+126,Phil Knight,76.0,male,18.4,North America,Nike
+133,Tadashi Yanai,65.0,male,17.9,East Asia,Fast Retailing/Uniqlo
+33,Johanna Quandt,73.0,female,17.8,Europe,BMW
+136,Gina Rinehart,60.0,female,17.7,North America,Hancock Prospecting
+140,Mikhail Fridman,49.0,male,17.6,Europe,Alfa Group
+142,Michael Dell,49.0,male,17.5,North America,Dell
+145,Susanne Klatten,51.0,female,17.4,Europe,BMW
+149,Abigail Johnson,52.0,female,17.3,North America,Fidelity Investments
+151,Viktor Vekselberg,56.0,male,17.2,Europe,Renova Group
+154,Lakshmi Mittal,63.0,male,16.7,South Asia,ArcelorMittal
+157,Vladimir Lisin,57.0,male,16.6,Europe,NLMK
+36,Steven Ballmer,44.0,male,16.6,North America,Microsoft
+39,Kenneth Thomson,77.0,male,16.4,North America,Thomson Corporation (now Thomson Reuters)
+160,Cheng Yu-tung,88.0,male,16.2,East Asia,Chow Tai Fook Enterprises
+164,Joseph Safra,75.0,male,16.0,Latin America,Banco Safra (now Saftra Group)
+166,Paul Allen,61.0,male,15.9,North America,Microsoft
+171,Leonid Mikhelson,58.0,male,15.6,Europe,Novatek
+42,Liliane Bettencourt,78.0,female,15.6,Europe,L'Oreal
+175,Iris Fontbona,71.0,female,15.5,Latin America,Antofagasta PLC
+173,Anne Cox Chambers,94.0,female,15.5,North America,Cox Enterprises
+174,Francois Pinault,77.0,male,15.5,Europe,"Pinault-Printemps-Redoute (PPR), now known as Kering"
+185,Mohammad Al Amoudi,67.0,male,15.3,Middle East/North Africa,MIDROC
+184,Gennady Timchenko,61.0,male,15.3,Europe,Gunvor Group
+183,Azim Premji,68.0,male,15.3,South Asia,Wipro Limited
+45,Philip Anschutz,61.0,male,15.3,North America,Circle A Drilling
+193,Wang Jianlin,59.0,male,15.1,East Asia,Dalian Wanda Group
+195,Charles Ergen,61.0,male,15.0,North America,dish networtk
+2,Warren Buffett,65.0,male,15.0,North America,Berkshire Hathaway
+197,Stefan Quandt,47.0,male,14.9,Europe,BMW
+199,German Larrea Mota Velasco,60.0,male,14.7,Latin America,Grupo Mexio
+202,Harold Hamm,68.0,male,14.6,North America,Continental Resources
+206,Ray Dalio,64.0,male,14.4,North America,Bridgewater Associates
+205,Donald Bren,81.0,male,14.4,North America,Irvine Company
+214,Georg Schaeffler,49.0,male,14.3,Europe,Schaeffler Group
+216,Luis Carlos Sarmiento,81.0,male,14.2,Latin America,"Grupo Aval Acciones y Valores, SA"
+220,Serge Dassault,88.0,male,14.0,Europe,Dassault Group
+219,Ronald Perelman,71.0,male,14.0,North America,MacAnderws and Forbes Holdings
+218,Laurene Powell Jobs,50.0,female,14.0,North America,Apple
+227,John Fredriksen,69.0,male,13.6,Europe,Frontline Ltd.
+228,Vagit Alekperov,63.0,male,13.6,Europe,Lukoil
+233,Rupert Murdoch,82.0,male,13.5,North America,News Limited
+232,John Paulson,58.0,male,13.5,North America,Paulson & Co.
+239,Ma Huateng,42.0,male,13.4,East Asia,Tencent
+5,Oeri Hoffman and Sacher,,,13.1,Europe,F. Hoffmann-La Roche
+48,Ingvar Kamprad,74.0,male,13.0,Europe,IKEA
+241,Gerald Cavendish Grosvenor,62.0,male,13.0,Europe,Grosvenor Group
+252,Jack Taylor,91.0,male,12.8,North America,Enterprise
+254,Pallonji Mistry,84.0,male,12.8,Europe,?Shapoorji Pallonji Group
+253,Johanna Quandt,87.0,female,12.8,Europe,BMW
+251,Dilip Shanghvi,58.0,male,12.8,South Asia,Sun Pharmaceutical Industries
+8,Lee Shau Kee,68.0,male,12.7,East Asia,Henderson Land Development
+260,Vladimir Potanin,53.0,male,12.6,Europe,Interros
+52,Sumner Redstone,77.0,male,12.6,North America,National Amusements
+51,Li Ka-shing,72.0,male,12.6,East Asia,Cheung king
+259,Thomas and Raymond Kwok,,male,12.6,East Asia,Sun Hung Kai Properties
+264,Rinat Akhmetov,47.0,male,12.5,Europe,System Capital Management Group
+263,James Simons,75.0,male,12.5,North America,Renaissance Technologies
+269,Alberto Bailleres Gonzalez,82.0,male,12.4,Latin America,Penoles
+11,Tsai Wan-lin,71.0,male,12.2,East Asia,Lin Yuan Group
+271,Robin Li,45.0,male,12.1,East Asia,Baidu
+276,Ernesto Bertarelli,48.0,male,12.0,Europe,Serono
+277,Hans Rausing,87.0,male,12.0,Europe,Tetra Pak
+57,Leo Kirch,,male,12.0,Europe,Kirch Group
+61,Barbara Cox Anthony,77.0,female,11.7,North America,Cox Enterprises
+60,Anne Cox Chambers,81.0,female,11.7,North America,Cox Enterprises
+280,Zong Qinghou,68.0,male,11.6,East Asia,Hangzhou Wahaha Group
+284,Robert Kuok,90.0,male,11.5,East Asia,Shangri-La Hotels
+283,David & Simon Reuben,71.0,male,11.5,Europe,Trans-World Metals
+66,Walter Thomas and Raymond Kwok,,male,11.5,East Asia,Sun Hung Kai Properties
+290,Dhanin Chearavanont,74.0,male,11.4,East Asia,Charoen Pokphand (CP Group)
+291,Henry Sy,89.0,male,11.4,East Asia,SM Malls
+289,Andrey Melnichenko,41.0,male,11.4,Europe,MDM Bank
+302,German Khan,52.0,male,11.3,Europe,Alfa Group
+301,Ananda Krishnan,75.0,male,11.3,East Asia,Usaha Tegas Sdn Bhd
+14,Walter Thomas and Raymond Kwok,,male,11.2,East Asia,Sun Hung Kai Properties
+307,Miuccia Prada,64.0,female,11.1,Europe,Prada
+305,Alejandro Santo Domingo Davila,37.0,male,11.1,Latin America,Santo Domingo Group
+308,Shiv Nadar,68.0,male,11.1,South Asia,HCL
+306,Lee Kun-Hee,72.0,male,11.1,East Asia,Samsung
+318,Petr Kellner,49.0,male,11.0,Europe,PPF (Prvn? privatizacn? fond)
+320,Steve Cohen,58.0,male,11.0,North America,SAC Capital Advisors
+319,Robert & Philip Ng,,male,11.0,East Asia,Sino Group
+330,Andrew Beal,61.0,male,10.9,North America,Beal Bank
+331,Mikhail Prokhorov,48.0,male,10.9,Europe,Norilsk Nickel
+70,John Kluge,86.0,male,10.9,North America,Metropolitan Broadcasting Corporation
+72,Carlos Slim Helu,61.0,male,10.8,Latin America,Telmex
+75,Bernard Arnault,52.0,male,10.7,Europe,LVMH
+18,Li Ka-shing,67.0,male,10.6,East Asia,Cheung king
+335,Hansjoerg Wyss,79.0,male,10.5,Europe,Synthes USA
+79,Michael Dell,36.0,male,10.5,North America,Dell
+78,Ernesto Bertarelli,35.0,male,10.5,Europe,Serono
+334,Alexei Mordashov,48.0,male,10.5,Europe,Severstal
+338,Charlene de Carvalho-Heineken,59.0,female,10.4,Europe,Heineken International
+339,Klaus-Michael Kuehne,76.0,male,10.4,Europe,Kuhne + Nagel
+340,Philip Anschutz,74.0,male,10.4,North America,Circle A Drilling
+341,Stefano Pessina,72.0,male,10.4,Europe,Alliance Boots
+355,Li Hejun,46.0,male,10.3,East Asia,Hanergy Solar
+356,Sergei Galitsky,46.0,male,10.3,Europe,Magnit
+84,Silvio Berlusconi,64.0,male,10.3,Europe,Fininvest
+360,Marcel Herrmann Telles,64.0,male,10.2,Latin America,Ambev
+359,Kjeld Kirk Kristiansen,66.0,male,10.2,Europe,Lego
+363,Charles Butt,76.0,male,10.1,North America,H-E-B supermarket
+365,Carrie Perrodo,63.0,female,10.0,Europe,Perenco
+369,Jack Ma,49.0,male,10.0,East Asia,Alibaba group
+366,David Tepper,56.0,male,10.0,North America,Appaloosa Management
+371,Stephen Schwarzman,67.0,male,10.0,North America,Blackstone Group
+367,George Kaiser,71.0,male,10.0,North America,Kaiser-Francis Oil Company
+370,Patrick Soon-Shiong,62.0,male,10.0,North America,American Pharmaceutical Partners 
+368,Hinduja Brothers,,male,10.0,Europe,Hinduja Group
+385,Giorgio Armani,79.0,male,9.9,Europe,Armani
+396,Tsai Eng-Meng,57.0,male,9.5,East Asia,Want Want China
+395,Richard Kinder,69.0,male,9.5,North America,Kinder Morgan Energy Partners
+400,Eric Schmidt,58.0,male,9.3,North America,google
+401,Hiroshi Mikitani,49.0,male,9.3,East Asia,Rakuten
+399,"Edward Johnson, III.",83.0,male,9.3,North America,Fidelity Investments
+402,"Samuel Newhouse, Jr.",86.0,male,9.3,North America,Advance Publications
+20,Yoshiaki Tsutsumi,61.0,male,9.2,East Asia,Seibu Corporation
+407,Dietrich Mateschitz,69.0,male,9.2,Europe,Red Bull
+412,Roman Abramovich,47.0,male,9.1,Europe,Millhouse LLC
+411,Roberto Marinho,66.0,male,9.1,Latin America,Globo Organizations
+409,Joao Roberto Marinho,60.0,male,9.1,Latin America,Globo Organizations
+87,Abigail Johnson,39.0,female,9.1,North America,Fidelity Investments
+410,Jose Roberto Marinho,58.0,male,9.1,Latin America,Globo Organizations
+426,Charoen Sirivadhanabhakdi,69.0,male,9.0,East Asia,ThaiBev
+427,Gerard Wertheimer,63.0,male,9.0,Europe,Chanel
+428,Silvio Berlusconi,77.0,male,9.0,Europe,Fininvest
+429,Vladimir Yevtushenkov,65.0,male,9.0,Europe,Sistema/Sitronics
+425,Alain Wertheimer,65.0,male,9.0,Europe,Chanel
+93,Kirsten Rausing,,female,9.0,Europe,Tetra Pak
+26,Hans and Gad Rausing,,male,9.0,Europe,Tetra Pak
+92,John Mars,64.0,male,9.0,North America,"Mars, Incorperated"
+91,Jacqueline Mars,,female,9.0,North America,"Mars, Incorperated"
+90,Forrest Mars Jr,69.0,male,9.0,North America,"Mars, Incorperated"
+23,Theo and Karl Albrecht,,male,9.0,Europe,Aldi Nord
+440,Carlos Alberto Sicupira,66.0,male,8.9,Latin America,Ambev
+102,Charles Ergen,48.0,male,8.8,North America,dish networtk
+103,Ted Turner,62.0,male,8.8,North America,CNN
+443,Dmitry Rybolovlev,47.0,male,8.8,Europe,Uralkali
+442,Alexei Kuzmichev,51.0,male,8.8,Europe,Alfa Group
+446,Thomas Peterffy,69.0,male,8.8,North America,Interactive Brokers
+445,Hasso Plattner,70.0,male,8.8,Europe,SAP AG
+444,Elaine Marshall,71.0,female,8.8,North America,Koch industries
+463,Ludwig Merckle,49.0,male,8.6,Europe,Ratiopharm
+468,Hank & Doug Meijer,,male,8.5,North America,Meijer
+467,Galen Weston,73.0,male,8.5,North America,George Weston Limited
+466,Donald Newhouse,84.0,male,8.5,North America,Advance Publications
+465,Antonia Johnson,70.0,female,8.5,Europe,Axel Johnson Group
+469,Michael Kadoorie,72.0,male,8.5,East Asia,CLP Holdings
+475,Elon Musk,42.0,male,8.4,North America,"Paypal, SpaceX, Tesla Motors"
+476,Joseph Lau,62.0,male,8.4,East Asia,Chinese Estates Holdings
+109,Yasuo Takei,71.0,male,8.3,East Asia,Takefuji
+480,Ricardo Salinas Pliego,58.0,male,8.3,Latin America,Grupo Salinas/Group Elektra
+479,August von Finck,83.0,male,8.3,Europe,"Allianz, Merk Finck & Co"
+490,Xavier Niel,46.0,male,8.2,Europe,Iliad
+489,Pierre Omidyar,46.0,male,8.2,North America,Ebay
+488,Andrei Skoch,48.0,male,8.2,Europe,Metallionvest
+30,Johanna Quandt,68.0,female,8.1,Europe,BMW
+32,Haniel family,,,8.1,Europe,Franz Haniel & Cie
+494,Margarita Louis-Dreyfus,50.0,female,8.1,Europe,Louis-Dreyfus Goup
+111,Suliman Olayan,,male,8.0,Middle East/North Africa,General Contracting Company
+496,Pierre Castel,87.0,male,8.0,Europe,Goupe Castel
+505,Emmanuel Besnier,43.0,male,7.9,Europe,Lactalis
+114,Rupert Murdoch,70.0,male,7.8,North America,News Limited
+508,David Duffield,73.0,male,7.7,North America,PeopleSoft
+117,Hans Rausing,74.0,male,7.7,Europe,Tetra Pak
+118,Nobutada Saji,55.0,male,7.7,East Asia,Suntory
+509,Jean-Claude Decaux,76.0,male,7.7,Europe,JCDecaux
+510,Jim Kennedy,66.0,male,7.7,North America,Cox Enterprises
+511,Reinhold Wuerth,78.0,male,7.7,Europe,Adolf Wurth Group
+507,Blair Parry-Okeden,63.0,female,7.7,North America,Cox Enterprises
+517,Jacques Servier,92.0,male,7.6,Europe,Laboratories Servier
+518,Johann Rupert,63.0,male,7.6,Sub-Saharan Africa,Rembrandt Group
+519,R Budi Hartono,73.0,male,7.6,East Asia,Djarum
+520,Tsai Wan-Tsai,84.0,male,7.6,East Asia,Fubon Financial holding Company
+35,Paul Allen,43.0,male,7.5,North America,Microsoft
+530,Charles Johnson,81.0,male,7.5,North America,Franklin Resources
+531,James Goodnight,71.0,male,7.5,North America,SAS institute
+533,"John Menard, Jr.",74.0,male,7.5,North America,Menards
+534,Klaus Tschira,73.0,male,7.5,Europe,SAP AG
+535,Leonard Lauder,80.0,male,7.5,North America,Est?Lauder
+532,John Malone,72.0,male,7.5,North America,Tele-Communications Inc
+38,Kenneth Thomson,72.0,male,7.4,North America,Thomson Corporation (now Thomson Reuters)
+557,Vincent Bollore,61.0,male,7.4,Europe,Bollore
+560,Michael Hartono,74.0,male,7.3,East Asia,Djarum
+559,Jim Pattison,85.0,male,7.3,North America,Jim Pattison Group
+41,John Kluge,81.0,male,7.2,North America,Metropolitan Broadcasting Corporation
+566,Peter Woo,68.0,male,7.2,East Asia,Worldwide Shipping Group
+564,Heinz Hermann Thiele,72.0,male,7.2,Europe,Knorr-Bremse AG
+563,Augusto & Giorgio Perfetti,,male,7.2,Europe,Perfetti Van Melle
+565,Johann Graf,67.0,male,7.2,Europe,Novomatic Automatenhandels AG
+571,He Xiangjian,71.0,male,7.1,East Asia,Midea
+575,Graeme Hart,58.0,male,7.0,North America,Rank Group
+573,Dietmar Hopp,73.0,male,7.0,Europe,SAP AG
+44,Tan Yu,,male,7.0,East Asia,Asiaworld Internationale Group
+574,Eyal Ofer,63.0,male,7.0,Middle East/North Africa,Zodiac Maritime Agencies
+577,Ralph Lauren,74.0,male,7.0,North America,Ralph Lauren
+576,Kumar Birla,46.0,male,7.0,South Asia,Aditya Birla Group
+589,Richard DeVos,88.0,male,6.9,North America,Amway
+587,Charles Cadogan,76.0,male,6.9,Europe,Cadogan Estates
+588,Eli Broad,80.0,male,6.9,North America,"Kaufman and Broad, SunAmerica"
+123,Azim Premji,55.0,male,6.9,South Asia,Wipro Limited
+591,Wei Jianjun,50.0,male,6.9,East Asia,Great Wall Motors
+592,Yang Huiyan,32.0,female,6.9,East Asia,Country Garden Holdings
+590,Suleiman Kerimov,47.0,male,6.9,Europe,Gazprom
+612,Jan Koum,38.0,male,6.8,North America,WhatsApp
+610,Chung Mong-Koo,75.0,male,6.8,East Asia,Hyundai
+611,Dustin Moskovitz,29.0,male,6.8,North America,Facebook
+617,Nicky Oppenheimer,68.0,male,6.7,Sub-Saharan Africa,De Beers
+47,Wonowidjojo family,,,6.7,East Asia,Gudang Garam
+616,Nassef Sawiris,53.0,male,6.7,Europe,Orascom
+128,Amancio Ortega,65.0,male,6.6,Europe,Zara
+129,Leonardo Del Vecchio,65.0,male,6.6,Europe,?Luxottica
+620,Takemitsu Takizaki,68.0,male,6.6,East Asia,Keyence
+623,Leonid Fedun,57.0,male,6.5,Europe,Lukoil
+624,Micky Arison,64.0,male,6.5,North America,Carnival Corporation
+625,Oleg Deripaska,46.0,male,6.5,Europe,SibAl
+622,James Packer,46.0,male,6.5,North America,Consolidated Press Holdings Limited
+132,Gerald Cavendish Grosvenor,49.0,male,6.5,Europe,Grosvenor Group
+645,Quek Leng Chan,70.0,male,6.4,East Asia,Hong Leong Financial Group
+644,Pansy Ho,51.0,female,6.4,East Asia,Sociedade de Turismo e Divers?es de Macau
+643,Eva Gonda Rivera,,female,6.4,Latin America,FEMSA
+135,Kirk Kerkorian,83.0,male,6.4,North America,MGM Grand
+138,Charles Schwab,63.0,male,6.3,North America,Charles Schwab Corporation
+656,Scott Duncan,31.0,male,6.3,North America,Enterprise Products
+653,Paolo & Gianfelice Mario Rocca,,male,6.3,Europe,Techint
+652,Milane Frantz,44.0,female,6.3,North America,Enterprise Products
+651,Ivan Glasenberg,57.0,male,6.3,North America,Glencore Xstrata
+650,"Herbert Kohler, Jr.",75.0,male,6.3,North America,Kohler Company
+649,Dannine Avara,50.0,female,6.3,North America,Enterprise Products
+655,Randa Williams,52.0,female,6.3,North America,Enterprise Products
+654,Patrick Drahi,50.0,male,6.3,Europe,Altice
+139,Francois Pinault,64.0,male,6.3,Europe,"Pinault-Printemps-Redoute (PPR), now known as Kering"
+678,"Rupert Johnson, Jr.",72.0,male,6.2,North America,Franklin Resources
+680,Sumner Redstone,90.0,male,6.2,North America,National Amusements
+679,S. Truett Cathy,92.0,male,6.2,North America,Chick-fil-A
+688,Richard LeFrak,68.0,male,6.1,North America,LeFrack 
+684,David Geffen,71.0,male,6.1,North America,Asylum Records/Geffen Records/Dreamworks
+685,Iskander Makhmudov,50.0,male,6.1,Europe,Ural Mining and Metallurgical Company
+686,Lucio Tan,79.0,male,6.1,East Asia,Asia Brewery
+690,"Thomas Frist, Jr.",75.0,male,6.1,North America,Hostpital Corporation of America
+50,Carlos Slim Helu,56.0,male,6.1,Latin America,Telmex
+689,Sandra Ortega Mera,45.0,female,6.1,Europe,Zara
+144,Pierre Landolt,,male,6.1,Europe,AxialPar
+687,Pyotr Aven,58.0,male,6.1,Europe,Alfa Group
+719,James Irving,85.0,male,6.0,North America,J.D. Irving
+147,George Soros,70.0,male,6.0,North America,Soros Fund Management
+716,Denis O'Brien,55.0,male,6.0,Europe,Estat Digiphone (O2)
+717,Filaret Galchev,50.0,male,6.0,Europe,Rosuglesbyt
+718,Ira Rennert,79.0,male,6.0,North America,Renco
+715,Chan Laiwa,73.0,female,6.0,East Asia,Fuwah International Group
+148,Nasser Al-Kharafi,57.0,male,6.0,Middle East/North Africa,Kharafi Group
+54,Larry Ellison,51.0,male,6.0,North America,Oracle
+720,Patrizio Bertelli,68.0,male,6.0,Europe,Prada
+153,Lee Shau Kee,73.0,male,5.9,East Asia,Henderson Land Development
+56,Chung Ju-yung,,male,5.9,East Asia,Hyundai Group
+730,Leon Black,62.0,male,5.8,North America,Apollo Global management
+727,Charles Schwab,76.0,male,5.8,North America,Charles Schwab Corporation
+156,Eli Broad,67.0,male,5.8,North America,"Kaufman and Broad, SunAmerica"
+728,Dennis Washington,79.0,male,5.8,North America,Washington Companies
+729,Gayle Cook,80.0,female,5.8,North America,Cook Group
+736,Hui Wing Mau,63.0,male,5.7,East Asia,Shimao Property
+735,Hui Ka Yan,55.0,male,5.7,East Asia,Evergrande Group
+737,Idan Ofer,58.0,male,5.7,Middle East/North Africa,Zodiac Maritime Agencies
+159,James Goodnight,58.0,male,5.7,North America,SAS institute
+738,Isak Andic,60.0,male,5.7,Europe,Mango
+741,Patrick McGovern,76.0,male,5.7,North America,International Data Goup
+59,Gerard Mulliez,,male,5.7,Europe,Auchan
+739,Jorn Rausing,54.0,male,5.7,Europe,Tetra Pak
+740,Leslie Wexner,76.0,male,5.7,North America,Limited Brands
+65,Kwek Leng Beng,55.0,male,5.7,East Asia,Hong Leong Group
+742,Sunil Mittal,56.0,male,5.7,South Asia,Bharti Enterprises
+63,Robert Kuok,73.0,male,5.7,East Asia,Tana Exploration Company
+774,Stanley Kroenke,66.0,male,5.6,North America,Kroenke Sports Enterprises
+775,Teh Hong Piow,83.0,male,5.6,East Asia,Public Bank
+162,Kyosuke Kinoshita,60.0,male,5.6,East Asia,Acom
+773,Ray Lee Hunt,71.0,male,5.6,North America,Hunt Oil. Co
+163,Masayoshi Son,43.0,male,5.6,East Asia,Softbank
+168,Luciano Benetton,65.0,male,5.5,Europe,Benetton Group
+69,Cheng Yu-tung,70.0,male,5.5,East Asia,Chow Tai Fook Enterprises
+169,Robert Pritzker,74.0,male,5.5,North America,Hyatt
+170,Thomas Pritzker,50.0,male,5.5,North America,Hyatt
+71,Walter Haefner,85.0,male,5.5,Europe,Automation Center
+785,Thomas Schmidheiny,68.0,male,5.5,Europe,Holcim
+784,Michael Ashley,49.0,male,5.5,Europe,Sports Direct
+783,Liu Yongxing,65.0,male,5.5,East Asia,East Hope Group
+782,Jeffery Hildebrand,54.0,male,5.5,North America,Hilcorp Energy Company
+781,Carlos and Alejandro Bulgheroni,,male,5.5,Latin America,Bridas Energy
+779,Arthur Irving,84.0,male,5.5,North America,Irving Oil
+780,Bruno Schroder,81.0,male,5.5,Europe,Schroders
+178,Curt Engelhorn,74.0,male,5.4,Europe,BASF/Boehringer Mannheim/DePuy
+180,Hasso Plattner,57.0,male,5.4,Europe,SAP AG
+181,Paul-Louis Halley,,male,5.4,Europe,Promodes
+179,Gordon Moore,72.0,male,5.4,North America,Intel 
+793,Melker Schorling,66.0,male,5.4,Europe,Melker Schorling AB (MSAB)
+794,Sergei Popov,42.0,male,5.4,Europe,MDM Bank
+795,Stephen Ross,73.0,male,5.4,North America,The Related Companies
+796,Terry Gou,63.0,male,5.4,East Asia,Foxconn
+189,Friedrich Flick,74.0,male,5.3,Europe,Friedrich Flick Industrial Holding
+192,Walter Haefner,90.0,male,5.3,Europe,Automation Center
+191,Stefan Persson,53.0,male,5.3,Europe, H&M
+190,Gustavo Cisneros,55.0,male,5.3,Latin America,Cisneros Group
+801,Americo Amorim,79.0,male,5.3,Europe,Corticeira Amorim
+802,Anders Holch Povlsen,41.0,male,5.3,Europe,Bestseller
+803,Stef Wertheimer,87.0,male,5.3,Middle East/North Africa,ISCAR
+74,Philip Knight,58.0,male,5.3,North America,Nike
+77,Michael Otto,52.0,male,5.2,Europe,Otto Group
+811,Kwee brothers,69.0,male,5.2,East Asia,Pontiac Land
+809,Karl-Heinz Kipp,90.0,male,5.2,Europe,Massa
+810,Ken Griffin,45.0,male,5.2,North America,Citadel LLC
+807,Andrew Forrest,52.0,male,5.2,North America,Fortescue Metals Group
+813,Wee Cho Yaw,85.0,male,5.2,East Asia,United Overseas Bank
+201,Yoshitaka Fukuda,53.0,male,5.2,East Asia,Aiful
+812,Maria Asuncion Aramburuzabala,50.0,female,5.2,Latin America,Grupo Modelo
+808,Bidzina Ivanishvili,58.0,male,5.2,Europe,Rossiysky Kredit
+81,Fong Teng,,male,5.2,East Asia,Sino Group
+86,Yasuo Takei,66.0,male,5.2,East Asia,Takefuji
+83,Robert and Ten Fong Ng,,male,5.2,East Asia,Sino Group
+204,Alfred Lerner,,male,5.1,North America,MBNA
+844,Kirsten Rausing,61.0,female,5.1,Europe,Tetra Pak
+89,Antonio Ermirio de Moraes,,male,5.1,Latin America,Votorantim Group
+843,Jacqueline Desmarais,85.0,female,5.1,North America,Power Corporation of Canada
+97,Eka Tjipta Widjaja,,male,5.1,East Asia,Sinar Mas Group
+842,Finn Rausing,59.0,male,5.1,Europe,Tetra Pak
+848,Anil Ambani,54.0,male,5.0,South Asia,Reliance
+851,David Green,72.0,male,5.0,North America,Hobby Lobby
+852,Frederik Paulsen,63.0,male,5.0,Europe,Ferring Pharmaceuticals
+853,George Roberts,70.0,male,5.0,North America,Kohlberg Kravis Roberts
+101,Silvio Berlusconi,59.0,male,5.0,Europe,Fininvest
+98,Liliane Bettencourt,73.0,female,5.0,Europe,L'Oreal
+854,Gordon Moore,85.0,male,5.0,North America,Intel 
+855,Harry Triguboff,81.0,male,5.0,North America,Meriton
+856,Henry Kravis,70.0,male,5.0,North America,Kohlberg Kravis Roberts
+99,Merck family,,,5.0,Europe,Merck
+857,Joe Lewis,77.0,male,5.0,Europe,Tavistock Group
+858,Micky Jagtiani,62.0,male,5.0,South Asia,Landmark Group
+859,Richard Branson,63.0,male,5.0,Europe,Virgin Group
+208,Alain Wertheimer,,male,5.0,Europe,Chanel
+860,Stein Erik Hagen,57.0,male,5.0,Europe,RIMI
+850,Bruce Halle,83.0,male,5.0,North America,Discount Tire
+861,Walter Kwok,63.0,male,5.0,East Asia,Sun Hung Kai Properties
+849,Antonio Del Valle Ruiz,75.0,male,5.0,Latin America,Mexichem
+105,Mohamed Salim Bin Mahfouz,,male,5.0,Middle East/North Africa,National Comercial bank of Saudi Arabia
+209,August von Finck,70.0,male,5.0,Europe,"Allianz, Merk Finck & Co"
+210,Donald Newhouse,71.0,male,5.0,North America,Advance Publications
+212,Samuel Newhouse,73.0,male,5.0,North America,Advance Publications
+211,Michael Otto,57.0,male,5.0,Europe,Metro AG
+108,Lee Kun-Hee,,male,4.9,East Asia,Samsung
+223,Serge Dassault,76.0,male,4.9,Europe,Dassault Group
+896,Albert Frere,88.0,male,4.9,Europe,Groupe Bruxelles Lambert
+897,Cyrus Poonawalla,72.0,male,4.9,South Asia,Serum Institute of India
+898,Erivan Haub,81.0,male,4.9,Europe,Tenglemann Group
+899,Frits Goldschmeding,80.0,male,4.9,Europe,Randstad
+901,Heinz-Horst Deichmann,87.0,male,4.9,Europe,Heinrich Deichmann-Schuhe
+902,Kunio Busujima,88.0,male,4.9,East Asia,Sankyo
+903,Robert Rowling,60.0,male,4.9,North America,Tana Exploration Company
+904,Savitri Jindal,63.0,female,4.9,South Asia,O.P. Jindal Group
+905,Shashi and Ravi Ruia,,male,4.9,South Asia,Essar Group
+900,George Lucas,69.0,male,4.9,North America,Lucasfilm
+226,Tadashi Yanai,52.0,male,4.8,East Asia,Fast Retailing/Uniqlo
+923,Karl Wlaschek,96.0,male,4.8,Europe,BILLA
+225,Gunter Herz,60.0,male,4.8,Europe,Maxingvest AG
+929,Zhang Zhidong,42.0,male,4.8,East Asia,Tencent
+928,Whitney MacMillan,85.0,male,4.8,North America,Cargill
+927,Robert Ziff,47.0,male,4.8,North America,Ziff Davis Inc
+110,John Walton,50.0,male,4.8,North America,Walmart
+925,Liselott Persson,64.0,female,4.8,Europe, H&M
+924,Laurence Graff,75.0,male,4.8,Europe,Graff Diamonds
+926,Pauline MacMillan Keinath,80.0,female,4.8,North America,Cargill
+922,Juan Roig,64.0,male,4.8,Europe,Mercadona
+917,Ann Walton Kroenke,65.0,female,4.8,North America,Walmart
+921,Gwendolyn Sontheim Meyer,52.0,female,4.8,North America,Cargill
+916,Abdulla bin Ahmad Al Ghurair,,male,4.8,Middle East/North Africa,Al-Ghurair Group
+113,Jim Walton,48.0,male,4.8,North America,Walmart
+918,Bruce Kovner,69.0,male,4.8,North America,Caxton Associates
+919,Daniel Ziff,42.0,male,4.8,North America,Ziff Davis Inc
+920,Dirk Ziff,49.0,male,4.8,North America,Ziff Davis Inc
+968,Andrew Tan,61.0,male,4.7,East Asia,Alliance Global Group
+231,Rolf Gerling,46.0,male,4.7,Europe,Gerling Konzern
+971,Horst Paulmann,79.0,male,4.7,Latin America,Hipermercados Jumbo
+972,Sergio Mantegazza,86.0,male,4.7,Europe,Globus
+973,Shari Arison,56.0,female,4.7,Middle East/North Africa,Carnival Corporation
+122,S Robson Walton,52.0,male,4.7,North America,Walmart
+121,Alice Walton,47.0,female,4.7,North America,Walmart
+116,Helen Walton,76.0,female,4.7,North America,Walmart
+969,Arnon Milchan,69.0,male,4.7,Middle East/North Africa,New Regency Films
+970,Frank Lowy,83.0,male,4.7,North America,Westfield Group
+130,Masayoshi Son,38.0,male,4.6,East Asia,Softbank
+235,Dieter von Holtzbrinck,59.0,male,4.6,Europe,Holtzbrinck
+236,Edward Johnson,70.0,male,4.6,North America,Fidelity Investments
+237,Spiro Latsis,54.0,male,4.6,Europe,EFG International
+982,Pierre Bellon,84.0,male,4.6,Europe,Sodexo
+981,Mike Adenuga,60.0,male,4.6,Sub-Saharan Africa,Conoil/Globacom
+980,Diane Hendricks,67.0,female,4.6,North America,ABC Supply
+127,Henkel family,,,4.6,Europe,Henkel AG
+245,Masatoshi Ito,76.0,male,4.5,East Asia,Ito-Yokado
+250,Samuel Johnson,72.0,male,4.5,North America,S. C. Johnson & Son
+986,David Sun,62.0,male,4.5,North America,Kingston Technology
+248,Pierre Omidyar,33.0,male,4.5,North America,Ebay
+247,Nicky Oppenheimer,55.0,male,4.5,Sub-Saharan Africa,De Beers
+246,Michael Bloomberg,58.0,male,4.5,North America,Bloomberg
+987,Dieter Schnabel,68.0,male,4.5,Europe,Helm AG
+244,Marvin Davis,75.0,male,4.5,North America,Davis Petroleum
+131,Friedrich Flick,69.0,male,4.5,Europe,Friedrich Flick Industrial Holding
+243,Lorenzo Mendoza,35.0,male,4.5,Latin America,Empresas Polar
+137,Pierre Landolt,,male,4.5,Europe,AxialPar
+141,Donald Newhouse,66.0,male,4.5,North America,Advance Publications
+143,Samuel Newhouse,68.0,male,4.5,North America,Advance Publications
+134,Liem Sioe Liong,,male,4.5,East Asia,Salim Group
+249,Reinhard Mohn,79.0,male,4.5,Europe,Bertelsmann
+995,Michael Herz,70.0,male,4.5,Europe,Maxingvest AG
+988,James Dyson,66.0,male,4.5,Europe,Dyson
+997,Wolfgang Herz,63.0,male,4.5,Europe,Maxingvest AG
+989,Jay Y. Lee,45.0,male,4.5,East Asia,Samsung
+990,John A. Sobrato,74.0,male,4.5,North America,Sobrato Organization
+991,John Tu,73.0,male,4.5,North America,Kingston Technology
+992,Kirk Kerkorian,96.0,male,4.5,North America,MGM Grand
+993,Lynn Schusterman,75.0,female,4.5,North America,Samson Investment Company
+994,Majid Al Futtaim,,male,4.5,Middle East/North Africa,Majid Al Futtaim
+996,Trevor Rees-Jones,62.0,male,4.5,North America,Chief Oil and Gas 
+267,James Arthur and John Irving,,male,4.4,North America,J.D. Irving
+1039,Kelcy Warren,58.0,male,4.4,North America,Energy Transfer Partners
+1038,Guenter Herz & Family,73.0,male,4.4,Europe,Maxingvest AG
+268,Rudolf Oetker,,male,4.4,Europe,Oetker-Gruppe
+1037,Barbara Carlson Gage,71.0,female,4.4,North America,Carlson Inc
+1041,Marilyn Carlson Nelson,74.0,female,4.4,North America,Carlson Inc
+1040,Luo Jye,88.0,male,4.4,East Asia,Maxxis
+1050,Lee Shin Cheng,74.0,male,4.3,East Asia,IOI Group
+1052,"Paul Tudor Jones, II.",59.0,male,4.3,North America,Tudor Investment Corporation
+1051,Liang Wengen,57.0,male,4.3,East Asia,Sany Heavy Industry
+274,Maurice Greenberg,75.0,male,4.3,North America,AIG
+1055,Wang Chuanfu,48.0,male,4.3,East Asia,BYD Company
+275,Philip Knight,63.0,male,4.3,North America,Nike
+1054,Samvel Karapetyan,48.0,male,4.3,Europe,Tashir Group
+1053,Sam Zell,72.0,male,4.3,North America,Equity Group Investments
+1047,Dan Olsson,67.0,male,4.3,Europe,Stena Sphere
+1048,Emanuele (Lino) Saputo,77.0,male,4.3,North America,Saputo Inc
+1049,Guo Guangchang,47.0,male,4.3,East Asia,Fosun Group
+273,Lee Bass,44.0,male,4.3,North America,Sid Richardson Gasoline Co
+282,Fukuzo Iwasaki,76.0,male,4.2,East Asia,Iwasaki Sangyo Group
+1067,Elizabeth Mohn,73.0,female,4.2,Europe,Bertelsmann
+146,Dhanin Chearavanont,56.0,male,4.2,East Asia,Charoen Pokphand (CP Group)
+1077,William Ding,42.0,male,4.2,East Asia,NetEase
+1070,Jeronimo Arango,88.0,male,4.2,Latin America,Aurrera
+1071,Leonard Stern,75.0,male,4.2,North America,Hartz Group
+1073,Malcolm Glazer,85.0,male,4.2,North America,First Allied Corporation
+1075,Ted Lerner,88.0,male,4.2,North America,Lerner Enterprises
+1068,Enrique Razon,54.0,male,4.2,East Asia,International Containter Terminal Services
+1065,Akira Mori,77.0,male,4.2,East Asia,Mori Building
+1066,Bernard Ecclestone,83.0,male,4.2,Europe,Formula One Group
+1072,Lin Rong San,74.0,male,4.2,East Asia,Union Bank of Taiwan
+1074,Ralph Dommermuth,50.0,male,4.2,Europe,United Internet
+1076,Wang Wenyin,46.0,male,4.2,East Asia,Amer International Group
+1069,Friede Springer,71.0,female,4.2,Europe,Axel Sbringer AG
+287,Patrick Wang,50.0,male,4.1,East Asia,Johnson Electric
+1117,Beny Steinmetz,57.0,male,4.1,Middle East/North Africa,Steinmetz Diamond Group and BSGR
+1121,Nancy Walton Laurie,62.0,female,4.1,North America,Walmart
+1118,Eduardo Saverin,31.0,male,4.1,Latin America,Facebook
+1115,Anthony Bamford,68.0,male,4.1,Europe,JCB
+1120,Ingvar Kamprad,87.0,male,4.1,Europe,IKEA
+1119,Francisco Ivens de Sa Dias Branco,77.0,male,4.1,Latin America,M. Dias Branco S.A.
+1122,Shahid Khan,63.0,male,4.1,North America,Flex-N-Gate
+286,Micky Arison,51.0,male,4.1,North America,Carnival Corporation
+150,Boehringer family,,,4.1,Europe,Poehringer Ingelheim
+152,David Sainsbury,55.0,male,4.1,Europe,Sainsbury's
+1116,Barry Lam,64.0,male,4.1,East Asia,Quanta Computer
+1137,Gustaf Douglas,76.0,male,4.0,Europe,Investment AB Latour
+1132,Bertil Hult,73.0,male,4.0,Europe,EF Education
+165,Mustafa Rahmi Koc,65.0,male,4.0,Middle East/North Africa,Koc Holding
+167,Barbara Cox Anthony,72.0,female,4.0,North America,Cox Enterprises
+1133,Chairul Tanjung,51.0,male,4.0,East Asia,Para Group (aka CT Corp)
+297,Ty Warner,57.0,male,4.0,North America,Ty Inc.
+1131,Arkady Rotenberg,62.0,male,4.0,Europe,"SGM Group, Mostotrest, TPS Avia"
+172,Anne Cox Chambers,76.0,female,4.0,North America,Cox Enterprises
+298,Walter Annenberg,,male,4.0,North America,Philadelphia Inquirer
+296,Galen Weston,60.0,male,4.0,North America,George Weston Limited
+295,Erivan Haub,68.0,male,4.0,Europe,Tenglemann Group
+1135,David & Frederick Barclay,80.0,male,4.0,Europe,Press Holdings
+293,Alfred Heineken,,male,4.0,Europe,Heineken International
+176,Ronald Perelman,53.0,male,4.0,North America,MacAnderws and Forbes Holdings
+294,Donald Bren,68.0,male,4.0,North America,Irvine Company
+155,Seydoux/Schlumberger families,,,4.0,Europe,Schlumberger Well Services
+1134,Curt Engelhorn,87.0,male,4.0,Europe,BASF/Boehringer Mannheim/DePuy
+1141,Lei Jun,44.0,male,4.0,East Asia,Xiaomi Tech
+161,Fukuzo Iwasaki,71.0,male,4.0,East Asia,Iwasaki Sangyo Group
+1143,Wang Wei,,male,4.0,East Asia,S.F. Express
+1142,Randal Kirk,60.0,male,4.0,North America,General Injectables and Vaccines/Third Security LLC
+158,Masatoshi Ito,71.0,male,4.0,East Asia,Ito-Yokado
+1140,Lars Larsen,65.0,male,4.0,Europe,JYSK
+1139,John Morris,65.0,male,4.0,North America,Bass Pro Shops
+1136,Erich Kellerhals,75.0,male,4.0,Europe,Media Markt
+1138,Gustavo Cisneros,68.0,male,4.0,Latin America,Cisneros Group
+1197,Riley Bechtel,61.0,male,3.9,North America,Bechtel Corporation
+1192,Daniel Och,53.0,male,3.9,North America,Och-Ziff Capital Management Group
+1193,Donald Trump,67.0,male,3.9,North America,The Trump Organization
+177,Akira Mori,66.0,male,3.9,East Asia,Mori Building
+1194,Heinz-Georg Baus,80.0,male,3.9,Europe,Bauhaus
+1195,"John Gokongwei, Jr.",86.0,male,3.9,East Asia,JG Summit Holdings
+1196,Martha Ingram,78.0,female,3.9,North America,Ingram Industries
+1191,Bernard (Barry) Sherman,72.0,male,3.9,North America,Empire Laboratories
+1198,"Stephen Bechtel, Jr.",88.0,male,3.9,North America,Bechtel Corporation
+1214,Peter Hargreaves,67.0,male,3.8,Europe,Hargreaves Lansdown
+1207,Alain Merieux,76.0,male,3.8,Europe,Institut Merieux
+1213,Odd Reitan,62.0,male,3.8,Europe,Reitan Group
+1216,Uday Kotak,54.0,male,3.8,South Asia,Kotak Mahindra Bank
+1217,Walter Faria,58.0,male,3.8,Latin America,Grupo Petropolis
+315,Tsai Wan-lin,76.0,male,3.8,East Asia,Lin Yuan Group
+314,Sid Bass,58.0,male,3.8,North America,Sid Richardson Gasoline Co
+187,Brenninkmeijer family,,,3.8,Europe,C&A
+186,Madeleine Schickedanz,52.0,female,3.8,Europe,Quelle Versand
+182,Otto Beisheim,72.0,male,3.8,Europe,Metro AG
+313,Leonard Lauder,67.0,male,3.8,North America,Est?Lauder
+312,Jon Huntsman,63.0,male,3.8,North America,Huntsman chemical
+311,Henry Ross Perot Sr,,male,3.8,North America,Electronic Data Systems
+1218,William Koch,73.0,male,3.8,North America,Koch industries
+1212,Mitchell Rales,57.0,male,3.8,North America,Danaher
+1211,Mark Shoen,62.0,male,3.8,North America,U-haul
+1210,Jeffrey Skoll,49.0,male,3.8,North America,Ebay
+1209,Andreas von Bechtolsheim,58.0,male,3.8,Europe,Sun Microsystems
+1208,Alexander Abramov,55.0,male,3.8,Europe,EvrazHolding
+1215,Steve Wynn,72.0,male,3.8,North America,Wynn Resorts (formarly Mirage Resorts)
+1243,Martin & Olivier Bouygues,,male,3.7,Europe,Bouygues S.A.
+1242,Karen Pritzker,56.0,female,3.7,North America,Hyatt
+188,Gordon Moore,67.0,male,3.7,North America,Intel 
+324,Carl Icahn,65.0,male,3.7,North America,Icahn Enterprises
+1232,Axel Oberwelland,47.0,male,3.7,Europe,Storck
+1233,Charles Dolan,87.0,male,3.7,North America,Cablevision and HBO
+1251,Zhang Xin,48.0,female,3.7,East Asia,SOHO China
+1250,Zhang Jindong,50.0,male,3.7,East Asia,Suning Group
+1234,Daniel Gilbert,52.0,male,3.7,North America,Quicken Loans
+1235,Gong Hongjia,49.0,male,3.7,East Asia,Hikvision
+1236,Guenther Fielmann,74.0,male,3.7,Europe,Fielmann AG
+1249,Wu Yajun,50.0,female,3.7,East Asia,Longfor Properties
+1248,Ronald Lauder,70.0,male,3.7,North America,Est?Lauder
+1247,Niels Peter Louis-Hansen,66.0,male,3.7,Europe,Coloplast
+1237,Igor Kesaev,47.0,male,3.7,Europe,Mercury Company
+1238,Isabel dos Santos,40.0,female,3.7,Sub-Saharan Africa,Unitel Interneational Holdings
+1246,Nathan Kirsh,82.0,male,3.7,Sub-Saharan Africa,Jetro Holdings
+1245,Murat Ulker,54.0,male,3.7,Middle East/North Africa,Yildiz Holding
+1239,Jiang Bin,47.0,male,3.7,East Asia,GoerTek
+1244,Michael Stoschek,66.0,male,3.7,Europe,Brose
+1240,John Sall,65.0,male,3.7,North America,SAS institute
+1241,Joseph Tsai,50.0,male,3.7,North America,Alibaba
+325,Mehmet Karamehmet,56.0,male,3.7,Middle East/North Africa,Cukurova Holding
+326,Nina Wang,,female,3.7,East Asia,Chinachem Group
+327,Robert Kuok,78.0,male,3.7,East Asia,Shangri-La Hotels
+328,Sanjiv Sidhu,,male,3.7,North America,i2 Technologies
+194,Walter Annenberg,,male,3.7,North America,Philadelphia Inquirer
+196,Steven Ballmer,39.0,male,3.7,North America,Microsoft
+1231,Aloys Wobben,62.0,male,3.7,Europe,Enercon
+1298,Vanich Chaiyawan,,male,3.7,East Asia,Thai Life
+329,Shari Arison,43.0,female,3.7,Middle East/North Africa,Carnival Corporation
+1300,God Nisanov,41.0,male,3.6,Europe,Kiyevskaya Ploshad
+1301,Ian & Richard Livingstone,,male,3.6,Europe,London & Regional Properties
+1302,J. Christopher Reyes,60.0,male,3.6,North America,Reyes Holdings
+1303,Jan Kulczyk,64.0,male,3.6,Europe,Kulczyk Investments
+1304,Jerry Speyer,73.0,male,3.6,North America,Tishman Speyer
+1299,David Shaw,62.0,male,3.6,North America,D.E. Shaw & Co
+1307,Michael Platt,45.0,male,3.6,Europe,BlueCrest Capital Management
+1308,Reid Hoffman,46.0,male,3.6,North America,LinkedIn
+1309,Sheldon Solow,85.0,male,3.6,North America,Solow Building Company
+1310,Steven Rales,62.0,male,3.6,North America,Danaher
+1311,Steven Udvar-Hazy,68.0,male,3.6,North America,International Lease Finance Corporation
+1312,Zarakh Iliev,47.0,male,3.6,Europe,
+1313,Zhang Shiping,67.0,male,3.6,East Asia,China Hongqiao
+1305,Jude Reyes,58.0,male,3.6,North America,Reyes Holdings
+1306,Maria-Elisabeth Schaeffler,72.0,female,3.6,Europe,Schaeffler Group
+344,John Simplot,92.0,male,3.6,North America,J.R. Simplot Company
+203,Shin Kyuk-Ho,,,3.6,East Asia,
+200,Curt Engelhorn,69.0,male,3.6,Europe,BASF/Boehringer Mannheim/DePuy
+198,Gregorio Perez Companc,61.0,male,3.6,Latin America,Petrolera Perez Companc
+349,Ng Teng Fong,72.0,male,3.5,East Asia,Far East Organization
+1316,Bernard Marcus,84.0,male,3.5,North America,Home Depot
+1322,Leon G. Cooperman,70.0,male,3.5,North America,Omega Advisors
+1321,Keiichiro Takahara,82.0,male,3.5,East Asia,Unicharm
+1320,Jamshyd Godrej,65.0,male,3.5,South Asia,Godrej Group
+1319,"H. Ross Perot, Sr.",83.0,male,3.5,North America,Electronic Data Systems
+1318,George Bishop,77.0,male,3.5,North America,GeoSouthern
+1317,Evan Williams,41.0,male,3.5,North America,Twitter
+1315,Andreas Struengmann,64.0,male,3.5,Europe,Hexal AG
+217,Sakip Sabanci,63.0,male,3.5,Middle East/North Africa,Sabanci Holdings
+1314,Adi Godrej,71.0,male,3.5,South Asia,Godrej Group
+1324,Lu Guanqiu,69.0,male,3.5,East Asia,Wanxiang Group
+347,Craig McCaw,51.0,male,3.5,North America,McCaw Cellular
+348,Kazuo Okada,58.0,male,3.5,East Asia,Wynn Resorts
+207,James Arthur and John Irving,,male,3.5,North America,J.D. Irving
+215,Wang Yue-che,79.0,male,3.5,East Asia,Formosa Plastics
+346,Antonio Ermirio de Moraes,,male,3.5,Latin America,Votorantim Group
+213,Philip Niarchos,42.0,male,3.5,Europe,Niarchos Ltd
+1325,Masatoshi Ito,89.0,male,3.5,East Asia,Ito-Yokado
+350,Nicolas Hayek,72.0,male,3.5,Europe,Swatch Group
+352,Sakip Sabanci,68.0,male,3.5,Middle East/North Africa,Sabanci Holdings
+353,Stephan Schmidheiny,53.0,male,3.5,Europe,Holcim
+1326,Prince Sultan bin Mohammed bin Saud Al Kabeer,60.0,male,3.5,Middle East/North Africa,Almarai
+351,Reinhold Wuerth,,male,3.5,Europe,Adolf Wurth Group
+1323,Lorenzo Mendoza,48.0,male,3.5,Latin America,Empresas Polar
+1331,Zygmunt Solorz-Zak,57.0,male,3.5,Europe,Polsat
+1330,Yvonne Bauer,36.0,female,3.5,Europe,Bauer Media Group
+1329,Thomas Struengmann,64.0,male,3.5,Europe,Hexal AG
+1328,Sri Prakash Lohia,61.0,male,3.5,East Asia,Indorama Corporation
+1327,Rosa Anna Magno Garavoglia,,female,3.5,Europe,Gruppo Campari
+1386,Wolfgang Marguerre,73.0,male,3.4,Europe,Octapharma
+1370,Andrei Guriev,53.0,male,3.4,Europe,Apatit
+378,Gerard Louis-Dreyfus,68.0,male,3.4,Europe,Louis Dreyfus Group
+377,Dhirubhai Ambani,,male,3.4,South Asia,Reliance
+1385,Tamara Gustavson,52.0,female,3.4,North America,Public Storage
+376,David Geffen,58.0,male,3.4,North America,Asylum Records/Geffen Records/Dreamworks
+375,Charles Bronfman,69.0,male,3.4,North America,Seagrams
+1384,Sun Guangxin,51.0,male,3.4,East Asia,Xinjiang Guanghui Industry Investment Group
+374,Ann Kroenke,,female,3.4,North America,Walmart
+379,James Sorenson,79.0,male,3.4,North America,Sorenson Companies
+1371,Chung Eui-Sun,43.0,male,3.4,East Asia,Hyundai
+229,Sumner Redstone,72.0,male,3.4,North America,National Amusements
+1379,John Gandel,79.0,male,3.4,North America,Chadstone Shopping Center
+1377,Jim Davis,70.0,male,3.4,North America,New Balance
+1376,Han Chang-Woo,83.0,male,3.4,East Asia,Maruhan
+224,Kirk Kerkorian,78.0,male,3.4,North America,MGM Grand
+1380,Lin Yu-lin,78.0,male,3.4,East Asia,Hong Tai Group
+1375,Haim Saban,69.0,male,3.4,North America,Saban Entertainment
+1374,Fredrik Lundberg,62.0,male,3.4,Europe,LE Lundbergforetagen AB
+1373,"Edward Roski, Jr.",75.0,male,3.4,North America,Majestic Realty Co.
+1381,Rafael Del Pino y Calvo-Sotelo,55.0,male,3.4,Europe,Ferrovial
+1382,Ronda Stryker,59.0,female,3.4,North America,Stryker Corporation
+1383,Steven Spielberg,67.0,male,3.4,North America,DreamWorks
+1372,Daniela Herz,60.0,female,3.4,Europe,Maxingvest AG
+221,Erivan Haub,63.0,male,3.4,Europe,Tenglemann Group
+222,Tiong Hiew King,60.0,male,3.4,East Asia,Rimbunan Hijau Group
+1378,John Doerr,62.0,male,3.4,North America,Kleinter Perkins Caufield & Byers
+255,Henry Ross Perot Sr,,male,3.3,North America,Electronic Data Systems
+390,Edgar Bronfman,72.0,male,3.3,North America,Seagrams
+387,Akira Mori,66.0,male,3.3,East Asia,Mori Building
+388,Amos Hosetter Jr,64.0,male,3.3,North America,Continental Cablevision
+389,Bernard Marcus,71.0,male,3.3,North America,Home Depot
+391,Eitaro Itoyama,58.0,male,3.3,East Asia,
+392,Martin Ebner,,male,3.3,Europe,BZ Bank
+393,Ronald Perelman,58.0,male,3.3,North America,MacAnderws and Forbes Holdings
+394,Ryoichi Jinnai,74.0,male,3.3,East Asia,Promise Consumer Finance
+1408,Terrence Pegula,63.0,male,3.3,North America,East Resources
+1409,Wolfgang Reimann,61.0,male,3.3,Europe,Benckiser
+1406,Stefan Reimann-Andersen,50.0,male,3.3,Europe,Benckiser
+1407,Stephan Schmidheiny,66.0,male,3.3,Europe,Holcim
+1391,David Consunji,92.0,male,3.3,East Asia,DMCI
+1400,Otto Happel,66.0,male,3.3,Europe,GEA Group
+1399,Mikhail Gutseriev,55.0,male,3.3,Europe,Russneft
+1398,Matthias Reimann-Andersen,48.0,male,3.3,Europe,Benckiser
+1397,Marc Benioff,49.0,male,3.3,North America,salesforce.com
+1396,Jean Pierre Cayard,71.0,male,3.3,Europe,La Martiniquaise
+1395,Israel Englander,65.0,male,3.3,North America,Millennium Management LLC
+1393,Francis Choi,66.0,male,3.3,East Asia,Early Light International
+1392,Doris Fisher,82.0,female,3.3,North America,The Gap
+1390,Daryl Katz,52.0,male,3.3,North America,Katz Group
+1402,Renate Reimann-Haas,62.0,female,3.3,Europe,Benckiser
+1389,Clayton Riddell,76.0,male,3.3,North America,Paramount Resources
+1388,Antti Herlin,57.0,male,3.3,Europe,Kone Corporation
+1387,Aloysio de Andrade Faria,93.0,male,3.3,Latin America,Banco Real
+242,Garry Weston,,male,3.3,Europe,George Weston Limited
+240,Quek Leng Chan,55.0,male,3.3,East Asia,Hong Leong Financial Group
+238,Nina Wang,,female,3.3,East Asia,Chinachem Group
+234,Rolf Gerling,41.0,male,3.3,Europe,Gerling Konzern
+230,Denis Defforey,,male,3.3,Europe,Carrefour
+1401,Phillip Frost,77.0,male,3.3,North America,Opko Health
+1394,Fu Liquan,46.0,male,3.3,East Asia,Zhejiang Dahua Technology
+1403,Renzo Rosso,58.0,male,3.3,Europe,Diesel
+1404,Samuel Yin,63.0,male,3.3,East Asia,Ruentex Group
+1405,Sarik Tara,83.0,male,3.3,Middle East/North Africa,Enka insaat ve Sanayi
+256,Keizo Saji,,male,3.2,East Asia,Suntory
+1465,Heidi Horten,73.0,female,3.2,Europe,Horten AG
+419,Philippe Foriel-Destezet,65.0,male,3.2,Europe,Adecco
+420,Preston Tisch,74.0,male,3.2,North America,Loews Corporation
+257,Rupert Murdoch,65.0,male,3.2,North America,News Limited
+421,Ronald Lauder,59.0,male,3.2,North America,Est?Lauder
+1466,Issad Rebrab,70.0,male,3.2,Middle East/North Africa,CEVITAL
+1463,George Lindemann,77.0,male,3.2,North America,"Vision Cable, Metro Mobile, Southern Union"
+1464,Gianluigi Aponte,,male,3.2,Europe,MSC
+417,Doris Fisher,70.0,female,3.2,North America,The Gap
+1462,Frederick Smith,69.0,male,3.2,North America,FedEx
+1461,Desh Bandhu Gupta,76.0,male,3.2,South Asia,Lupin Limited
+414,Charles Koch,65.0,male,3.2,North America,Koch industries
+1460,Christoffel Wiese,72.0,male,3.2,Sub-Saharan Africa,Shoprite
+418,Karl-Heinz Kipp,77.0,male,3.2,Europe,Massa
+416,Donald Fisher,72.0,male,3.2,North America,The Gap
+1467,"James Cargill, II.",64.0,male,3.2,North America,Cargill
+1468,"Julian Robertson, Jr.",82.0,male,3.2,North America,Tiger Management Corp
+1469,Liu Yonghao,62.0,male,3.2,East Asia,New Hope Group
+1470,Lu Xiangyang,51.0,male,3.2,East Asia,BYD
+1471,Marianne Liebmann,60.0,female,3.2,North America,Cargill
+1459,"Austen Cargill, II.",63.0,male,3.2,North America,Cargill
+1472,Rafaela Aponte,,female,3.2,Europe,MSC
+1473,Spiro Latsis,67.0,male,3.2,Europe,EFG International
+1474,Victor Pinchuk,53.0,male,3.2,Europe,Interpipe
+415,David Koch,60.0,male,3.2,North America,Koch industries
+261,Jay Van Andel,71.0,male,3.2,North America,Amway
+258,Richard DeVos,70.0,male,3.2,North America,Amway
+1496,Roger Wang,65.0,male,3.1,North America,Golden Eagle International Group
+1494,Najib Mikati,58.0,male,3.1,Middle East/North Africa,Investcom
+1495,Peter Kellogg,71.0,male,3.1,North America,"Spear, Leeds & Kellogg"
+1500,Syed Mokhtar AlBukhary,62.0,male,3.1,East Asia,MMC Corp./DRBHicom
+1497,Shi Yuzhu,51.0,male,3.1,East Asia,Giant Interactive
+1498,Stanley Druckenmiller,60.0,male,3.1,North America,Duquesne Capital
+1499,Stelios Haji-Ioannou,47.0,male,3.1,Europe,Easy Jet
+1501,Taha Mikati,69.0,male,3.1,Middle East/North Africa,Investcom
+1502,Theo Mueller,74.0,male,3.1,Europe,Muller
+1503,Wang Yung-Tsai,93.0,male,3.1,East Asia,Formosa Plastics
+1504,"William Conway, Jr.",64.0,male,3.1,North America,Carlyle Group
+1505,Yitzhak Tshuva,65.0,male,3.1,Middle East/North Africa,El-Ad Group
+1492,Mohamed Mansour,66.0,male,3.1,Middle East/North Africa,Mansour Group
+1493,Mohammed Al Issa,89.0,male,3.1,Middle East/North Africa,Savola Group
+1477,Anthony Pritzker,53.0,male,3.1,North America,Hyatt
+1491,Maria Helena Moraes Scripilliti,83.0,female,3.1,Latin America,Votorantim Group
+1480,Daniel D'Aniello,67.0,male,3.1,North America,Carlyle Group
+1475,Alexander Svetakov,46.0,male,3.1,Europe,Absolut
+1476,Andre Esteves,45.0,male,3.1,Latin America,BTG Pactual
+1478,Antonio Ermirio de Moraes,85.0,male,3.1,Latin America,Votorantim Group
+262,August von Finck,65.0,male,3.1,Europe,"Allianz, Merk Finck & Co"
+265,Michael and Rainer Schmidt-Ruthenbeck,,male,3.1,Europe,Metro AG
+266,Stanley Ho,74.0,male,3.1,East Asia,Sociedade de Turismo e Divers?es de Macau
+270,Kyosuke Kinoshita,55.0,male,3.1,East Asia,Acom
+272,Chatri Sophonpanich,,male,3.1,East Asia,Bangkok Bank
+278,Peter Haas Sr,,male,3.1,North America,Levi Strauss & co
+439,William Wrigley,37.0,male,3.1,North America,Wm Wrigley Jr. Company
+438,Rafik Al-Hariri,57.0,male,3.1,Middle East/North Africa,Saudi Oger
+436,Gianni Agnelli,,male,3.1,Europe,Fiat
+435,Ennio Doris,60.0,male,3.1,Europe,Mediolanum SpA
+1479,Archie Aldis Emmerson,84.0,male,3.1,North America,Sierra Pacific Industries
+437,Lester Crown,75.0,male,3.1,North America,General Dynamics
+1481,David Azrieli,91.0,male,3.1,North America,Azrieli Group
+1485,Hans Peter Wild,72.0,male,3.1,Europe,?Rudolf WILD GmbH & Co. KG
+1490,Judy Faulkner,70.0,female,3.1,North America,Epic Systems
+1488,Jay Robert (J.B.) Pritzker,49.0,male,3.1,North America,Hyatt
+1487,James Jannard,64.0,male,3.1,North America,"Oakley, Inc"
+1486,Isaac Perlmutter,71.0,male,3.1,North America,Marvel Entertainment
+1489,"Jeremy Jacobs, Sr.",74.0,male,3.1,North America,Delaware North Companies
+1484,Ermirio Pereira de Moraes,81.0,male,3.1,Latin America,Votorantim Group
+1483,Eddie & Sol Zakay,63.0,male,3.1,Europe,Topland Group
+1482,David Rubenstein,64.0,male,3.1,North America,Carlyle Group
+451,A Jerrold Perenchio,70.0,male,3.0,North America,Univision
+459,Robert Bass,53.0,male,3.0,North America,Sid Richardson Gasoline Co
+1530,S. Curtis Johnson,58.0,male,3.0,North America,S. C. Johnson & Son
+1531,Samuel Tak Lee,74.0,male,3.0,East Asia,Prudential Enterprise
+1532,Tang Yiu,80.0,male,3.0,East Asia,Belle Holdings
+1533,Wang Yusuo,49.0,male,3.0,East Asia,ENN Energy Group
+1534,Winnie Johnson-Marquart,54.0,female,3.0,North America,S. C. Johnson & Son
+460,Saleh Kamel,59.0,male,3.0,Middle East/North Africa,Dallah al Baraka Group
+458,Riley Bechtel,48.0,male,3.0,North America,Bechtel Corporation
+1528,Peter Buck,83.0,male,3.0,North America,Subway
+452,Emilio Azcarraga Jean,33.0,male,3.0,Latin America,Grupo Televisa
+457,Ricardo Salinas Pliego,45.0,male,3.0,Latin America,Grupo Salinas/Group Elektra
+456,Mohammed Jameel,,male,3.0,Middle East/North Africa,Abdul Latif Jameel Co. Ltd
+461,Stephen Bechtel,75.0,male,3.0,North America,Bechtel Corporation
+453,George Lucas,56.0,male,3.0,North America,Lucasfilm
+1529,"Robert Rich, Jr.",73.0,male,3.0,North America,Rich Products Corporation
+1507,"Amos Hostetter, Jr.",77.0,male,3.0,North America,Continental Cablevision
+1527,Paul Ramsay,78.0,male,3.0,North America,Ramsay Health Care
+1506,Alexander Nesis,51.0,male,3.0,Europe,ICT Group
+1514,Harry Stine,72.0,male,3.0,North America,The Stine Seed Group
+1526,Michel Leclercq,74.0,male,3.0,Europe,Oxylane
+1513,H. Fisk Johnson,55.0,male,3.0,North America,S. C. Johnson & Son
+1512,Friedhelm Loh,67.0,male,3.0,Europe,Loh Group
+1511,Fred DeLuca,66.0,male,3.0,North America,Subway
+1510,Edward Lampert,51.0,male,3.0,North America,ESL Investment
+1509,Brian Acton,42.0,male,3.0,North America,WhatsApp
+1508,Anthony Pratt,53.0,male,3.0,North America,Pratt Industries/Visy Industries
+455,Khoo Teck Puat,84.0,male,3.0,East Asia,Malayan Banking
+309,Forrest Mars Jr,64.0,male,3.0,North America,"Mars, Incorperated"
+1516,Husnu Ozyegin,69.0,male,3.0,Middle East/North Africa,FIBA Holding
+304,Forrest Mars Sr,,male,3.0,North America,"Mars, Incorperated"
+303,Robert Pritzker,69.0,male,3.0,North America,Hyatt
+300,Jay and Arthur Pritzker,,male,3.0,North America,Hyatt
+299,Jacqueline Mars,,female,3.0,North America,"Mars, Incorperated"
+292,John Mars,59.0,male,3.0,North America,"Mars, Incorperated"
+288,Khoo Teck Puat,79.0,male,3.0,East Asia,Malayan Banking
+285,Suliman Olayan,,male,3.0,Middle East/North Africa,General Contracting Company
+281,Jassim Al-Kharafi,,male,3.0,Middle East/North Africa,Kharafi Group
+279,Lemos family,,,3.0,Europe,Efploia Shipping
+1515,Helen Johnson-Leipold,57.0,female,3.0,North America,S. C. Johnson & Son
+454,Henry Hillman,82.0,male,3.0,North America,Pittsburgh Coke & Chemical
+1519,Jerry Jones,71.0,male,3.0,North America,Jones Oil and Land Lease
+1522,Kerr Neilson,64.0,male,3.0,North America,Platinum Asset Management
+1518,James Leprino,76.0,male,3.0,North America,Leprino Foods
+1521,John Paul DeJoria,70.0,male,3.0,North America,John Paul Mitchell Systems/Patron Spirits Company
+1520,John Catsimatidis,65.0,male,3.0,North America,Gristedes Foods
+1517,Imogene Powers Johnson,84.0,female,3.0,North America,S. C. Johnson & Son
+1523,Kushal Pal Singh,82.0,male,3.0,South Asia,DLF Limited
+1524,Lawrence Ho,37.0,male,3.0,East Asia,"Sociedade de Turismo e Divers?es de Macau, SA"
+1525,Lu Zhiqiang,61.0,male,3.0,East Asia,Oceanwide Group of Beijing
+485,Joseph and Moise Safra,,male,2.9,Latin America,Banco Safra (now Saftra Group)
+1545,Igor Olenicoff,71.0,male,2.9,North America,Olen Properties
+1544,Herbert Louis,85.0,male,2.9,North America,S. C. Johnson & Son
+1549,John Arnold,39.0,male,2.9,North America,Centaurus Advisors
+1542,Gilberto Benetton,72.0,male,2.9,Europe,Benetton Group
+1541,Fernando Roberto Moreira Salles,67.0,male,2.9,Latin America,Unibanco
+487,Lorenzo Zambrano,56.0,male,2.9,Latin America,Cemex
+486,Leslie Wexner,59.0,male,2.9,North America,Limited Brands
+1548,Joao Moreira Salles,52.0,male,2.9,Latin America,Unibanco
+484,Hiroshi Yamauchi,73.0,male,2.9,East Asia,Nintendo
+483,Dietmar Hopp,60.0,male,2.9,Europe,SAP AG
+317,William Hewlett,,male,2.9,North America,Hewlett-Packard
+310,Rudolf Oetker,,male,2.9,Europe,Oetker-Gruppe
+1540,Farhad Moshiri,58.0,male,2.9,Europe,Metalloinvest
+1539,Do Won Chang,,male,2.9,North America,Forever 21
+1538,"David Rockefeller, Sr.",98.0,male,2.9,North America,Standard Oil
+1537,David Filo,47.0,male,2.9,North America,Yahoo!
+1536,Carlo Benetton,70.0,male,2.9,Europe,Benetton Group
+1535,Anil Agarwal,60.0,male,2.9,South Asia,Vedanta Resources
+316,Koo Cha-kyung,,male,2.9,East Asia,LG Group
+1543,Giuliana Benetton,76.0,female,2.9,Europe,Benetton Group
+1561,Robert Kraft,72.0,male,2.9,North America,International Forest Products
+1555,Marc Rowan,52.0,male,2.9,North America,Apollo Group Management
+1564,"Walter Scott, Jr.",82.0,male,2.9,North America,Piewit Corporation
+1563,Tom Gores,49.0,male,2.9,North America,Platinum Equity
+1562,Thomas Pritzker,63.0,male,2.9,North America,Hyatt
+1560,Rahel Blocher,38.0,female,2.9,Europe,EMS-Chemie
+1559,Pedro Moreira Salles,54.0,male,2.9,Latin America,Unibanco
+1557,Michael Ying,64.0,male,2.9,East Asia,Esprit Holdings Limited
+1556,Michael Pieper,68.0,male,2.9,Europe,Artemis Goup
+1558,Oprah Winfrey,60.0,female,2.9,North America,Harpo Productions
+1554,Magdalena Martullo-Blocher,45.0,female,2.9,Europe,EMS-Chemie
+1546,Jaime Gilinski Bacal,56.0,male,2.9,Latin America,Gilinski Group
+1547,Jin Sook Chang,,female,2.9,North America,Forever 21
+1553,Luciano Benetton,78.0,male,2.9,Europe,Benetton Group
+1552,Joshua Harris,49.0,male,2.9,North America,Apollo Group Management
+1551,Josephine Louis,83.0,female,2.9,North America,S. C. Johnson & Son
+1550,John Fisher,52.0,male,2.9,North America,The Gap
+1565,Walther Moreira Salles Junior,57.0,male,2.9,Latin America,Unibanco
+1598,Richard Chandler,55.0,male,2.8,North America,Chandler Corporation
+1593,Viktor Rashnikov,65.0,male,2.8,Europe,Magnitogorsk Metallurgical Enterprise
+1594,W. Herbert Hunt,85.0,male,2.8,North America,Petro-Hunt
+1595,"Wilbur Ross, Jr.",76.0,male,2.8,North America,WL Ross & Co
+1596,Yang Kai,57.0,male,2.8,East Asia,China Huishan Dairy Holding
+1597,Ziyad Manasir,48.0,male,2.8,Europe,Stroygazconsulting
+321,Karl-Heinz Kipp,72.0,male,2.8,Europe,Massa
+1569,Alfred Taubman,90.0,male,2.8,North America,Taubman Centers
+332,Chey Jong-hyon,,male,2.8,East Asia,SK Group
+323,Gianni Agnelli,,male,2.8,Europe,Fiat
+322,Putera Sampoerna,,male,2.8,East Asia,Sampoerna
+1591,Saif Al Ghurair,,male,2.8,Middle East/North Africa,Al-Ghurair Group
+1592,Suh Kyung-Bae,51.0,male,2.8,East Asia,AmorePacific
+1568,Alexandre Soares dos Santos,79.0,male,2.8,Europe,Jeronimo Martins
+1566,Abilio dos Santos Diniz,77.0,male,2.8,Latin America,Companhia Brasileira de Distribui?ao
+1578,Joan Tisch,88.0,female,2.8,North America,Loews Corporation
+1567,Alexandra Schorghuber,55.0,female,2.8,Europe,Schorghuber Group
+498,Aloysio de Andrade Faria,80.0,male,2.8,Latin America,Banco Real
+1583,Masahiro Miki,58.0,male,2.8,East Asia,ABC-Mart
+1582,Mary Alice Dorrance Malone,64.0,female,2.8,North America,Campbell Soup
+1581,Leandro Rizzuto,75.0,male,2.8,North America,Conair
+1580,Krit Ratanarak,67.0,male,2.8,East Asia,Bank of Ayudhya/Bangkok Broadcasting and Television Company
+1579,John Caudwell,61.0,male,2.8,Europe,Midland Mobile Phones
+1577,Huang Rulun,62.0,male,2.8,East Asia,Century Golden Resources Group
+1586,Naguib Sawiris,59.0,male,2.8,Middle East/North Africa,Orascom
+1576,Gautam Adani,51.0,male,2.8,South Asia,Adani Group
+1575,Erman Ilicak,46.0,male,2.8,Middle East/North Africa,Ronesans Construction
+1574,"Edward DeBartolo, Jr.",67.0,male,2.8,North America,Edward J. DeBartolo Corporation
+1573,Dirk Rossmann,67.0,male,2.8,Europe,Rossmann
+1572,Chee Chen Tung,72.0,male,2.8,East Asia,Orient Overseas Container Line
+1571,Bernard Broermann,70.0,male,2.8,Europe,Asklepios Kliniken GmbH
+1570,Angela Leong,52.0,female,2.8,East Asia,"Sociedade de Turismo e Divers?es de Macau, SA"
+1585,Michael Moritz,59.0,male,2.8,North America,Sequoia Capital
+1584,Michael & Rainer Schmidt-Ruthenbeck,,male,2.8,Europe,Metro AG
+1590,Robert Bass,66.0,male,2.8,North America,Sid Richardson Gasoline Co
+504,Yoshiaki Tsutsumi,66.0,male,2.8,East Asia,Seibu Corporation
+503,Steven Udvar-Hazy,55.0,male,2.8,North America,International Lease Finance Corporation
+502,Klaus Jacobs,,male,2.8,Europe,Jacobs Suchard AG
+501,John Sall,54.0,male,2.8,North America,SAS institute
+500,Jack Taylor,,male,2.8,North America,Enterprise
+499,Charles Dolan,74.0,male,2.8,North America,Cablevision and HBO
+1587,Othman Benjelloun,81.0,male,2.8,Middle East/North Africa,RMA Watanya
+1589,Philippe Foriel-Destezet,78.0,male,2.8,Europe,Adecco
+1588,Peter Sondakh,62.0,male,2.8,East Asia,Golden Eagle Energy
+1615,Ron Burkle,61.0,male,2.7,North America,Yucaipa Companies
+1613,Qiu Guanghe,62.0,male,2.7,East Asia,Zhejiang Semir Garment
+1614,Robert Pera,35.0,male,2.7,North America,Ubiquiti Networks
+1602,Eva Maria Bucher-Haefner,57.0,female,2.7,Europe,CA Technologies
+1617,Ye Chenghai,70.0,male,2.7,East Asia,Shenzhen Salubris Pharmaceuticals
+1618,Yeoh Tiong Lay,84.0,male,2.7,East Asia,YTL Corporation
+1612,Patrice Motsepe,52.0,male,2.7,Sub-Saharan Africa,African Rainbow Minerals
+1599,Dagmar Dolby,72.0,female,2.7,North America,Dolby Laboratories
+1603,Hanni Toosbuy Kasprzak,56.0,female,2.7,Europe,ECCO
+1607,Law Kar Po,66.0,male,2.7,East Asia,Park Hotel Group
+1604,Jean-Michel Besnier,46.0,male,2.7,Europe,Lactalis
+333,Jean-Louis Dumas,57.0,male,2.7,Europe,Hermes
+1601,Elaine Wynn,70.0,female,2.7,North America,Wynn Resorts (formarly Mirage Resorts)
+1600,David Bonderman,71.0,male,2.7,North America,TPG Capital
+1605,Jeff Sutton,54.0,male,2.7,North America,Wharton Properties
+336,Dietmar Hopp,55.0,male,2.7,Europe,SAP AG
+1608,Liu Qiangdong,39.0,male,2.7,East Asia,JD.com
+345,Edgar Bronfman,67.0,male,2.7,North America,Seagrams
+1609,Marie Besnier Beauvalot,33.0,female,2.7,Europe,Lactalis
+1610,Michael Rubin,41.0,male,2.7,North America,Kynetic/GSI
+1611,Miguel Krigsner,64.0,male,2.7,Latin America,O Botic?rio
+337,Gunter Herz,55.0,male,2.7,Europe,Maxingvest AG
+342,Lim Goh Tong,78.0,male,2.7,East Asia,Genting Highlands
+343,Eugene Wu,,male,2.7,East Asia,Shin Kong Financial
+1606,Johan Johannson,47.0,male,2.7,Europe,Joh. Johannson
+1616,Tong Jinquan,59.0,male,2.7,East Asia,Summit
+526,Wang Yue-che,84.0,male,2.7,East Asia,Formosa Plastics
+525,Samuel LeFrak,,male,2.7,North America,LeFrack 
+524,Jeffrey Skoll,36.0,male,2.7,North America,Ebay
+523,Cheng Yu-tung,75.0,male,2.7,East Asia,Chow Tai Fook Enterprises
+522,Bruno Schroder,68.0,male,2.7,Europe,Schroders
+1629,Jason Chang,69.0,male,2.6,East Asia,Advanced Semiconductor Engineering
+1636,Reinhold Schmieding,59.0,male,2.6,North America,Arthrex Inc
+1644,Yasumitsu Shigeta,49.0,male,2.6,East Asia,Hikari Tsushin
+1643,Vladimir Bogdanov,62.0,male,2.6,Europe,Surgutneftegaz
+1642,Vasily Anisimov,62.0,male,2.6,Europe,Metalloinvest/Coalco
+1641,Ty Warner,69.0,male,2.6,North America,Ty Inc.
+1640,Torbjorn Tornqvist,60.0,male,2.6,Europe,Gunvor Group
+1639,Sze Man Bok,64.0,male,2.6,East Asia,Hengan Internationl Group Company Limited
+1638,Sean Parker,34.0,male,2.6,North America,"Napster, Plaxo, Airtime"
+1637,Richard Rainwater,69.0,male,2.6,North America,ENSCO International
+1635,Philip Green,,male,2.6,Europe,Arcadia
+540,Thomas Schmidheiny,55.0,male,2.6,Europe,Holcim
+1634,Patrick Lee,72.0,male,2.6,East Asia,Lee & Man Paper Manufacturing
+1633,Pan Zhengmin,44.0,male,2.6,East Asia,AAC Technologies
+1632,Martin Viessmann,60.0,male,2.6,Europe,Viessmann Group
+1631,Mark Cuban,55.0,male,2.6,North America,Broadcast.com
+1630,Maria Luisa Solari Falabella,73.0,female,2.6,Latin America,SACI Falabella
+1619,A. Jerrold Perenchio,83.0,male,2.6,North America,Univision
+1628,Hui Lin Chit,61.0,male,2.6,East Asia,Hengan Internationl Group Company Limited
+1627,"Herbert Allen, Jr.",74.0,male,2.6,North America,Allen & Company
+1626,Helmut Sohmen,74.0,male,2.6,Europe,BW Group
+1625,Emilio Azcarraga Jean,46.0,male,2.6,Latin America,Grupo Televisa
+1624,Edson de Godoy Bueno,70.0,male,2.6,Latin America,Amil
+1623,Danil Khachaturov,42.0,male,2.6,Europe,Rosgosstrakh
+1622,Daniel Mate,50.0,male,2.6,Europe,Glencore Xstrata
+1620,Anita Zucker,62.0,female,2.6,North America,Hudson's Bay Company
+1621,Cristina Green,,female,2.6,Europe,Arcadia
+357,Leo Kirch,,male,2.6,Europe,Kirch Group
+380,Samuel Johnson,67.0,male,2.6,North America,S. C. Johnson & Son
+354,Charles Bronfman,64.0,male,2.6,North America,Seagrams
+358,Von Siemens family,,,2.6,Europe,Siemens
+361,John Latsis,,male,2.6,Europe,EFG International
+362,Yaw Teck-seng,,male,2.6,East Asia,Samling Strategic Corp
+364,Alfred Heineken,,female,2.6,Europe,Heineken International
+372,Jaime Augusto Zobel de Ayala,,male,2.6,East Asia,Ayala Corporation
+373,George Ty,,male,2.6,East Asia,Metropolitan Bank and Trust Company
+381,Henry Hillman,77.0,male,2.6,North America,Pittsburgh Coke & Chemical
+538,Den Fujita,75.0,male,2.6,East Asia,McDonald's Japan
+539,Klaus Tschira,60.0,male,2.6,Europe,SAP AG
+382,Julio Bozano,60.0,male,2.5,Latin America,Banco Bozano Simonsen
+408,John van Vlissingen,57.0,male,2.5,Europe,BCD Holdings
+404,Yasuyuki Nambu,,male,2.5,East Asia,Pasona Inc
+403,Rinji Shino,,male,2.5,East Asia,Meiko Group
+398,Goroemon Yoshimoto,,male,2.5,East Asia,
+397,Henry Fok,72.0,male,2.5,East Asia,Sociedade de Turismo e Divers?es de Macau
+383,Porsche family,,,2.5,Europe,Porsche
+405,Rafik Al-Hariri,52.0,male,2.5,Middle East/North Africa,Saudi Oger
+384,Peter Livanos,,male,2.5,Europe,Ceres Hellenic
+406,Alejo Peralta,,male,2.5,Latin America,Groupo IUSA
+544,Alan Gerry,71.0,male,2.5,North America,Cablevision Industries
+413,Sheikh Saleh Bin Abdul Aziz Al-rajhi,,male,2.5,Middle East/North Africa,Al Rajhi bank
+552,Mustafa Rahmi Koc,70.0,male,2.5,Middle East/North Africa,Koc Holding
+422,Mohammed Jameel,,male,2.5,Middle East/North Africa,Abdul Latif Jameel Co. Ltd
+423,Maersk McKinney Moller,82.0,male,2.5,Europe,Maersk Group
+546,David Rockefeller,85.0,male,2.5,North America,Standard Oil
+548,Joan Kroc,,female,2.5,North America,McDonald's
+549,John Malone,60.0,male,2.5,North America,Tele-Communications Inc
+550,Kerry Packer,63.0,male,2.5,North America,Consolidated Press Holdings Limited
+551,Michael and Rainer Schmidt-Ruthenbeck,,male,2.5,Europe,Metro AG
+553,Otto Beisheim,77.0,male,2.5,Europe,Metro AG
+545,Bernard Ecclestone,70.0,male,2.5,Europe,Formula One Group
+554,Robert Rowling,47.0,male,2.5,North America,Tana Exploration Company
+1688,"William Wrigley, Jr.",50.0,male,2.5,North America,Wm Wrigley Jr. Company
+1687,William Fung,65.0,male,2.5,East Asia,Li & Fung Group
+555,Takemitsu Takizaki,55.0,male,2.5,East Asia,Keyence
+1686,William Erbey,64.0,male,2.5,North America,Ocwen Financial
+1685,Warren Stephens,57.0,male,2.5,North America,Stephans Inc.
+1672,Min Kao,65.0,male,2.5,North America,Garmin
+547,Eugenio Garza Lagnera,,male,2.5,Latin America,Femsa
+1673,Mochtar Riady,84.0,male,2.5,East Asia,Lippo Group
+1675,Pang Kang,58.0,male,2.5,East Asia,Foshan Haitian Flavoring and Food
+1660,Francisco Jose Riberas Mera,49.0,male,2.5,Europe,Corporation Gestamp SL
+1676,Patricia Matte,70.0,female,2.5,Latin America,CMPC
+424,Nicky Oppenheimer,50.0,male,2.5,Sub-Saharan Africa,De Beers
+1674,Neil Bluhm,76.0,male,2.5,North America,JMB Realty
+1653,Dan Friedkin,49.0,male,2.5,North America,Gulf States Toyota Distributors
+1654,Dan Gertler,40.0,male,2.5,Middle East/North Africa,DGI Group
+1655,David Cheriton,62.0,male,2.5,North America,Google
+1656,Eduardo Belmont Anderson,68.0,male,2.5,Latin America,Belcorp
+1657,Eliodoro Matte,68.0,male,2.5,Latin America,CMPC
+1658,Ennio Doris,73.0,male,2.5,Europe,Mediolanum SpA
+1659,Folorunsho Alakija,63.0,female,2.5,Sub-Saharan Africa,Famfa Limited
+1661,H. Wayne Huizenga,76.0,male,2.5,North America,Waste Management
+1678,Phillip Ruffin,78.0,male,2.5,North America,New Frontier Hotel and Casino
+1662,Henry Hillman,95.0,male,2.5,North America,Pittsburgh Coke & Chemical
+1663,Hubert Burda,74.0,male,2.5,Europe,Hubert Burda Media
+1664,Jack Dangermond,68.0,male,2.5,North America,Environmental Systems Research Institute
+1665,Jeff Greene,59.0,male,2.5,North America,
+1666,"John Dorrance, III.",70.0,male,2.5,Europe,Campbell Soup
+1667,Juan Maria Riberas Mera,,male,2.5,Europe,Corporation Gestamp SL
+1668,Juan-Miguel Villar Mir,82.0,male,2.5,Europe,Obrascon Huarte Lain S.A.
+1669,Kjell Inge Rokke,55.0,male,2.5,Europe,Aker Soulutions ASA
+1670,Madeleine Olsson Ericksson,69.0,female,2.5,Europe,Stena Sphere
+1671,Michael Milken,67.0,male,2.5,North America,Drexel Burnham Lambert
+1677,Philip Niarchos,60.0,male,2.5,Europe,Niarchos Ltd
+386,Michael Kadoorie,55.0,male,2.5,East Asia,CLP Holdings
+1682,Teddy Sagi,42.0,male,2.5,Middle East/North Africa,Playtech
+1646,Aristotelis Mistakidis,52.0,male,2.5,Europe,Glencore Xstrata
+1684,Valery Kogan,62.0,male,2.5,Europe,East Line Group
+1683,Timothy Headington,63.0,male,2.5,North America,Headington Oil
+1652,Clive Calder,67.0,male,2.5,Europe,Zomba Group
+1681,Stefan Olsson,65.0,male,2.5,Europe,Stena Sphere
+1680,Siegfried Meister,76.0,male,2.5,Europe,Rational AG
+432,George Soros,65.0,male,2.5,North America,Soros Fund Management
+1645,Abdulla Al Futtaim,,male,2.5,Middle East/North Africa,Al-Futtaim Group
+1679,Shigenobu Nagamori,69.0,male,2.5,East Asia,Nidec
+433,Abigail Johnson,34.0,female,2.5,North America,Fidelity Investments
+431,Banyong Lamsam,,male,2.5,East Asia,Kasikornbank
+430,Ernesto Bertarelli,30.0,male,2.5,Europe,Serono
+1647,Belmiro de Azevedo,75.0,male,2.5,Europe,Sonae SGPS
+1648,Bernardo Matte,58.0,male,2.5,Latin America,CMPC
+1649,Bernd Freier,57.0,male,2.5,Europe,s.Oliver
+1650,Charles Dunstone,50.0,male,2.5,Europe,The Carphone Warehouse
+1651,Chey Tae-Won,53.0,male,2.5,East Asia,SK Corporation
+434,Jon Huntsman,58.0,male,2.5,North America,Huntsman chemical
+1718,Silas Chou,67.0,male,2.4,East Asia,Michael Kors
+1720,Tilman Fertitta,56.0,male,2.4,North America,Landry's Restaurant
+1717,Sebastian Pinera,64.0,male,2.4,Latin America,Bancard
+1716,Saleh Kamel,72.0,male,2.4,Middle East/North Africa,Dallah al Baraka Group
+1719,Stephen Lansdown,61.0,male,2.4,Europe,Hargreaves Lansdown
+584,Mikhail Khodorkovsky,37.0,male,2.4,Europe,Yukos
+1721,Peter Lim,60.0,male,2.4,East Asia,Wilmar International
+581,Henry Nicholas,39.0,male,2.4,North America,Broadcom Corporation
+582,Laurence Tisch,,male,2.4,North America,Loews Corporation
+583,Leonard Stern,62.0,male,2.4,North America,Hartz Group
+1715,Rodney Lewis,60.0,male,2.4,North America,Lewis Energy
+447,Kanichiro Ishibashi,,male,2.4,East Asia,Bridgestone Corp
+1714,Richard Desmond,62.0,male,2.4,Europe,Northern & Shell
+1708,Ma Jianrong,50.0,male,2.4,East Asia,Shenzhou International
+448,Andrew Gotianun,,male,2.4,East Asia,Filinvest Development Corporation
+1695,Edwin Leong,62.0,male,2.4,East Asia,Tai Hung Fai Enterprise
+1696,Esther Grether,78.0,female,2.4,Europe,Doetsch Grether
+1697,George Argyros,77.0,male,2.4,North America,Arnel & Affiliates
+1699,Ingeburg Herz,92.0,female,2.4,Europe,Maxingvest AG
+1700,Juan Abello,72.0,male,2.4,Europe,Abello Laboratories
+1707,Louis Le Duff,67.0,male,2.4,Europe,Brioche Doree
+1689,Abdullah Al Rajhi,,male,2.4,Middle East/North Africa,Al Rajhi bank
+1706,Liang Yunchao,45.0,male,2.4,East Asia,Guangdong By-Health Biotechnology
+1705,Leszek Czarnecki,52.0,male,2.4,Europe,Getin Holding
+1704,Lawrence Stroll,54.0,male,2.4,North America,Michael Kors
+1701,Ken Fisher,63.0,male,2.4,North America,Fisher Investments
+1702,Kevin Plank,41.0,male,2.4,North America,Under Armour
+1703,Kwek Leng Beng,73.0,male,2.4,East Asia,Hong Leong Group
+441,Hisakazu Yamaguchi,,male,2.4,East Asia,Daiwan Can
+1698,Henry Fong Yun Wah,89.0,male,2.4,East Asia,Hip Shing Hong Group
+1690,Andrej Babis,59.0,male,2.4,Europe,Agrofert
+1693,Brijmohan Lall Munjal,90.0,male,2.4,South Asia,Hero Group
+1712,Onsi Sawiris,84.0,male,2.4,Middle East/North Africa,Orascom
+1711,Mortimer Zuckerman,76.0,male,2.4,North America,Boston Properties
+1710,Manuel Jove,72.0,male,2.4,Europe,Fadesa
+1709,Maja Oeri,59.0,female,2.4,Europe,Roche
+1692,Bharat Desai,61.0,male,2.4,North America,Syntel
+1691,Barry Diller,72.0,male,2.4,North America,IAC 
+1713,Pankaj Patel,60.0,male,2.4,South Asia,Cadila Healthcare
+1694,Carlos Ardila Lulle,83.0,male,2.4,Latin America,Organizacion Ardila Lulle
+1752,Xue Xiangdong,55.0,male,2.3,East Asia,DHC Software
+474,Kjeld Kirk Kristiansen,48.0,male,2.3,Europe,Lego
+1753,Youssef Mansour,68.0,male,2.3,Middle East/North Africa,Mansour Group
+449,Anacleto Angelini,82.0,male,2.3,Latin America,Angelini Group
+464,Leonardo Del Vecchio,60.0,male,2.3,Europe,?Luxottica
+605,William Davidson,78.0,male,2.3,North America,Guardian Industries
+604,Terry Gou,,male,2.3,East Asia,Foxconn
+603,Susan Thompson Buffett,68.0,female,2.3,North America,Berkshire Hathaway
+478,Robert Bass,48.0,male,2.3,North America,Sid Richardson Gasoline Co
+602,Robert Bosch Jr,73.0,male,2.3,Europe,Robert Bosch GmbH
+470,Michele Ferrero,69.0,male,2.3,Europe,Ferrero spa
+473,Kim Woo-choong,,male,2.3,East Asia,Daewoo Group
+450,Dieter Schwarz,,male,2.3,Europe,Schwarz Group
+472,Akio Morita,,male,2.3,East Asia,Sony
+471,Eitaro Itoyama,53.0,male,2.3,East Asia,
+601,Richard Schulze,60.0,male,2.3,North America,Best Buy
+462,Ciputra,,male,2.3,East Asia,Ciputra Development
+599,Ralph Lauren,62.0,male,2.3,North America,Ralph Lauren
+598,Martin Bouygues,49.0,male,2.3,Europe,Bouygues S.A.
+597,Henry Samueli,46.0,male,2.3,North America,Broadcom Corporation
+596,Gordon Getty,60.0,male,2.3,North America,Getty 
+595,George Kaiser,58.0,male,2.3,North America,Kaiser-Francis Oil Company
+600,Ray Hunt,58.0,male,2.3,North America,Hunt Oil. Co
+1751,Xu Jingren,69.0,male,2.3,East Asia,Yangtze River Pharmaceutical Group
+1750,Wang Changtian,48.0,male,2.3,East Asia,Beijing Enlight
+1729,Chen Fashu,53.0,male,2.3,East Asia,Zijin Mining Group
+1735,James France,69.0,male,2.3,North America,NASCAR
+1734,Indu Jain,77.0,female,2.3,South Asia,"Bennett, Coleman & Co Ltd."
+1733,Henadiy Boholyubov,52.0,male,2.3,Europe,Privatbank
+1732,George Ty,81.0,male,2.3,East Asia,Metropolitan Bank and Trust Company
+1731,David Murdock,90.0,male,2.3,North America,Dole Food Company
+1730,"Clemmie Spangler, Jr.",81.0,male,2.3,North America,Bank of North Carolina
+1728,Caprotti Bernardo,88.0,male,2.3,Europe,Esselunga
+1737,Jean Claude Gandur,65.0,male,2.3,Europe,Addax Petroleum
+1727,Cai Kui,51.0,male,2.3,East Asia,Longfor Properties
+1726,Bill Gross,69.0,male,2.3,North America,PIMCO
+1725,"Bernard Saul, II.",81.0,male,2.3,North America,B. F. Saul Company
+1724,Alexander Skorobogatko,46.0,male,2.3,Europe,NCSP Group
+1723,Alexander Ponomarenko,49.0,male,2.3,Europe,NCSP Group
+1722,Alexander Mamut,54.0,male,2.3,Europe,Livejournal
+1736,Jean (Gigi) Pritzker,52.0,female,2.3,North America,Hyatt
+477,Stephan Schmidheiny,48.0,male,2.3,Europe,Holcim
+1747,Robert Miller CA,68.0,male,2.3,North America,Future Electronics
+1743,Mario Moretti Polegato,61.0,male,2.3,Europe,Geox
+1745,Penny Pritzker,54.0,female,2.3,North America,Hyatt
+1746,Richard Marriott,75.0,male,2.3,North America,Marriot
+1742,Kuok Khoon Hong,64.0,male,2.3,East Asia,Wilmar International
+1741,Kenneth Langone,78.0,male,2.3,North America,Home Depot
+1740,Julio Ponce,68.0,male,2.3,Latin America,Quimica y Minera de Chile
+1739,John Whittaker,71.0,male,2.3,Europe,The Peel Group
+1744,Michal Solowow,51.0,male,2.3,Europe,Synthos
+1748,Stanley Hubbard,80.0,male,2.3,North America,Hubbard Broadcasting Inc
+1749,Victor Fung,68.0,male,2.3,North America,Li & Fung Group
+1738,Jia Yueting,41.0,male,2.3,East Asia,Leshi Television
+1782,Stephen Bisciotti,53.0,male,2.2,North America,Allegis Group
+639,Thomas Siebel,48.0,male,2.2,North America,Siebel Systems
+1781,Semahat Arsel,85.0,female,2.2,Middle East/North Africa,Koc Holding
+1780,Rossana Camargo de Arruda Botelho,64.0,female,2.2,Latin America,Grupo Camargo Correra
+638,Tadahiro Yoshida,54.0,male,2.2,East Asia,YKK
+634,Maersk McKinney Moller,87.0,male,2.2,Europe,Maersk Group
+1785,Goh Cheng Liang,,male,2.2,East Asia,Nipsea
+1783,Ted Turner,75.0,male,2.2,North America,CNN
+1784,Tor Peterson,49.0,male,2.2,North America,Glencore Xstrata
+635,Martha Ingram,65.0,female,2.2,North America,Ingram Industries
+627,Barbara Piasecka Johnson,64.0,female,2.2,North America,Johnson & Johnson
+628,Bernard Sherman,59.0,male,2.2,North America,Empire Laboratories
+629,David Duffield,60.0,male,2.2,North America,PeopleSoft
+630,Frank Lowy,70.0,male,2.2,North America,Westfield Group
+637,Shiv Nadar,55.0,male,2.2,South Asia,HCL
+632,James Kim,65.0,male,2.2,North America,Amkor
+633,Jean-Claude Decaux,63.0,male,2.2,Europe,JCDecaux
+636,Nancy Walton Laurie,49.0,female,2.2,North America,Walmart
+631,H Wayne Huizenga,63.0,male,2.2,North America,Waste Management
+1760,Giuseppe De'Longhi,74.0,male,2.2,Europe,De'Longhi Group
+1756,"Bill Marriott, Jr.",81.0,male,2.2,North America,Marriot
+1757,Bulat Utemuratov,56.0,male,2.2,South Asia,ATF Bank
+1755,Bahaa Hariri,47.0,male,2.2,Middle East/North Africa,Saudi Oger
+492,Akihiko Otsuka,,male,2.2,East Asia,Otsuka Holdings
+491,Prajogo Pangestu,,male,2.2,East Asia,Barito Pacific
+482,Adrian and John Swire,,male,2.2,East Asia,Swire
+481,Andronico Luksic,69.0,male,2.2,Latin America,Antofagasta
+1765,John de Mol,58.0,male,2.2,Europe,Endemol
+1758,Chip Wilson,57.0,male,2.2,North America,Lululemon Athletica
+1766,Kalanithi Maran,48.0,male,2.2,South Asia,Sun Group
+1759,Daniel Loeb,52.0,male,2.2,North America,Third Point LLC
+1764,Joe Mansueto,57.0,male,2.2,North America,"Morningstar, Inc"
+1763,Jiang Rensheng,60.0,male,2.2,East Asia,Chongqing Zhifei Biological Products
+1762,Jean Coutu,86.0,male,2.2,North America,Jean Coutu Group
+1761,Jack Dorsey,37.0,male,2.2,North America,Twitter
+1767,Lindsay Fox,76.0,male,2.2,North America,Linfox
+1754,Andreas Halvorsen,52.0,male,2.2,Europe,Viking Global Equities
+1768,Manuel Lao Hernandez,69.0,male,2.2,Europe,Cirsa
+1772,Moise Safra,79.0,male,2.2,Latin America,Banco Safra (now Saftra Group)
+1778,Richard Peery,75.0,male,2.2,North America,
+1776,Regina de Camargo Pires Oliveira Dias,60.0,female,2.2,Latin America,Grupo Camargo Correra
+1775,Peter Thiel,46.0,male,2.2,North America,PayPal
+1774,Naruatsu Baba,36.0,male,2.2,East Asia,Colopl
+1773,Nadhmi Auchi,76.0,male,2.2,Europe,General Mediterranean Holding
+493,Kazuo Matsuda,,male,2.2,East Asia,Nichiei
+512,Lee Bass,39.0,male,2.2,North America,Sid Richardson Gasoline Co
+1771,Martin Naughton,74.0,male,2.2,Europe,Glen Dimplex Group
+1770,Martin Haefner,60.0,male,2.2,Europe,CA Technologies
+1769,Mark Coombs,53.0,male,2.2,Europe,Ashmore Group
+495,Lucio Tan,61.0,male,2.2,East Asia,Asia Brewery
+497,Philip Anschutz,56.0,male,2.2,North America,Circle A Drilling
+506,Marvin Davis,70.0,male,2.2,North America,Davis Petroleum
+1779,Romesh T. Wadhwani,66.0,male,2.2,North America,Symphony Technology Group
+1777,Renata de Camargo Nascimento,63.0,female,2.2,Latin America,Grupo Camargo Correra
+675,Steven Spielberg,54.0,male,2.1,North America,DreamWorks
+674,Sergio Mantegazza,73.0,male,2.1,Europe,Globus
+1825,Herbert Simon,79.0,male,2.1,North America,Simon Property Group
+527,Kumar Birla,28.0,male,2.1,South Asia,Aditya Birla Group
+542,Leonard Lauder,62.0,male,2.1,North America,Est?Lauder
+673,Sammy Ofer,,male,2.1,Middle East/North Africa,Zodiac Maritime Agencies
+528,Masahiro Ohga,,male,2.1,East Asia,
+543,Ronald Lauder,59.0,male,2.1,North America,Est?Lauder
+672,Louis Gonda,52.0,male,2.1,North America,ILFC
+671,John Dorrance,57.0,male,2.1,Europe,Campbell Soup
+670,Ernest Stempel,84.0,male,2.1,0,AIG
+669,Edmund Wattis Littlefield,,male,2.1,North America,Utah Contstruction Company
+668,Charles Johnson,68.0,male,2.1,North America,Franklin Resources
+667,Adrian Swire,70.0,male,2.1,Europe,Swire
+666,Adolf Merckle,66.0,male,2.1,Europe,Ratiopharm
+665,Achille Maramotti,74.0,male,2.1,Europe,MaxMara
+664,Abdullah Al Rajhi,,male,2.1,Middle East/North Africa,Al Rajhi bank
+1823,Zhou Hongyi,43.0,male,2.1,East Asia,Qihoo
+521,Funke family,,,2.1,Europe,
+516,Anneliese Brost,75.0,female,2.1,Europe,Westdeutsche Allgemeine Zeitung
+515,Stefan Schoerghuber,34.0,male,2.1,Europe,Schorghuber Group
+514,Philippe Bouriez,,male,2.1,Europe,Cora
+513,Roberto Marinho,,male,2.1,Latin America,Globo Organizations
+1824,Zhu Gongshan,56.0,male,2.1,East Asia,GCL-Poly Energy Holdings
+1802,Jerry Yang,45.0,male,2.1,North America,Yahoo!
+1822,Zhang Li,61.0,male,2.1,East Asia,Guangzho R&F
+1815,Sukanto Tanoto,64.0,male,2.1,East Asia,Royal Golden Eagle International
+536,Lee Seng Wee,71.0,male,2.1,East Asia,Oversea-Chinese Banking Corporation
+1803,Johnelle Hunt,82.0,female,2.1,North America,J.B. Hunt Transport Services
+1804,Lee Bass,57.0,male,2.1,North America,Sid Richardson Gasoline Co
+1805,Liu Zhongtian,50.0,male,2.1,East Asia,Zhongwang Holdings
+1806,Malvinder and Shivinder Singh,,male,2.1,South Asia,Ranbaxy Laboratories
+1807,Michael Jaharis,85.0,male,2.1,North America,Kos Pharmaceuticals
+1808,Mustafa Rahmi Koc,83.0,male,2.1,Middle East/North Africa,Koc Holding
+1809,N. Murray Edwards,54.0,male,2.1,North America,Canadian Natural Resources
+1810,Raj Kumar & Kishin RK,59.0,male,2.1,East Asia,Royal Holdings/RB Capital
+1811,Reinfried Pohl,85.0,male,2.1,Europe,Deutsche Verm?gensberatung?
+1812,Richard Schulze,73.0,male,2.1,North America,Best Buy
+1821,Vincent Lo,65.0,male,2.1,East Asia,Shui On Group
+556,Ted Turner,57.0,male,2.1,North America,CNN
+558,Michel Fribourg,,male,2.1,North America,Continental Grain Company
+1813,Sandro Veronesi,54.0,male,2.1,Europe,Calzedonia Group
+1801,James Coulter,54.0,male,2.1,North America,TPG Capital
+1800,Ihor Kolomoyskyy,51.0,male,2.1,Europe,Privatbank
+1799,Igor Makarov,51.0,male,2.1,Europe,Itera
+1790,B. Wayne Hughes,80.0,male,2.1,North America,Public Storage
+541,Thaksin Shinawatra,,male,2.1,East Asia,Advanced Info Service
+537,Jeffrey Koo Sr,,male,2.1,East Asia,Koos Group
+1786,Alexander Dzhaparidze,58.0,male,2.1,Europe,Petroalliance
+1787,Alexander Knaster,55.0,male,2.1,North America,Pamplona Capital Management
+1788,Alicia Koplowitz,59.0,female,2.1,Europe,Construcciones y Contratas
+1789,Antonio Luiz Seabra,71.0,male,2.1,Latin America,Natura Cosmeticos
+1791,Charles Bronfman,82.0,male,2.1,North America,Seagrams
+1798,Howard Schultz,60.0,male,2.1,North America,Starbucks
+1792,David Hains,83.0,male,2.1,North America,Portland House Group
+1793,David Penaloza Sandoval,67.0,male,2.1,Latin America,Pinfra
+1794,Edward Bass,69.0,male,2.1,North America,Sid Richardson Gasoline Co
+1795,Ferit Sahenk,49.0,male,2.1,Middle East/North Africa,Dogus Holding
+1796,Gerald J. Ford,69.0,male,2.1,North America,Golden State Bancorp
+1797,Helena Revoredo,67.0,female,2.1,Europe,Prosegur
+1814,"Stephen Mandel, Jr.",57.0,male,2.1,North America,Lone Pine Capital
+529,Ryoichi Jinnai,69.0,male,2.1,East Asia,Promise Consumer Finance
+1819,Thomas Bruch,63.0,male,2.1,Europe,Globus & Co.
+1820,Tom Golisano,72.0,male,2.1,North America,Paychex
+1816,Sylvia Stroher,58.0,female,2.1,Europe,Wella AG
+1818,Taizo Son,,male,2.1,East Asia,GungHo Online Entertainment
+1817,T.Y. Tsai,,male,2.1,East Asia,Cathay Financial
+1879,Vyacheslav Kantor,60.0,male,2.0,Europe,Acron Group
+1836,Carlo Fidani,59.0,male,2.0,North America,Orlando Corp
+1882,Alex Beard,46.0,male,2.0,Europe,Glencore Xstrata
+1881,William Fisher,56.0,male,2.0,North America,The Gap
+1880,Wang Wenxue,46.0,male,2.0,East Asia,China Fortune Land Development
+1877,Thomas Siebel,61.0,male,2.0,North America,Siebel Systems
+1878,Tsai Hong-tu,61.0,male,2.0,East Asia,Cathay Life Insurance
+1834,Cai Dongqing,44.0,male,2.0,East Asia,Guangdong Alpha Animation and Culture Co
+1876,Sun Weijie,50.0,male,2.0,East Asia,Yantai Jereh Oilfield Services Group
+1875,Sit Kwong Lam,46.0,male,2.0,East Asia,Shenzhen Brightoil Group
+1874,Shin Chang-Jae,60.0,male,2.0,East Asia,Kyobo Life Insurance
+1873,Shen Guojun,51.0,male,2.0,East Asia,Intime Retail
+1837,Carlos Hank Rhon,66.0,male,2.0,Latin America,Grupo Financiero Interacciones
+1835,Carl Bennet,62.0,male,2.0,Europe,Carl Bennet AB
+1857,John Farber,88.0,male,2.0,North America,ICC Industries
+1833,Bruce Karsh,58.0,male,2.0,North America,Oaktree Capital Management
+1839,Chanchai Ruayrungruang,60.0,male,2.0,East Asia,Reignwood Group
+1832,Brad Kelley,57.0,male,2.0,North America,Commonwealth Brands
+1831,Bennett Dorrance,68.0,male,2.0,North America,Campbell Soup
+1830,Benjamin de Rothschild,50.0,male,2.0,Europe,Edmond de Rothschild Group
+1829,Bachtiar Karim,57.0,male,2.0,East Asia,Musim Mas
+1828,Arne Wilhelmsen,83.0,male,2.0,Europe,Royal Caribbean Cruises
+1827,Alexei Ananyev,49.0,male,2.0,Europe,Technoserv
+1826,Alec Gores,60.0,male,2.0,North America,The Gores Group
+1883,Henry Samueli,59.0,male,2.0,North America,Broadcom Corporation
+1884,Nevaldo Rocha,84.0,male,2.0,Latin America,Riachuelo
+1885,S. Daniel Abraham,89.0,male,2.0,North America,Slim-Fast
+1886,Shin Dong-Bin,59.0,male,2.0,East Asia,Lotte Group
+1887,Wu Yiling,64.0,male,2.0,East Asia,Yiling Pharmaceuticals
+1838,Catherine Lozick,69.0,female,2.0,North America,Swagelok
+1841,Daniel Pritzker,55.0,male,2.0,North America,Hyatt
+1840,Clayton Mathile,73.0,male,2.0,North America,Iams
+1858,John Pritzker,61.0,male,2.0,North America,Hyatt
+1859,Jorge Perez,64.0,male,2.0,North America,The Related Companies
+1860,Jose and Francisco Jose Calderon Rojas,59.0,male,2.0,Latin America,FEMSA
+1861,Li Sze Lim,57.0,male,2.0,East Asia,Guangzho R&F
+1862,Matt & Dan Walsh,,male,2.0,North America,Walsh Group
+1863,Meg Whitman,57.0,female,2.0,North America,Hewlett-Packard
+1856,Jim Breyer,52.0,male,2.0,North America,Breyer Capital
+1855,James Dinan,54.0,male,2.0,North America,York Capital management
+1864,Nicolas Berggruen,52.0,male,2.0,North America,Alpha Investment Management
+1865,Nicolas Puech,71.0,male,2.0,Europe,Hermes
+1854,Howard Marks,67.0,male,2.0,North America,Oaktree Capital Management
+621,Ray Hunt,53.0,male,2.0,North America,Hunt Oil. Co
+1853,Heloise Waislitz,51.0,female,2.0,North America,Visy Industries
+1852,Guy Laliberte,54.0,male,2.0,North America,Cirque du Soleil
+1851,Gordon Getty,80.0,male,2.0,North America,Getty 
+1850,Georg von Opel,47.0,male,2.0,Europe,Opel
+1849,Florentino Perez,66.0,male,2.0,Europe,Actividades de Construccion y Servicios
+1848,Fiona Geminder,49.0,female,2.0,North America,Visy Industries
+1847,Erwin Franz Mueller,81.0,male,2.0,Europe,Mueller
+1846,"Drayton McLane, Jr.",77.0,male,2.0,North America,McLane Company
+1844,Dmitry Ananyev,45.0,male,2.0,Europe,Technoserv
+1866,Noam Gottesman,52.0,male,2.0,North America,GLG Partners
+1867,Or Wai Sheun,62.0,male,2.0,East Asia,Kowloon Development
+1868,Robert Fisher,60.0,male,2.0,North America,The Gap
+1869,Robert McNair,77.0,male,2.0,North America,Cogen Technologies
+1870,Ron Baron,70.0,male,2.0,North America,Baron Capital Group
+1871,Roustam Tariko,51.0,male,2.0,Europe,Russian Standard Vodka
+1872,Sam Goi,65.0,male,2.0,East Asia,Tee Yih Jia Food Manufacturing
+1843,Dermot Desmond,63.0,male,2.0,Europe,International Investment and Underwriting
+1842,Dean White,90.0,male,2.0,North America,Whiteco Industries
+1845,Dmitry Pumpyansky,49.0,male,2.0,Europe,TMK Pipes
+619,James Goodnight,53.0,male,2.0,North America,SAS institute
+585,Emilio Azcarraga Jean,28.0,male,2.0,Latin America,Grupo Televisa
+699,Ayhan Sahenk,,male,2.0,Middle East/North Africa,Dogus Holding
+713,Robert Naify,79.0,male,2.0,North America,
+712,Richard Li,34.0,male,2.0,East Asia,Cheung king
+711,Richard Egan,65.0,male,2.0,North America,EMC Corporation
+710,Peter Kellogg,58.0,male,2.0,North America,"Spear, Leeds & Kellogg"
+709,Patrick McGovern,63.0,male,2.0,North America,International Data Goup
+708,John Morgridge,67.0,male,2.0,North America,Cisco Systems
+707,John Menard,61.0,male,2.0,North America,Menards
+706,Jeffrey Bezos,37.0,male,2.0,North America,Amazon
+705,Hugo Mann,87.0,male,2.0,Europe,Mann Mobilia
+704,Hubert Burda,61.0,male,2.0,Europe,Hubert Burda Media
+703,Georg Thyssen-Bornemisza,,male,2.0,Europe,TBG (Thyssen-Bornemisza Group) Holdings
+702,Gary Winnick,,male,2.0,North America,Global Crossing limited
+701,Fayez Sarofim,72.0,male,2.0,North America,Fayez Sarofim & Co
+698,Antonio Champalimaud,82.0,male,2.0,Europe,Maceira Liz
+580,Luciano Benetton,60.0,male,2.0,Europe,Benetton Group
+586,John Gokongwei,,male,2.0,East Asia,JG Summit Holdings
+593,Henry Sy,71.0,male,2.0,East Asia,SM Malls
+594,Manuel Villar,,male,2.0,East Asia,C&P Homes
+606,Emilio Botin,61.0,male,2.0,Europe,Grupo Santander
+607,Thomas Schmidheiny,50.0,male,2.0,Europe,Holcim
+608,George Lucas,51.0,male,2.0,North America,Lucasfilm
+609,Charles Koch,60.0,male,2.0,North America,Koch industries
+640,Preston Tisch,69.0,male,2.0,North America,Loews Corporation
+626,Laurence Tisch,,male,2.0,North America,Loews Corporation
+613,David Koch,55.0,male,2.0,North America,Koch industries
+614,Lester Crown,70.0,male,2.0,North America,General Dynamics
+615,Donald Bren,63.0,male,2.0,North America,Irvine Company
+618,Martha Ingram,60.0,female,2.0,North America,Ingram Industries
+714,Theodore Waitt,38.0,male,2.0,North America,Gateway
+700,Edward Gaylord,,male,2.0,North America,Gaylord Entertainment Company
+579,Theodore Arison,,female,2.0,Middle East/North Africa,Carnival Corporation
+572,Peter Woo,50.0,male,2.0,East Asia,Worldwide Shipping Group
+570,Alfred von Oppenheim,,male,2.0,Europe,?Sal. Oppenheim
+569,Verspieren family,,,2.0,Europe,Verspieren
+568,Jacques Servier,,male,2.0,Europe,Laboratories Servier
+567,Alain Wertheimer,,male,2.0,Europe,Chanel
+562,Dirce Navarro Camargo,,female,2.0,Latin America,Camargo Correa Group
+561,Roberto Rocca,,male,2.0,Latin America,Techint
+578,Djuhar Sutanto,,male,2.0,East Asia,Salim Group
+1893,Daniel Roullier,77.0,male,1.9,Europe,Groupe Roullier
+1897,Eduardo Eurnekian,81.0,male,1.9,Latin America,Corporacion America
+1896,Dulce Pugliese de Godoy Bueno,66.0,female,1.9,Latin America,Amil
+1895,Donald Sterling,78.0,male,1.9,North America,Lesser Towers
+1894,David Gottesman,87.0,male,1.9,North America,First Manhattan
+1889,Andrei Klyamko,52.0,male,1.9,Europe,Smart-Holding
+1892,Chandru Raheja,73.0,male,1.9,South Asia,K. Raheja Corp
+1891,Bob Parsons,63.0,male,1.9,North America,Go Daddy
+1890,Andrei Kozitsyn,53.0,male,1.9,Europe,Urals mining and Metals Company
+1900,Fu Meicheng,56.0,male,1.9,East Asia,Zhejiang Huace Film & TV
+1888,Alvaro Saieh Bendeck,64.0,male,1.9,Latin America,Corpbanca
+1898,Fayez Sarofim,85.0,male,1.9,North America,Fayez Sarofim & Co
+1904,John Kapoor,70.0,male,1.9,North America,INSYS Thereputics
+1901,Hans Melchers,75.0,male,1.9,Europe,HAL Investments
+1902,Ian Wood,71.0,male,1.9,Europe,Wood Group
+1903,John Arrillaga,76.0,male,1.9,North America,
+769,Terence Matthews,,male,1.9,North America,Mitel
+1905,Jonathan Harmsworth,46.0,male,1.9,Europe,Associated Newspapers
+1906,Lev Kvetnoi,48.0,male,1.9,Europe,Vnukovo Airport
+1907,Liao Long-Shing,,male,1.9,East Asia,Chang Chun Group
+1908,Lirio Parisotto,60.0,male,1.9,Latin America,Geracao Futuro L Par
+1909,Michael Klein,63.0,male,1.9,Latin America,Casas Bahia
+1910,Mikhail Balakin,52.0,male,1.9,Europe,SU-155
+1911,Miloud Chaabi,85.0,male,1.9,Middle East/North Africa,Ynna Holding
+1912,Mo Tianquan,50.0,male,1.9,East Asia,SouFun Holdings
+770,Yasuyuki Nambu,,male,1.9,East Asia,Pasona Inc
+641,Shoji Uehara,,male,1.9,East Asia,Taisho Pharmaceutical
+768,Stefan Schoerghuber,,male,1.9,Europe,Schorghuber Group
+760,Leona Helmsley,81.0,female,1.9,North America,Helmsley hotels
+750,Abdul Aziz Al Ghurair,47.0,male,1.9,Middle East/North Africa,Al-Ghurair Group
+751,Akihiko Otsuka,,male,1.9,East Asia,Otsuka Holdings
+752,Alberto Bailleres Gonzalez,68.0,male,1.9,Latin America,Penoles
+753,Arthur Blank,58.0,male,1.9,North America,Home Depot
+754,Glen Taylor,59.0,male,1.9,North America,Taylor Corporation
+755,Jim Pattison,72.0,male,1.9,North America,Jim Pattison Group
+1914,Norman Braman,81.0,male,1.9,North America,Braman Enterprises
+756,John Hargreaves,57.0,male,1.9,Europe,Matalan
+757,John Jahr,,male,1.9,Europe,
+758,Khalid Bin Mahfouz,54.0,male,1.9,Middle East/North Africa,National Comercial bank of Saudi Arabia
+759,Kjeld Kirk Kristiansen,53.0,male,1.9,Europe,Lego
+658,John Simplot,87.0,male,1.9,North America,J.R. Simplot Company
+767,Sam Zell,59.0,male,1.9,North America,Equity Group Investments
+657,William Wrigley,32.0,male,1.9,North America,Wm Wrigley Jr. Company
+761,Lowry Mays,,male,1.9,North America,Clear Channel Communications
+648,David Geffen,53.0,male,1.9,North America,Asylum Records/Geffen Records/Dreamworks
+647,Mary Alice Dorrance Malone,46.0,female,1.9,North America,Campbell Soup
+646,Sid Bass,53.0,male,1.9,North America,Sid Richardson Gasoline Co
+762,Masao Morita,,male,1.9,East Asia,Sony
+763,Michael Krasny,47.0,male,1.9,North America,CDW Corporation
+764,Paolo Bulgari,,male,1.9,Europe,Bulgari
+642,Chaijudh Karnasuta,,male,1.9,East Asia,Italian-Thai development
+765,Richard Rainwater,56.0,male,1.9,North America,ENSCO International
+766,Robert Fisher,47.0,male,1.9,North America,The Gap
+1913,Mohamed Al Fayed,85.0,male,1.9,Middle East/North Africa,House of Fraser
+1899,Fritz Draexlmaier,,male,1.9,Europe,Draxlmaier Group
+1915,Pat Stryker,57.0,female,1.9,North America,Stryker Corporation
+1930,Ajay Kalsi,53.0,male,1.9,South Asia,Indusgas
+1916,Richard Li,47.0,male,1.9,East Asia,Cheung Kong
+1944,Theodore Rachmat,70.0,male,1.9,East Asia,Triputra Group
+1943,Tahir family,61.0,male,1.9,East Asia,Mayapada Group
+1942,Suna Kirac,72.0,female,1.9,Middle East/North Africa,Koc Holding
+1941,Sun Piaoyang,55.0,male,1.9,East Asia,Jiangsu Hengrui Medicine
+1939,Rahul Bajaj,75.0,male,1.9,South Asia,Bajaj Group
+1938,Mitchell Goldhar,52.0,male,1.9,North America,SmartCenters
+1937,Marc Ladreit de Lacharriere,73.0,male,1.9,Europe,FIMALAC
+1936,Li Zhongchu,50.0,male,1.9,East Asia,Beijing Shiji Information Technology
+1935,Li Shufu,50.0,male,1.9,East Asia,Geely Automobile
+1934,Kavitark Ram Shriram,57.0,male,1.9,North America,Google
+1933,Hans-Werner Hector,74.0,male,1.9,Europe,SAP AG
+1932,Diego Della Valle,60.0,male,1.9,Europe,Tod's
+1931,Ayman Asfari,55.0,male,1.9,Europe,Petrofac
+1940,Stewart Rahr,68.0,male,1.9,North America,Kinray Inc
+1929,Wolfgang Leitner,60.0,male,1.9,Europe,Andritz AG
+1923,Sulaiman Al Rajhi,94.0,male,1.9,Middle East/North Africa,Al Rajhi bank
+1917,Robert Duggan,69.0,male,1.9,North America,Pharmacyclics
+1918,Ronald Southern,83.0,male,1.9,North America,ATCO
+1919,Rubens Ometto Silveira Mello,64.0,male,1.9,Latin America,Cosan
+1921,Song Zuowen,66.0,male,1.9,East Asia,Nanshan Group
+1922,Subhash Chandra,63.0,male,1.9,South Asia,Essel Group
+1920,Sid Bass,71.0,male,1.9,North America,Sid Richardson Gasoline Co
+1924,Tseng Shin-Yi,86.0,male,1.9,East Asia,Chang Chun Group
+1925,Wei Ing-Chou,61.0,male,1.9,East Asia,Tingyi
+1926,Wei Yin-Chun,57.0,male,1.9,East Asia,Tingyi
+1927,Wei Ying-Chiao,59.0,male,1.9,East Asia,Tingyi
+1928,Wei Yin-Heng,55.0,male,1.9,East Asia,Tingyi
+2001,Marian Ilitch,,female,1.8,North America,Little Ceasers Pizza
+1992,Zhu Xingliang,54.0,male,1.8,East Asia,Suzhou Gold Mantis
+2000,Lynda Resnick,,female,1.8,North America,"Teleflora, Pistachios, POM, Fij"
+1999,Judy Love,,female,1.8,North America,Love's Travel Stops & Country Stores
+1998,John Brown,79.0,male,1.8,North America,Stryker Corporation
+1997,Jayme Garfinkel,67.0,male,1.8,Latin America,Porto Seguro Seguros
+1996,Gerald Schwartz,72.0,male,1.8,North America,Onex Corporation
+1995,David Nahmad,66.0,male,1.8,Europe,
+1994,Bill Adderley,66.0,male,1.8,Europe,Dunelm
+1993,Alain Bouchard,64.0,male,1.8,North America,Alimentation Couche-Tard
+1986,Tiong Hiew King,78.0,male,1.8,East Asia,Rimbunan Hijau Group
+1991,Zhang Zhirong,45.0,male,1.8,East Asia,China Rongsheng
+1990,Yuri Milner,52.0,male,1.8,Europe,Digital Sky Technologies (Mail.ru)
+1989,Yasseen Mansour,52.0,male,1.8,Middle East/North Africa,Mansour Group
+1988,Wu Guangming,52.0,male,1.8,East Asia,Jiangsu Yuyue Medical Equipment and Supply
+1987,Tsai Cheng-da,,male,1.8,East Asia,Cathay Life Insurance
+1982,Sunny Varkey,56.0,male,1.8,South Asia,GEMS Education
+1985,Timur Kulibaev,47.0,male,1.8,South Asia,Halyk Bank
+1984,Thomas Meyer,,male,1.8,Europe,Desigual
+1983,Susan Hirt Hagen,77.0,female,1.8,North America,Erie Indemnity
+2003,Michael Ilitch,,male,1.8,North America,Little Ceasers Pizza
+2002,Michael Hintze,60.0,male,1.8,North America,CQS
+825,Juan and Carlos March,,male,1.8,Europe,Acciona Trasmediterranea
+2004,Murdaya Poo,73.0,male,1.8,East Asia,Central Cipta Murdaya
+2005,Prasert Prasarttong-Osoth,80.0,male,1.8,East Asia,Bangkok Dusit Medical Services
+833,Richard Farmer,66.0,male,1.8,North America,Cintas Corporation
+832,Richard Branson,50.0,male,1.8,Europe,Virgin Group
+831,Mary Alice Dorrance Malone,51.0,female,1.8,North America,Campbell Soup
+830,Maria Asuncion Aramburuzabala,37.0,female,1.8,Latin America,Grupo Modelo
+829,Leslie Gonda,81.0,male,1.8,North America,ILFC
+828,Lakshmi Mittal,50.0,male,1.8,Europe,ArcelorMittal
+827,Kenichi Mabuchi,48.0,male,1.8,East Asia,Mabuchi Motor Company
+826,Julio Bozano,65.0,male,1.8,Latin America,Banco Bozano Simonsen
+1980,Ronald Wanek,72.0,male,1.8,North America,Ashley Furniture
+824,John Fisher,39.0,male,1.8,North America,The Gap
+823,Jeronimo Arango,75.0,male,1.8,Latin America,Aurrera
+822,Irwin Jacobs,67.0,male,1.8,North America,Qualcomm
+821,Herbert Allen,61.0,male,1.8,North America,Allen & Company
+820,Donald Hall,72.0,male,1.8,North America,Hallmark Cards
+819,Daniel Abraham,,male,1.8,North America,Slim-Fast
+818,Charles Butt,62.0,male,1.8,North America,H-E-B supermarket
+817,Carl Pohlad,85.0,male,1.8,North America,Marquette Bank
+816,Blase Golisano,59.0,male,1.8,North America,Paychex
+2008,Tom Love,,male,1.8,North America,Love's Travel Stops & Country Stores
+2007,Stewart Resnick,,male,1.8,North America,"Teleflora, Pistachios, POM, Fij"
+2006,Shin Dong-Joo,60.0,male,1.8,East Asia,Lotte Group
+1981,Stanley Perron,91.0,male,1.8,North America,Hancock Prospecting
+1964,Irwin Jacobs,80.0,male,1.8,North America,Qualcomm
+1978,Rishad Naoroji,62.0,male,1.8,South Asia,Godrej Group
+1954,Dinara Kulibaeva,46.0,female,1.8,South Asia,Halyk Bank
+677,Teh Hong Piow,56.0,male,1.8,East Asia,Public Bank
+676,Edmond Safra,,male,1.8,Middle East/North Africa,Banco Safra (now Saftra Group)
+663,Lorenzo Rossi di Montelera,,male,1.8,Europe,Martini & Rossi
+662,Lee Hon Chiu,,male,1.8,East Asia,Hysan Development
+661,Hugo Mann,82.0,male,1.8,Europe,Mann Mobilia
+660,Hasso Plattner,52.0,male,1.8,Europe,SAP AG
+659,Kerry Packer,58.0,male,1.8,North America,Consolidated Press Holdings Limited
+1956,Eric Lefkofsky,44.0,male,1.8,North America,Groupon
+1955,Elisabeth Badinter,70.0,female,1.8,Europe,Publicis Groupe
+1953,David Chow,64.0,male,1.8,East Asia,Macau Legend
+682,Huang Shi-hui,,male,1.8,East Asia,Chinfon Group
+1952,Craig McCaw,64.0,male,1.8,North America,McCaw Cellular
+1951,Chu Lam Yiu,44.0,female,1.8,East Asia,Huabao International Holdings
+1950,Chen Jinxia,45.0,female,1.8,East Asia,Hunan Yongjin Group
+1949,Che Fengsheng,51.0,male,1.8,East Asia,Sihuan Pharmaceutical
+1948,Chao Teng-Hsiung,70.0,male,1.8,East Asia,Farglory Land
+1947,Carlos Rodriguez-Pastor,54.0,male,1.8,Latin America,Interbank Group
+1946,Arthur Blank,71.0,male,1.8,North America,Home Depot
+1945,Aras Agalarov,58.0,male,1.8,Europe,Crocus International
+835,Vladimir Potanin,40.0,male,1.8,Europe,Interros
+681,Alberto Bailleres Gonzalez,63.0,male,1.8,Latin America,Penoles
+683,Moores family,,,1.8,Europe,Littlewoods
+1977,Ravi Pillai,60.0,male,1.8,South Asia,RP Group
+1967,Jonathan Nelson,57.0,male,1.8,North America,Providence Equity Partners
+1976,Polys Haji-Ioannou,55.0,male,1.8,Europe,EasyJet
+1975,Nikolai Tsvetkov,53.0,male,1.8,Europe,Financial Corporation Uralsib
+1974,Neal Patterson,64.0,male,1.8,North America,Cerner Corporation
+1973,M.A. Yusuff Ali,58.0,male,1.8,South Asia,EMKE Group (Lulu Hypermarket)
+1972,Lutz Mario Helmig,67.0,male,1.8,Europe,Helios Hospital Group
+1971,Liu Baolin,60.0,male,1.8,East Asia,Jointown Pharmaceutical Group
+1970,Linda Pritzker,60.0,female,1.8,North America,Hyatt
+1969,Lim Oon Kuin,70.0,male,1.8,East Asia,Hin Leong Trading
+1968,Kenneth Feld,65.0,male,1.8,North America,Feld Entertainment
+1966,Jennifer Pritzker,62.0,female,1.8,North America,Hyatt
+1957,Filiz Sahenk,47.0,female,1.8,Middle East/North Africa,Dogus Holding
+1965,Jaime Botin,77.0,male,1.8,Europe,Banco Santander
+1963,"H. Ross Perot, Jr.",55.0,male,1.8,North America,Electronic Data Systems
+1962,Guenther Lehmann,,male,1.8,Europe,Drogeriemarkt
+1961,Glenn Dubin,56.0,male,1.8,North America,Highbridge Capital Management
+1960,Glen Taylor,72.0,male,1.8,North America,Taylor Corporation
+692,Stanley Hubbard,62.0,male,1.8,North America,Hubbard Broadcasting Inc
+691,Bennett Dorrance,63.0,male,1.8,North America,Campbell Soup
+1959,Gil Shwed,46.0,male,1.8,Middle East/North Africa,Check Point
+1958,Gary Magness,60.0,male,1.8,North America,TCI
+834,Ronald Burkle,48.0,male,1.8,North America,Yucaipa Companies
+1979,Roberto Hernandez Ramirez,71.0,male,1.8,Latin America,Banamex
+2042,August Oetker,69.0,male,1.7,Europe,Oetker-Gruppe
+2039,Wang Junmin,45.0,male,1.7,East Asia,Haisco Pharmaceutical Group
+2015,Gabriel Escarrer,79.0,male,1.7,Europe,Melia Hotels International
+2014,Chung Mong-Joon,62.0,male,1.7,East Asia,Hyundai
+2013,Boris Rotenberg,57.0,male,1.7,Europe,"SGM Group, Mostotrest, TPS Avia"
+2012,Arkady Volozh,50.0,male,1.7,Europe,Yandex
+2011,Andrei Kosogov,52.0,male,1.7,Europe,Alfa Group
+2010,Alijan Ibragimov,60.0,male,1.7,South Asia,Eurasion natural Resources Corporation
+2009,Alexander Machkevich,60.0,male,1.7,Middle East/North Africa,Eurasion natural Resources Corporation
+2038,Tony Tan Caktiong,61.0,male,1.7,East Asia,Jollibee
+876,Donald Trump,55.0,male,1.7,North America,The Trump Organization
+2037,Thomas Secunda,59.0,male,1.7,North America,Bloomberg
+2036,Shao Genhuo,48.0,male,1.7,East Asia,DBN Group
+874,Clayton Mathile,60.0,male,1.7,North America,Iams
+873,Andre Kudelski,,male,1.7,Europe,Kudelski Group
+2035,Rolf Gerling,59.0,male,1.7,Europe,Gerling Konzern
+2034,Ralph Sonnenberg,79.0,male,1.7,Europe,Hunter Douglas Group
+731,Micky Arison,46.0,male,1.7,North America,Carnival Corporation
+2016,Gavril Yushvaev,56.0,male,1.7,Europe,Wimm-Bill-Dann
+877,Eugene Melnyk,,male,1.7,North America,Biovail Corporation
+2032,Peter Peterson,87.0,male,1.7,North America,Blackstone Group
+887,Rachman Halim,53.0,male,1.7,East Asia,Gudang Garam
+2040,Zhang Hongwei,59.0,male,1.7,East Asia,United Energy Group
+2041,Alfred Oetker,47.0,male,1.7,Europe,Oetker-Gruppe
+892,Scott McNealy,,male,1.7,North America,Sun Microsystems
+891,Rupert Johnson,60.0,male,1.7,North America,Franklin Resources
+890,Roger Sant,,male,1.7,North America,AES
+889,Robert Rich Sr,87.0,male,1.7,North America,Rich Products
+888,Richard Peery,60.0,male,1.7,North America,
+886,Michele Ferrero,74.0,male,1.7,Europe,Ferrero spa
+878,Giorgio Armani,66.0,male,1.7,Europe,Armani
+885,Lawrence Flinn Jr,,male,1.7,North America,UVSG
+884,Kumar Birla,33.0,male,1.7,South Asia,Aditya Birla Group
+883,Kenneth Morrison,69.0,male,1.7,Europe,Morrisons
+882,John Arrillaga,63.0,male,1.7,North America,
+881,Jess Jackson,71.0,male,1.7,North America,Kendall-Jackson
+880,James Jannard,51.0,male,1.7,North America,"Oakley, Inc"
+879,Gregorio Perez Companc,66.0,male,1.7,Latin America,Petrolera Perez Companc
+2033,Pier Luigi Loro Piana,62.0,male,1.7,Europe,Loro Piana
+875,Clemmie Spangler Jr,68.0,male,1.7,North America,Bank of North Carolina
+2025,Lee Joong-Keun,73.0,male,1.7,East Asia,Booyoung Group
+2054,Vladimir Kim,53.0,male,1.7,South Asia,Kazkhmys
+721,Piya Bhirombhakdi,,male,1.7,East Asia,Boon Rawd Brewery
+2028,Marc Lasry,53.0,male,1.7,North America,Avenue Capital Group
+2027,Lin Xiucheng,58.0,male,1.7,East Asia,San'an Electronics
+2026,Lee Myung-Hee,70.0,female,1.7,East Asia,Shinsegae Group
+2020,Igor Altushkin,43.0,male,1.7,Europe,Russian Copper Company
+2021,Jeffrey Lorberbaum,59.0,male,1.7,North America,Mohawk Industries
+2022,Joop van den Ende,72.0,male,1.7,Europe,Endemol
+2023,Katsumi Tada,68.0,male,1.7,East Asia,Daito Trust Construction
+2024,Kerry Stokes,73.0,male,1.7,North America,Seven Canberra
+2017,Huang Bingwen,60.0,male,1.7,North America,Shantou Dongfeng Printing
+723,Gordon Getty,45.0,male,1.7,North America,Getty 
+2018,Huang Li,50.0,male,1.7,East Asia,Wuhan Guide Infrared
+2019,Huang Wei,54.0,male,1.7,East Asia,Xinhu Zhongbao
+2045,Christian Oetker,65.0,male,1.7,Europe,Oetker-Gruppe
+2044,Carl Ferdinand Oetker,41.0,male,1.7,Europe,Oetker-Gruppe
+697,Ingvar Kamprad,69.0,male,1.7,Europe,IKEA
+696,Masakuni Osano,,male,1.7,East Asia,Kyo-Ya Company
+695,John Dorrance,52.0,male,1.7,Europe,Campbell Soup
+694,Goulandris family,,,1.7,Europe,Fitzwilton
+693,Eliodoro Matte,50.0,male,1.7,Latin America,CMPC
+722,Boonchai Bencharongkul,,male,1.7,East Asia,Total Access Communications
+2029,Martua Sitorus,54.0,male,1.7,East Asia,Wilmar International
+724,Theodore Waitt,33.0,male,1.7,North America,Gateway
+2053,Stefano Gabbana,51.0,male,1.7,Europe,Dolce & Gabbana
+2051,Richard Oetker,63.0,male,1.7,Europe,Oetker-Gruppe
+2050,Nelson Peltz,71.0,male,1.7,North America,Trian Fund Management
+725,Harry Brakemann Helmsley,,male,1.7,North America,Helmsley hotels
+2043,Bergit Douglas,67.0,female,1.7,Europe,Oetker-Gruppe
+2052,Rosely Schweizer,73.0,female,1.7,Europe,Oetker-Gruppe
+2048,Hoang Kieu,69.0,male,1.7,North America,RAAS
+2049,Julia Oetker,35.0,female,1.7,Europe,Oetker-Gruppe
+2047,Edgar de Picciotto,84.0,male,1.7,Europe,Union Bancaire Privee
+2046,Domenico Dolce,55.0,male,1.7,Europe,Dolce & Gabbana
+2031,Patokh Chodiev,61.0,male,1.7,Europe,Eurasion natural Resources Corporation
+2030,N.R. Narayana Murthy,67.0,male,1.7,South Asia,Infosys
+726,Joan Kroc,,female,1.7,North America,McDonald's
+2074,Jon Stryker,55.0,male,1.6,North America,Stryker Corporation
+2075,Joyce Raley Teel,83.0,female,1.6,North America,Raley's
+2073,"Joe Jamail, Jr.",88.0,male,1.6,North America,
+2076,Julio Bozano,78.0,male,1.6,Latin America,Banco Bozano Simonsen
+2077,Karel Komarek,44.0,male,1.6,Europe,KKCG Group
+2078,Lee Jay-Hyun,53.0,male,1.6,East Asia,CJ Group
+2082,Mario Gabelli,71.0,male,1.6,North America,Gabelli Asset Management Company
+939,Chen Din Hwa,78.0,male,1.6,East Asia,Nan Fung Textiles
+938,Andrew McKelvey,,male,1.6,North America,Monster Worldwide
+937,Abilio dos Santos Diniz,64.0,male,1.6,Latin America,Companhia Brasileira de Distribui?ao
+2081,Mangal Prabhat Lodha,58.0,male,1.6,South Asia,Lodha Group
+2080,Louis Bacon,55.0,male,1.6,North America,Moore Capital Management
+2079,Liang Xinjun,46.0,male,1.6,East Asia,Fosun Group
+2071,James Irsay,54.0,male,1.6,North America,Indianapolis Colts
+2072,"Jim Justice, II.",62.0,male,1.6,North America,Bluestone Industries
+2055,Achmad Hamami,83.0,male,1.6,East Asia,Trakindo Utama
+2070,Huang Shaowu,43.0,male,1.6,East Asia,Shenzhen Aisidi
+2062,D. Leopoldo Del Pino y Calvo-Sotelo,52.0,male,1.6,Europe,Ferrovial
+2056,Alan Howard,50.0,male,1.6,Europe,Brevan Howard Asset Management
+2057,Albert von Thurn und Taxis,30.0,male,1.6,Europe,von Thurn and Taxis family
+2058,Alfred James Clark,86.0,male,1.6,North America,Clark Enterprises
+2059,Andrea Della Valle,48.0,male,1.6,Europe,Tod's
+2060,Cao Kejian,51.0,male,1.6,East Asia,Zhejiang Kaishan Compressor
+2061,"Chase Coleman, III.",38.0,male,1.6,North America,Tiger Global Management
+941,Dennis Washington,66.0,male,1.6,North America,Washington Companies
+2069,Hamilton James,62.0,male,1.6,North America,Blackstone Group
+2063,David Einhorn,45.0,male,1.6,North America,Greenlight Capital
+2064,Denise Coates,46.0,female,1.6,Europe,Bet365
+2065,Don Hankey,70.0,male,1.6,North America,Hankey Group
+2066,Gao Dekang,62.0,male,1.6,East Asia,Bosideng International
+2067,Gary Burrell,76.0,male,1.6,North America,Garmin
+2068,Gu Wei,49.0,male,1.6,East Asia,Shenzhen MTC
+940,Dennis Bakke,,male,1.6,North America,AES Corporation
+948,Kemal Uzan,66.0,male,1.6,Middle East/North Africa,
+942,Didier Primat,56.0,male,1.6,Europe,Schlumberger
+2099,Venugopal Dhoot,62.0,male,1.6,South Asia,Videocon Electronics
+2101,Wen Jianping,52.0,male,1.6,East Asia,Beijing Originwater Technology
+2102,Wong Luen Hei,52.0,male,1.6,East Asia,China Lesso Group
+2103,Yoshikazu Tanaka,37.0,male,1.6,East Asia,"GREE, Inc"
+2104,Yuri Gushchin,69.0,male,1.6,Europe,Obyedinennye Konditery
+2105,Zhou Chengjian,48.0,male,1.6,East Asia,Metersbonwe Group
+2106,Ahsen Ozokur,63.0,female,1.6,Middle East/North Africa,Yildiz Holding
+749,Gerald Cavendish Grosvenor,44.0,male,1.6,Europe,Grosvenor Group
+748,Anton Rupert,,male,1.6,Sub-Saharan Africa,Rembrandt Group
+747,Kunio Busujima,-42.0,male,1.6,East Asia,Sankyo
+746,Kenkichi Nakajima,,male,1.6,East Asia,Heiwa
+745,R Budi Hartono,55.0,male,1.6,East Asia,Djarum
+744,Lo Ying Shek,,male,1.6,East Asia,Great Eagle Holdings
+743,Klaus Tschira,55.0,male,1.6,Europe,SAP AG
+734,Rochling family,,,1.6,Europe,Rochling Group
+733,Paul-Louis Halley,,male,1.6,Europe,Promodes
+732,Luis Carlos Sarmiento Angulo,63.0,male,1.6,Latin America,"Grupo Aval Acciones y Valores, SA"
+2107,Ali Ibrahim Agaoglu,60.0,male,1.6,Middle East/North Africa,Agaoglu Group
+2108,Ana Maria Brescia Cafferata,89.0,female,1.6,Latin America,Grupo Prescia (now Pandora Group)
+2109,Ana Maria Marcondes Penido Sant'Anna,58.0,female,1.6,Latin America,CCR Group
+2110,Benu Gopal Bangur,82.0,male,1.6,South Asia,Shree Cement
+2111,Cesar Mata Pires,,male,1.6,Latin America,OAS SA
+2112,Christoph Henkel,,male,1.6,Europe,Henkel Ag
+2113,Manuel Moroun,86.0,male,1.6,North America,CenTra Inc.
+2114,Rosa Brescia Cafferata,87.0,female,1.6,Latin America,Grupo Prescia (now Pandora Group)
+2115,Thomas Steyer,56.0,male,1.6,North America,Farallon Capital Management
+2116,Wong Kwong Yu,44.0,male,1.6,East Asia,Gome
+771,Riley Bechtel,43.0,male,1.6,North America,Bechtel Corporation
+772,Peter Nicholas,55.0,male,1.6,North America,Boston Scientific
+776,Stephen Bechtel,70.0,male,1.6,North America,Bechtel Corporation
+943,Gary Magness,47.0,male,1.6,North America,TCI
+2100,Vincent Tan,62.0,male,1.6,East Asia,Berjaya Corporation Berhad
+2098,Tsai Ming-Kai,63.0,male,1.6,East Asia,MediaTek
+959,Vladimir Bogdanov,49.0,male,1.6,Europe,Surgutneftegaz
+944,George Mitchell,81.0,male,1.6,North America,Mitchell Energy and Development Co
+945,Gil Shwed,33.0,male,1.6,Middle East/North Africa,Check Point
+946,Jackson Stephens,77.0,male,1.6,North America,Stephens Group
+947,Jean-Louis Dumas,62.0,male,1.6,Europe,Hermes
+949,Kwek Leng Beng,60.0,male,1.6,East Asia,Hong Leong Group
+950,Lee Kun-Hee,59.0,male,1.6,East Asia,Samsung
+951,Michael Birck,,male,1.6,North America,Tellabs
+952,Perry Bass,86.0,male,1.6,North America,Bass Brothers Enterprises
+953,Richard DeVos,75.0,male,1.6,North America,Amway
+954,Robert Johnson,54.0,male,1.6,North America,Black Entertainment Television
+955,Roberto Rocca,,male,1.6,Latin America,Techint
+956,Sanford Weill,68.0,male,1.6,North America,"Cogan, Berlind, Weill & Levitt"
+957,Stanley Hubbard,67.0,male,1.6,North America,Hubbard Broadcasting Inc
+2097,Thaksin Shinawatra,64.0,male,1.6,East Asia,Advanced Info Service
+958,Tetsuro Funai,74.0,male,1.6,East Asia,Funai Electric
+960,William Morean,45.0,male,1.6,North America,Jabil Circuit
+2091,Robert Miller UK,76.0,male,1.6,Europe,Duty Free Shopping
+2096,Suhon Lin,86.0,male,1.6,East Asia,Chang Chun Group
+2095,Stephen Jarislowsky,88.0,male,1.6,North America,Jarislowsky Fraser Limited
+2094,Simonpietro Salini,81.0,male,1.6,Europe,Salini Impregilo
+2093,Scott Cook,61.0,male,1.6,North America,Intuit
+2083,Mehmet Sinan Tara,55.0,male,1.6,Middle East/North Africa,Enka insaat ve Sanayi
+2092,Roberto Angelini Rossi,65.0,male,1.6,Latin America,Angelini Group
+2090,Richard Elman,74.0,male,1.6,Europe,Noble Group
+2089,Ray Davis,72.0,male,1.6,North America,Energy Transfer Partners
+2088,Pollyanna Chu,56.0,female,1.6,East Asia,Kingston Financial
+2087,Pierre Papillaud,78.0,male,1.6,Europe,Roxane
+2086,Phillip Ragon,64.0,male,1.6,North America,InterSystems
+2085,Pham Nhat Vuong,45.0,male,1.6,East Asia,Vingroup
+2084,Patrick Ryan,76.0,male,1.6,North America,Aon Corporation
+777,Peugeot family,,,1.5,Europe,Peugeot
+778,Karl Diehl,,male,1.5,Europe,Diehl Stiftung
+786,Simon family,,,1.5,Europe,
+2146,Mehmet Karamehmet,69.0,male,1.5,Middle East/North Africa,Cukurova Holding
+788,John Jahr,,male,1.5,Europe,
+2148,Monique Louis-Dreyfus,74.0,female,1.5,Europe,Louis-Dreyfus Goup
+2147,Mehmet Nazif Gunal,66.0,male,1.5,Middle East/North Africa,MNG Holding
+2172,Zhang Changhong,55.0,male,1.5,East Asia,DZH/Shanghai Great Wisdom
+2171,Wilma Tisch,86.0,female,1.5,North America,Loews Corporation
+2170,William Ackman,47.0,male,1.5,North America,Pershing Square Capital Management
+2169,Sergei Katsiev,56.0,male,1.5,Europe,Megapolis
+2168,Richard Scaife,81.0,male,1.5,North America,Mellon
+2167,Isidoro Alvarez,79.0,male,1.5,Europe,El Corte Ingles
+2166,Ajay Piramal,58.0,male,1.5,South Asia,Piramel
+2165,Zhu Yicai,49.0,male,1.5,East Asia,Yurun Food
+2164,Yuriy Kosiuk,45.0,male,1.5,Europe,MHP
+2163,Wen Yibo,48.0,male,1.5,East Asia,The Sound Group
+2162,Vinod Khosla,59.0,male,1.5,North America,Sun Microsystems
+2161,Victor Gradin,81.0,male,1.5,Latin America,Odebrecht
+2160,Vichai Srivaddhanaprabha,56.0,male,1.5,East Asia,King Power Duty Free
+2159,Vadim Novinsky,50.0,male,1.5,Europe,Smart-Holding
+2158,Tom Benson,86.0,male,1.5,North America,Benson Financial
+2157,Thomas Lee,69.0,male,1.5,North America,Thomas H. Lee Partners
+2156,Sergio Lins Andrade,66.0,male,1.5,Latin America,Andrade Gutierrez
+2155,Senapathy Gopalakrishnan,58.0,male,1.5,South Asia,Infosys
+2154,Saad Hariri,43.0,male,1.5,Middle East/North Africa,Saudi Oger
+2153,Robert Coyiuto Jr,61.0,male,1.5,East Asia,Prudential Guarantee & Assurance
+2152,Richard Hayne,66.0,male,1.5,North America,Urban Outfitters
+2151,Ravi Jaipuria,59.0,male,1.5,South Asia,RJ Corp
+2150,Paul Singer,69.0,male,1.5,North America,Elliott Associates
+2149,Murali Divi,62.0,male,1.5,South Asia,Divis Laboratories
+787,Albert von Thurn und Taxis,12.0,male,1.5,Europe,von Thurn and Taxis family
+837,James Cargill,71.0,male,1.5,North America,Cargill
+789,Freudenberg family,,,1.5,Europe,Freudenberg Group
+1027,Richard Kinder,54.0,male,1.5,North America,Kinder Morgan Energy Partners
+2128,Farris Wilks,62.0,male,1.5,North America,Frac Tech
+2127,Ezra Nahmad,68.0,male,1.5,Europe,
+2125,Dan Wilks,57.0,male,1.5,North America,Frac Tech
+2124,Chen Yung-Tai,78.0,male,1.5,East Asia,Aurora Group
+2123,Chen Tianqiao,41.0,male,1.5,East Asia,Shanda Interactive Entertainment
+2122,Chang Yung Fa,86.0,male,1.5,East Asia,Evergreen Group
+2121,Bulent Eczacibasi,64.0,male,1.5,Middle East/North Africa,Eczacibasi Holding
+2120,Andrei Bokarev,47.0,male,1.5,Europe,CJSC Transmashholding
+2119,Alfredo Harp Helu,69.0,male,1.5,Latin America,Banamex
+2118,Alexandre Grendene Bartelle,64.0,male,1.5,Latin America,Grendene
+2117,Alexander Frolov,49.0,male,1.5,Europe,Evraz
+1032,Tiong Hiew King,65.0,male,1.5,East Asia,Rimbunan Hijau Group
+1031,Steven Rales,48.0,male,1.5,North America,Danaher
+1030,Stelios Haji-Ioannou,,male,1.5,Europe,Easy Jet
+1029,Roberto Marinho,,male,1.5,Latin America,Globo Organizations
+2129,Faruk Eczacibasi,59.0,male,1.5,Middle East/North Africa,Eczacibasi Holding
+2130,Francesco Gaetano Caltagirone,70.0,male,1.5,Europe,Caltagirone Holdings
+2131,Gary Michelson,65.0,male,1.5,North America,Medtronic
+790,Lakshmi Mittal,45.0,male,1.5,South Asia,ArcelorMittal
+2145,Massimo Moratti,68.0,male,1.5,Europe,Saras SPA
+2144,Mark Stevens,54.0,male,1.5,North America,Sequoia Capital
+2143,Marie-Jeanne Meyer,72.0,female,1.5,Europe,Louis-Dreyfus Goup
+2142,Maria Del Pino y Calvo-Sotelo,57.0,female,1.5,Europe,Ferrovial
+2141,Lam Kong,49.0,male,1.5,East Asia,China Medical Systems
+2140,Koo Bon-Moo,69.0,male,1.5,East Asia,LG Group
+2139,Juan Carlos Escotet,54.0,male,1.5,Latin America,Banesco
+2132,Gregorio Perez Companc,78.0,male,1.5,Latin America,Petrolera Perez Companc
+2138,Jose Llado Fernandez-Urrutia,79.0,male,1.5,Europe,Tecnicas Reunidas
+2137,John Henry,64.0,male,1.5,North America,John W. Henry & Company
+2136,Jimmy Haslam,60.0,male,1.5,North America,Pilot Flying J
+2135,Huang Shih Tsai,62.0,male,1.5,East Asia,Greater China International Investment Group
+2134,Horst Brandstaetter,80.0,male,1.5,Europe,Brandstatter Group
+2133,He Qiaonu,48.0,female,1.5,East Asia,Beijing Orient Landscape
+1028,Richard Marriott,62.0,male,1.5,North America,Marriot
+2126,Erika Pohl-Stroher,95.0,female,1.5,Europe,Wella AG
+1026,Richard Goldman,,male,1.5,North America,Goldman Insurance and Risk Management
+1009,Carl Berg,63.0,male,1.5,North America,Berg and Berg
+1007,Bennett Dorrance,58.0,male,1.5,North America,Campbell Soup
+1006,Abdul Al Rahman  Al Jeraisy,,male,1.5,Middle East/North Africa,Jeraisy Group
+838,Margaret Cargill,76.0,female,1.5,North America,Cargill
+836,John Abele,79.0,male,1.5,North America,Boston Scientific
+814,Shi Wen-long,,male,1.5,East Asia,Chi Mei Corporation
+806,Sergio Mantegazza,68.0,male,1.5,Europe,Globus
+805,Martin Ebner,,male,1.5,Europe,BZ Bank
+804,Willi and Isolde Liebherr,,married couple,1.5,Europe,Liebherr
+1025,Rem Viakhirev,,male,1.5,Europe,Gazprom
+800,Juffali family,,,1.5,Middle East/North Africa,Juffali Group
+799,Bernardo Garza Sada,,male,1.5,Latin America,Grupo ALFA
+798,Ananda Krishnan,57.0,male,1.5,East Asia,Usaha Tegas Sdn Bhd
+797,Yeoh Tiong Lay,,male,1.5,East Asia,YTL Corporation
+792,Martin Hilti,,male,1.5,Europe,Hilti
+791,Kenshin Oshima,48.0,male,1.5,East Asia,SFCG
+1008,Billy Joe McCombs,73.0,male,1.5,North America,Red McCombs Automotive Group
+815,Prachai Leophairatana,,male,1.5,East Asia,Thai Petrochemical Industry
+1010,Carlos Peralta,49.0,male,1.5,Latin America,Groupo IUSA
+1017,Henry Yuen,,male,1.5,North America,Gemstar-TV Guide International
+1023,Marius Nacht,35.0,male,1.5,Middle East/North Africa,Check Point
+1022,Luis Carlos Sarmiento Angulo,68.0,male,1.5,Latin America,"Grupo Aval Acciones y Valores, SA"
+1021,Laurance Rockefeller,90.0,male,1.5,North America,Standard Oil
+1020,Kim Magness,,male,1.5,North America,TeleCommunications Inc
+1019,Kenneth Troutt,53.0,male,1.5,North America,Excel Communications
+1011,Christoph Blocher,,male,1.5,Europe,EMS-Chemie
+1018,John Sobrato,61.0,male,1.5,North America,Sobrato Organization
+1024,Mitchell Rales,44.0,male,1.5,North America,Danaher
+1016,Henry Kravis,57.0,male,1.5,North America,Kohlberg Kravis Roberts
+1015,Harold Simmons,69.0,male,1.5,North America,
+1014,George Roberts,56.0,male,1.5,North America,Kohlberg Kravis Roberts
+1013,Frank Batten,74.0,male,1.5,North America,The Weather Channel
+1012,Enric Bernat,,male,1.5,Europe,Chupa Chups
+2216,Pyotr Kondrashev,64.0,male,1.4,Europe,Silvinit
+2213,Peter Gilgan,63.0,male,1.4,North America,Mattamy Homes
+2214,Peter Unger,69.0,male,1.4,Europe,Auto-Teile-Unger
+2217,Radovan Vitek,42.0,male,1.4,Europe,CPI
+2218,Ranjan Pai,41.0,male,1.4,South Asia,Manipal Education & Medical Group
+2219,Remo Ruffini,52.0,male,1.4,Europe,Moncler
+2215,Petter Stordalen,51.0,male,1.4,Europe,Home Invest
+2211,Oleg Tinkov,46.0,male,1.4,Europe,Tinkoff Brewery
+2212,Paolo Bulgari,76.0,male,1.4,Europe,Bulgari
+2210,Nicola Bulgari,73.0,male,1.4,Europe,Bulgari
+2209,"Nicholas Pritzker, II.",70.0,male,1.4,North America,Hyatt
+2208,Nandan Nilekani,58.0,male,1.4,South Asia,Infosys
+2221,"Richard Yuengling, Jr.",70.0,male,1.4,North America,Yuengling
+2207,Michel Chalhoub,82.0,male,1.4,Europe,Chalhoub Group
+2206,Michael Ashcroft,68.0,male,1.4,Europe,Michael A. Ashcroft Associates
+2220,Richard Chilton Jr,55.0,male,1.4,North America,Chilton Investment Company
+2232,Yuri Kovalchuk,62.0,male,1.4,Europe,Russia bank
+2222,Roman Avdeev,46.0,male,1.4,Europe,Credit Bank of Moscow
+2223,Shlomo Eliahu,78.0,male,1.4,Middle East/North Africa,Eliyahu Insurance Company
+2224,Takao Yasuda,64.0,male,1.4,East Asia,Don Quijote
+2225,Todd Wagner,53.0,male,1.4,North America,Broadcast.com
+2226,Vladimir Iorich,55.0,male,1.4,Europe,Mechel AOA
+2227,Vladimir Scherbakov,64.0,male,1.4,Europe,Avtotor Holding
+2228,Wang Jing,41.0,male,1.4,East Asia,Beijing Xinwei Telecom Technology
+2229,Wang Kunxiao,44.0,male,1.4,East Asia,Yantai Jereh Oilfield Services Group
+2230,Xiong Xuqiang,57.0,male,1.4,East Asia,Ningbo Yinyi Group
+2231,Yoshiko Mori,73.0,female,1.4,East Asia,Mori Building
+2233,Andrew Cherng,,male,1.4,North America,Panda Express
+2234,Anne Gittinger,78.0,female,1.4,North America,Nordstrom
+2235,"Anton Kathrein, Jr.",29.0,male,1.4,Europe,Katherine Werke AG
+2236,Henry Swieca,56.0,male,1.4,North America,Highbridge Capital Management
+2204,Marius Nacht,48.0,male,1.4,Middle East/North Africa,Check Point
+2205,Max Michel Suberville,81.0,male,1.4,Latin America,FEMSA
+2176,Anatoly Lomakin,61.0,male,1.4,Europe,International Potassium Company (MMK)
+2203,Luis Enrique Yarur Rey,63.0,male,1.4,Latin America,Banco de Credito e Inversiones (BCI)
+2187,Els Blokker,66.0,female,1.4,Europe,Blokker Holding
+2238,Kazuo Okada,71.0,male,1.4,East Asia,Wynn Resorts
+2173,Alan Gerry,84.0,male,1.4,North America,Cablevision Industries
+2174,Albert Blokker,68.0,male,1.4,Europe,Blokker Holding
+2175,Alberto Cortina,68.0,male,1.4,Europe,Construcciones y Contratas
+2177,Aziz Akhannouch,53.0,male,1.4,Middle East/North Africa,Akwa Group
+2178,Billy Joe (Red) McCombs,86.0,male,1.4,North America,Red McCombs Automotive Group
+2179,Chen Jianhua,43.0,male,1.4,East Asia,Hengli Group
+2180,Christopher Cline,56.0,male,1.4,North America,Foresight Reserves
+2181,Christopher Goldsbury,71.0,male,1.4,North America,Pace Foods
+2182,Clement Fayat,82.0,male,1.4,Europe,Fayat
+2183,David Walentas,75.0,male,1.4,North America,Dumbo
+2184,Dmitry Kamenshchik,45.0,male,1.4,Europe,Moscow Domodedovo Airport.
+2185,Dmitry Mazepin,45.0,male,1.4,Europe,Uralchem
+2186,Edmund Ansin,77.0,male,1.4,North America,Sunbeam Television
+1099,Pierre Bellon,71.0,male,1.4,Europe,Sodexo
+2202,Lina Maria Aguiar,76.0,female,1.4,Latin America,Bradesco
+2188,Farkhad Akhmedov,58.0,male,1.4,Europe,Northgas
+2189,Francesco Saverio Salini,78.0,male,1.4,Europe,Salini Impregilo
+2190,Gian Marco Moratti,77.0,male,1.4,Europe,Saras SPA
+2191,Gleb Fetisov,47.0,male,1.4,Europe,Alfa Group
+2192,Hamdi Ulukaya,42.0,male,1.4,Middle East/North Africa,Chobani
+2193,Hong Ra-Hee,68.0,female,1.4,East Asia,Samsung
+2194,J. Joe Ricketts,72.0,male,1.4,North America,TD Ameritrade
+2195,James Clark,69.0,male,1.4,North America,Netscape Communications Corporation
+2196,Joao Alves de Queiroz Filho,61.0,male,1.4,Latin America,Hypermarcas
+2197,Jonathan Gray,44.0,male,1.4,North America,Blackstone Group
+2198,Kagemasa Kozuki,73.0,male,1.4,East Asia,Konami Corporation
+2199,Larry Robbins,44.0,male,1.4,North America,Glenview Capital Management
+2200,Lei Jufang,61.0,female,1.4,East Asia,Tibet Cheezheng Tibetan Medicine
+2201,Len Ainsworth,90.0,male,1.4,North America,Aristocrat Leisure Limited
+2237,Jonathan Oringer,39.0,male,1.4,North America,Shutterstock
+1100,Rafael del Pino,80.0,male,1.4,Europe,Ferrovial
+2239,Keeree Kanjanapas,64.0,male,1.4,East Asia,BTS Skytrain
+845,Takemitsu Takizaki,50.0,male,1.4,East Asia,Keyence
+1110,William Kellogg,57.0,male,1.4,North America,Khol's
+1109,William Ford,,male,1.4,North America,Ford Motor Company
+1108,Willi and Isolde Liebherr,,married couple,1.4,Europe,Liebherr
+1107,Thomas Frist,62.0,male,1.4,North America,Hostpital Corporation of America
+1106,Stephen Case,49.0,male,1.4,North America,AOL
+1105,Stein Erik Hagen,44.0,male,1.4,Europe,RIMI
+1104,Stanley Druckenmiller,47.0,male,1.4,North America,Duquesne Capital
+1103,Soichiro Fukutake,55.0,male,1.4,East Asia,Benesse Corporation
+1102,Roman Abramovich,34.0,male,1.4,Europe,Millhouse LLC
+1101,Robert McNair,60.0,male,1.4,North America,Cogen Technologies
+839,Michel David-Weill,,male,1.4,Europe,Lazard
+840,Serge Dassault,71.0,male,1.4,Europe,Dassault Group
+841,Robert Bosch Jr,68.0,male,1.4,Europe,Robert Bosch GmbH
+846,Hiroshi Yamauchi,68.0,male,1.4,East Asia,Nintendo
+2240,Lee Hwa-Kyung,58.0,female,1.4,East Asia,Orion Corp.
+847,Tajudin Ramli,,male,1.4,East Asia,Malaysia Airlines
+862,Alfonso Romo Garza,,male,1.4,Latin America,Pulsar International
+863,Jorge Larrea,,male,1.4,Latin America,Grupo Mexico
+864,Maria Asuncion Aramburuzabala,32.0,female,1.4,Latin America,Grupo Modelo
+865,Stefan Persson,48.0,male,1.4,Europe, H&M
+866,Klaus Jacobs,,male,1.4,Europe,Jacobs Suchard AG
+867,Krit Ratanarak,49.0,male,1.4,East Asia,Bank of Ayudhya/Bangkok Broadcasting and Television Company
+868,Ayhan Sahenk,,male,1.4,Middle East/North Africa,Dogus Holding
+869,Richard Branson,45.0,male,1.4,Europe,Virgin Group
+895,David Rockefeller,80.0,male,1.4,North America,Standard Oil
+894,Alfred Lerner,,male,1.4,North America,MBNA
+893,Maurice Greenberg,70.0,male,1.4,North America,AIG
+872,Kenneth Troutt,48.0,male,1.4,North America,Excel Communications
+870,James Sorenson,74.0,male,1.4,North America,Sorenson Companies
+871,H Wayne Huizenga,58.0,male,1.4,North America,Waste Management
+1092,Jay Van Andel,76.0,male,1.4,North America,Amway
+1096,Mark Cuban,40.0,male,1.4,North America,Broadcast.com
+1094,Koo Chen-fu,,male,1.4,East Asia,Koos group
+1093,John van Vlissingen,62.0,male,1.4,Europe,BCD Holdings
+1097,Michael Hilti,54.0,male,1.4,Europe,
+1091,Gloria von Thurn und Taxis,,female,1.4,Europe,von Thurn and Taxis family
+1090,George Lindemann,64.0,male,1.4,North America,"Vision Cable, Metro Mobile, Southern Union"
+1089,Franklin Booth,78.0,male,1.4,North America,Berkshire Hathaway
+1088,Emilio Botin,66.0,male,1.4,Europe,Grupo Santander
+1087,Barbara Carlson Gage,59.0,female,1.4,North America,Carlson Inc
+1098,Miuccia Prada,51.0,female,1.4,Europe,Prada
+2248,"William Ford, Sr.",88.0,male,1.4,North America,Ford Motor Company
+2247,Roger Penske,77.0,male,1.4,North America,Penske Racing
+2246,Peggy Cherng,,female,1.4,North America,Panda Express
+2245,Paul Foster,56.0,male,1.4,North America,Western Refining
+2244,Patricia Angelini Rossi,59.0,female,1.4,Latin America,Angelini Group
+2243,Oleg Boyko,49.0,male,1.4,Europe,Finstar Financial Group
+2242,Mark Vadon,43.0,male,1.4,North America,Zulily
+2241,Lin Li,50.0,male,1.4,East Asia,Liye Group
+1095,Marilyn Carlson Nelson,62.0,female,1.4,North America,Carlson Inc
+2320,Kim Jung-Ju,46.0,male,1.3,East Asia,Nexon
+2323,Ashwin Dani,71.0,male,1.3,South Asia,Asian Paints
+2312,Surin Upatkoon,64.0,male,1.3,East Asia,InTouch
+2313,Thomas Sandell,53.0,male,1.3,Europe,Sandell Asset Management Corp
+2314,Vadim Moshkovich,46.0,male,1.3,Europe,Rusagro
+2315,Vladimir Gruzdev,47.0,male,1.3,Europe,The Seventh Continent
+2316,Walter Frey,70.0,male,1.3,Europe,Emil Frey Group
+2317,Wang Wenjing,49.0,male,1.3,East Asia,Yonyou Software
+2318,Werner Voigt,84.0,male,1.3,Latin America,WEG
+2319,Zelimkhan Mutsoev,54.0,male,1.3,Europe,Regions Group
+2324,Bassam Alghanim,62.0,male,1.3,Middle East/North Africa,Alghanim Industries
+2322,Anas Sefrioui,56.0,male,1.3,Middle East/North Africa,Douja Promotion Groupe Addoha
+913,Reinhold Wuerth,60.0,male,1.3,Europe,Adolf Wurth Group
+906,Jose Said Saffie,,male,1.3,Latin America,
+2328,David Harding,52.0,male,1.3,Europe,Winton Capital Management
+965,Craig McCaw,46.0,male,1.3,North America,McCaw Cellular
+966,Dorrance Hill Hamilton,,female,1.3,North America,Campbell Soup
+967,Amos Hosetter Jr,59.0,male,1.3,North America,Continental Cablevision
+974,Lorenzo Mendoza,30.0,male,1.3,Latin America,Empresas Polar
+2325,Chen Lip Keong,66.0,male,1.3,East Asia,NagaCorp
+2326,Chung Yong-Jin,45.0,male,1.3,East Asia,Shinsegae Group
+2327,"Daniel Harrison, III.",66.0,male,1.3,North America,Shell Oil
+2329,Huang Yi,52.0,male,1.3,East Asia,Zhongsheng Group
+907,Jaime Said Demarfa,,male,1.3,Latin America,
+2330,Hubert d'Ornano,87.0,male,1.3,Europe,Sisley Cosmetics
+2331,Konstantin Grigorishin,48.0,male,1.3,Europe,Energy Standard Group
+2332,Kutayba Alghanim,68.0,male,1.3,Middle East/North Africa,Alghanim Industries
+2333,Seth Klarman,56.0,male,1.3,North America,Baupost Group
+2334,Soichiro Fukutake,68.0,male,1.3,East Asia,Benesse Corporation
+2335,Wei Shaojun,51.0,male,1.3,East Asia,Longjitaihe
+2336,Yusaku Maezawa,38.0,male,1.3,East Asia,Zozotown
+964,Leslie Wexner,44.0,male,1.3,North America,Limited Brands
+963,Samuel LeFrak,,male,1.3,North America,LeFrack 
+962,Ralph Lauren,57.0,male,1.3,North America,Ralph Lauren
+961,Donald Hall,67.0,male,1.3,North America,Hallmark Cards
+908,Carlos Ardila Lulle,,male,1.3,Latin America,Organizacion Ardila Lulle
+909,Julio Mario Santo Domingo,72.0,male,1.3,Latin America,Santo Domingo Group
+910,Hans-Werner Hector,56.0,male,1.3,Europe,SAP AG
+911,Reinhard Mohn,74.0,male,1.3,Europe,Bertelsmann
+912,Baldwin and Nikolaus Knauf,,male,1.3,Europe,Edmond de Rothschild Group
+2310,Stephen Saad,49.0,male,1.3,Sub-Saharan Africa,Aspen Pharmacare
+914,Chen Din Hwa,73.0,male,1.3,East Asia,Nan Fung Textiles
+915,Sjamsul Nursalim,,male,1.3,East Asia,Gajah Tunggal
+930,Mochtar Riady,,male,1.3,East Asia,Lippo Group
+931,Tadahiro Yoshida,49.0,male,1.3,East Asia,YKK
+932,Den Fujita,70.0,male,1.3,East Asia,McDonald's Japan
+933,Hiroshi Takei,,male,1.3,East Asia,
+934,Masafumi Miyamoto,,male,1.3,East Asia,Square
+935,Soichiro Fukutake,50.0,male,1.3,East Asia,Benesse Corporation
+936,Edward Johnson,65.0,male,1.3,North America,Fidelity Investments
+2311,Sun Pingfan,44.0,male,1.3,East Asia,Ningbo Cixing
+2321,Allan Slaight,81.0,male,1.3,North America,Slaight Communications
+2309,Sidney Kimmel,86.0,male,1.3,North America,Jones Apparel Group
+2282,James Leininger,68.0,male,1.3,North America,Kinetic Concepts (KCI)
+2273,Eggon da Silva,85.0,male,1.3,Latin America,WEG
+2274,Elie Horn,70.0,male,1.3,Latin America,Cyrela Brazil Realty
+2275,Fawzi Al-Kharafi,,male,1.3,Middle East/North Africa,Kharafi Group
+2276,"Frank Fertitta, III.",52.0,male,1.3,North America,Station Casinos
+2277,Frank Stronach,81.0,male,1.3,North America,Manga International
+2278,George Joseph,92.0,male,1.3,North America,Mercury General
+2308,Shaul Shani,59.0,male,1.3,Middle East/North Africa,ECI Telecom
+2280,"Henry Nicholas, III.",54.0,male,1.3,North America,Broadcom Corporation
+2281,Jacques Saade,77.0,male,1.3,Europe,CMA CGM
+2283,Jassim Al-Kharafi,,male,1.3,Middle East/North Africa,Kharafi Group
+2271,Du Jiangtao,44.0,male,1.3,East Asia,Inner Mongolia Junzhen Energy and Chemical Industry
+2284,Jiang Zhaobai,50.0,male,1.3,East Asia,Shanghai Pengxin Group
+2285,Jorge Moll Filho,69.0,male,1.3,Latin America,Rede D'Or
+2286,Jose Isaac Peres,73.0,male,1.3,Latin America,Multiplan
+2287,Kenny Troutt,66.0,male,1.3,North America,Excel Communications
+2288,Koos Bekker,61.0,male,1.3,Sub-Saharan Africa,Naspers
+2289,Lee Boo-Jin,43.0,female,1.3,East Asia,Samsung
+2290,Lee Man Tat,85.0,male,1.3,East Asia,Lee Kum Kee
+2291,Lev Leviev,58.0,male,1.3,Middle East/North Africa,Africa-Israel
+2292,Lilian Werninghaus,79.0,female,1.3,Latin America,WEG
+2272,Edward Stack,59.0,male,1.3,North America,Dick's Sporting Goods
+2270,Desmond Sacco,71.0,male,1.3,Sub-Saharan Africa,Assore Group
+2294,Lorenzo Fertitta,45.0,male,1.3,North America,Station Casinos
+2258,Bruce Nordstrom,80.0,male,1.3,North America,Nordstrom
+2249,Akio Nitori,70.0,male,1.3,East Asia,Nitori
+2250,Alain Taravella,66.0,male,1.3,Europe,Altarea Cogedim
+2251,Allan Gray,76.0,male,1.3,Sub-Saharan Africa,Allan Gray
+2252,Allan Wong,64.0,male,1.3,East Asia,VTech Holding
+2253,Andrei Molchanov,42.0,male,1.3,Europe,Open Joint Stock Company
+2254,Aneel Bhusri,48.0,male,1.3,North America,Greylock Partners
+2255,Arturo Moreno,67.0,male,1.3,North America,Outdoor Systems
+2256,Baba Kalyani,65.0,male,1.3,South Asia,Bharat Forge
+2257,Bruce Cheng,78.0,male,1.3,East Asia,Delta Electronics
+2259,Brunello Cucinelli,60.0,male,1.3,Europe,Brunello Cucinelli
+2269,David Sainsbury,73.0,male,1.3,Europe,Sainsbury's
+2260,C. Dean Metropoulos,67.0,male,1.3,North America,Apollo Global management
+2261,Carlos Francisco Ribeiro Jereissati,67.0,male,1.3,Latin America,Inguatemi Empresa de Shopping Centers
+2262,Charles Simonyi,66.0,male,1.3,North America,Microsoft
+2263,Charles Zegar,66.0,male,1.3,North America,Bloomberg
+2264,Charlotte Colket Weber,71.0,female,1.3,North America,Campbell Soup
+2265,Chen Bang,48.0,male,1.3,East Asia,Air Eye Hospital Group
+2266,Chu Mang Yee,54.0,male,1.3,East Asia,Hopson Development
+2267,Ciputra,82.0,male,1.3,East Asia,Ciputra Development
+2268,David Booth,68.0,male,1.3,North America,Dimensional Fund Advisors
+2293,Lily Safra,76.0,female,1.3,Europe,Banco Safra (now Saftra Group)
+2279,Gernot Langes-Swarovski,70.0,male,1.3,Europe,Swarovski
+2295,Low Tuck Kwong,65.0,male,1.3,East Asia,Bayan Resources
+1170,Hans-Werner Hector,61.0,male,1.3,Europe,SAP AG
+1168,Germain Lamonde,,male,1.3,North America,EXFO
+1167,Francesco Micheli,,male,1.3,Europe,e.Biscom-Fastweb
+1166,Eliodoro Matte,55.0,male,1.3,Latin America,CMPC
+1165,Donald Sturm,,male,1.3,North America,Peter Kiewit Sons
+1164,Charles Munger,76.0,male,1.3,North America,Berkshire Hathaway
+1163,Carlo De Benedetti,,male,1.3,Europe,CIR Group
+1162,Calisto Tanzi,,male,1.3,Europe,Parmalat
+1161,Bradley Hughes,67.0,male,1.3,North America,Public Storage
+2296,Michael Price,61.0,male,1.3,North America,MFP Investors
+1160,Arturo Moreno,54.0,male,1.3,North America,Outdoor Systems
+1159,Arthur Williams Jr,58.0,male,1.3,North America,A.L. Williams & Associates
+1158,Anthony Bamford,55.0,male,1.3,Europe,JCB
+1157,Andronico Luksic,74.0,male,1.3,Latin America,Antofagasta
+1156,Alfredo Harp Helu,57.0,male,1.3,Latin America,Banamex
+2301,Nicholas Woodman,38.0,male,1.3,North America,GoPro
+2302,Perenna Kei,24.0,female,1.3,East Asia,Logan Property Holdings
+2303,Peter Sperling,54.0,male,1.3,North America,Apollo Group
+2304,Petro Poroshenko,48.0,male,1.3,Europe,Roshen Gropu
+2305,Reinold Geiger,66.0,male,1.3,Europe,L'Occitane
+2306,Rufino Vigil Gonzalez,65.0,male,1.3,Latin America,Industrias CH
+2307,Samih Sawiris,57.0,male,1.3,Middle East/North Africa,Orascom
+1169,Haim Saban,56.0,male,1.3,North America,Saban Entertainment
+2298,Mubariz Gurbanoglu,45.0,male,1.3,Middle East/North Africa,Palmali Group
+1171,Henry Sy,76.0,male,1.3,East Asia,SM Malls
+1189,William Levine,,male,1.3,North America,Outdoor Systems
+1172,Isaac Saba Raffoul,77.0,male,1.3,Latin America,Groupo Casa Saba
+1181,Roberto Hernandez Ramirez,,male,1.3,Latin America,Banamex
+1182,Rong Yiren,,male,1.3,East Asia,China International Trust and Investment Corp
+1183,Saleh Al Rajhi,89.0,male,1.3,Middle East/North Africa,Al-Rajhi Bank
+1184,Silvio Scaglia,42.0,male,1.3,Europe,Fastweb
+1185,Steven Jobs,46.0,male,1.3,North America,Apple
+1186,Vagit Alekperov,50.0,male,1.3,Europe,Lukoil
+1180,Richard Pratt,66.0,male,1.3,North America,Visy Industries
+1188,Wallace McCain,71.0,male,1.3,North America,McCain Foods Limited
+1187,Vincent Smith,,male,1.3,North America,Patrol Software North America
+2300,Ni Zhaoxing,58.0,male,1.3,East Asia,Zhongrong Group
+1177,Patrick Guerrand,,male,1.3,Europe,Hermes
+1173,James Moran,82.0,male,1.3,North America,JM Family Enterprises
+2299,Mustafa Latif Topbas,69.0,male,1.3,Middle East/North Africa,BIM
+1175,Kenneth Langone,65.0,male,1.3,North America,Home Depot
+1176,Mikhail Fridman,36.0,male,1.3,Europe,Alfa Group
+1174,Johann Rupert,50.0,male,1.3,Sub-Saharan Africa,Rembrandt Group
+1178,Pierce Marshall,,male,1.3,North America,Standard Oil
+1179,Putera Sampoerna,,male,1.3,East Asia,Sampoerna
+2297,Mohannad Al-Kharafi,,male,1.3,Middle East/North Africa,Kharafi Group
+2359,Fahd Hariri,33.0,male,1.2,Middle East/North Africa,Saudi Oger
+2367,Jacky Xu,,male,1.2,Latin America,Trendy Internation Group
+2366,Ioan Niculae,59.0,male,1.2,Europe,InterAgro
+2365,Huang Wen Tsai,60.0,male,1.2,East Asia,Star River Goup
+2364,Hary Tanoesoedibjo,48.0,male,1.2,East Asia,MNC Group
+2363,Guilherme Peirao Leal,64.0,male,1.2,Latin America,Natura Cosmeticos
+2362,Gilles Martin,50.0,male,1.2,Europe,Eurofins Scientific
+2361,Gerry Harvey,74.0,male,1.2,North America,Harvey Norman
+2360,Gabe Newell,51.0,male,1.2,North America,Valve Corporation
+2354,Donald Hall,85.0,male,1.2,North America,Hallmark Cards
+2358,Edwin Soeryadjaya,65.0,male,1.2,East Asia,Astra International
+2346,Brian Roberts,54.0,male,1.2,North America,Comcast
+2337,Abdulsamad Rabiu,54.0,male,1.2,Sub-Saharan Africa,BUA Group
+2338,Ahmet Nazif Zorlu,69.0,male,1.2,Middle East/North Africa,Zorlu Holding
+2339,Alberto Bombassei,73.0,male,1.2,Europe,Brembo SpA
+2340,Alberto Roemmers,56.0,male,1.2,Latin America,Laboratorios Roemmers
+2341,Alexander Putilov,61.0,male,1.2,Europe,Eurasia Drilling Company
+2343,Asok Kumar Hiranandani,59.0,male,1.2,East Asia,Royal Group Holdings
+2344,Ayman Hariri,35.0,male,1.2,Middle East/North Africa,Saudi Oger
+2345,Benedicta Chamberlain,70.0,female,1.2,Europe,William Grant and Sons
+2347,Carol Jenkins Barnett,57.0,female,1.2,North America,Publix Super Markets
+2357,Drew Houston,30.0,male,1.2,North America,Dropbox
+2348,Cho Tak Wong,67.0,male,1.2,East Asia,Fuyao Glass Industry Group
+2349,Cho Yang-Rai,76.0,male,1.2,East Asia,Hankook Tire
+2350,Claude Dauphin,63.0,male,1.2,Europe,Trafigura Beheer BV
+2351,Dan Snyder,49.0,male,1.2,North America,Snyder Communications
+2352,David Yakobashvili,57.0,male,1.2,Europe,Wimm-Bill-Dann
+2353,Denise York,63.0,female,1.2,North America,The DeBartolo Corporation
+2355,Dorothea Steinbruch,,female,1.2,Latin America,Vicuna Group
+2356,Douglas Hsu,71.0,male,1.2,East Asia,Far Eastern Group
+2342,Andrei Filatov,42.0,male,1.2,Europe,N-Trans
+1294,Thaksin Shinawatra,,male,1.2,East Asia,Advanced Info Service
+2368,Jacques Merceron-Vicat,75.0,male,1.2,Europe,Vicat
+1273,Harold Lenfest,,male,1.2,North America,Lenfest Communications
+2407,Alexei Bogachev,43.0,male,1.2,Europe,Magnit
+2406,Ziyaudin Magomedov,45.0,male,1.2,Europe,Summa Group
+2405,Zhong Sheng Jian,56.0,male,1.2,East Asia,Yanlord Land Group
+2404,Zhang Zhongneng,50.0,male,1.2,East Asia,Guangdong Dongyangguang Aluminum
+2403,Yu Minhong,52.0,male,1.2,East Asia,New Oriental Education and Technology Group
+2402,Xiu Li Hawken,51.0,female,1.2,Europe,Renhe Commercial Holdings
+2401,Wong Man Li,49.0,male,1.2,East Asia,Man Wah Holdings
+2400,William Macaulay,68.0,male,1.2,North America,First Reserve Corporation
+2399,Vincent McMahon,68.0,male,1.2,North America,World Wrestling Entertainment (WWE)
+2398,Tu Jianhua,50.0,male,1.2,East Asia,Lancing Motor
+2397,Tian Ming,60.0,male,1.2,East Asia,Hefei Meiya Optoelectronic Technology
+2396,Suat Gunsel,61.0,male,1.2,Europe,Near East University
+2395,Steve Case,55.0,male,1.2,North America,AOL
+2394,Rubens Menin Teixeira de Souza,57.0,male,1.2,Latin America,MRV Engenharia
+2393,Ronald Joyce,83.0,male,1.2,North America,Tim Hortons
+2392,Ron Sim,56.0,male,1.2,East Asia,OSIM International
+2391,Rakesh Jhunjhunwala,53.0,male,1.2,South Asia,Lupin
+2390,Nirav Modi,43.0,male,1.2,South Asia,Firestar International
+2389,Nikolai Maximov,56.0,male,1.2,Europe,Maxi Group
+2388,Nikita Mishin,42.0,male,1.2,Europe,N-Trans
+2387,Nan Cunhui,50.0,male,1.2,East Asia,Chint Group
+975,Roberto and Gabriel Andrade,,male,1.2,Latin America,Andrade Gutierrez
+976,Abilio dos Santos Diniz,59.0,male,1.2,Latin America,Companhia Brasileira de Distribui?ao
+977,Luiz Alberto Garcia,,male,1.2,Latin America,Algar Group
+978,Michael DeGroote,,male,1.2,North America,Laidlaw Transport
+979,Alvaro Noboa,,male,1.2,Latin America,Exportadora Bananera Noboa
+984,Reimann family,,,1.2,Europe,Benckiser
+2408,Alexei Semin,46.0,male,1.2,Europe,Obrazovanie
+2409,Alfredo Egydio Arruda Villela Filho,44.0,male,1.2,Latin America,Itausa Investimentos Itau SA
+2410,Andrei Kuzyaev,48.0,male,1.2,Europe,Perm Financial Industrial Group (PFIG)
+2424,Megdet Rahimkulov,68.0,male,1.2,Europe,Gazprom
+2429,Ye Cheng,52.0,male,1.2,East Asia,Shandong Landbridge Group
+2428,Thongma Vijitpongpun,55.0,male,1.2,East Asia,Pruksa Real Estate
+1265,Anthony O'Reilly,64.0,male,1.2,Europe,Independent News & Media
+1266,Archie Aldis Emmerson,71.0,male,1.2,North America,Sierra Pacific Industries
+1267,Brian Roberts,,male,1.2,North America,Comcast
+1268,Daniel Ziff,29.0,male,1.2,North America,Ziff Davis Inc
+1269,David Bromilow,,male,1.2,East Asia,ADIDAS
+1270,Dirk Ziff,36.0,male,1.2,North America,Ziff Davis Inc
+1271,Edward Bass,56.0,male,1.2,North America,Sid Richardson Gasoline Co
+2427,Qi Xiangdong,43.0,male,1.2,East Asia,Qihoo
+2426,Mitchell Jacobson,62.0,male,1.2,North America,MSC Direct
+2425,Miao Shouliang,59.0,male,1.2,East Asia,Fuyuan Group
+2423,Max Turnauer,78.0,male,1.2,Europe,Constantia
+2411,Brij Bhushan Singal,77.0,male,1.2,South Asia,Bhushan Steel
+2422,Ma Xingtian,44.0,male,1.2,East Asia,Kangmei Pharmaceutical
+2421,Liu Zhenguo,49.0,male,1.2,East Asia,Beijing Originwater Technology
+2420,Lee Seo-Hyun,40.0,female,1.2,East Asia,Samsung
+2419,Lee Hae-Jin,46.0,male,1.2,East Asia,Naver
+2418,John Edson,81.0,male,1.2,North America,Baylinter Marine Corp
+2417,Jane Lauder,41.0,female,1.2,North America,Est?Lauder
+2416,Jacob Stolt-Nielsen,82.0,male,1.2,Europe,Parcel Trade
+2415,Fernando Roig,66.0,male,1.2,Europe,Mercadona
+2414,Eduardo Hochschild,50.0,male,1.2,Latin America,Hochschild Mining
+2413,Danny Tan Chee Sing,58.0,male,1.2,East Asia,Dijaya
+2369,James Ratcliffe,61.0,male,1.2,Europe,Ineos
+2412,Daisy Igel,86.0,female,1.2,Latin America,Ultrapar
+1272,Frederick Field,48.0,male,1.2,North America,Marshall Field and Company
+983,Leibbrand family,,,1.2,Europe,
+1274,Herbert Siegel,73.0,male,1.2,North America,BHC Communications
+1005,William Davidson,73.0,male,1.2,North America,Guardian Industries
+1275,Jaime Augusto Zobel de Ayala,,male,1.2,East Asia,Ayala Corporation
+1034,Kathryn McCurry Albertson,,female,1.2,North America,Albertsons
+1035,Robert Galvin,73.0,male,1.2,North America,Motorola
+1036,Donald Fisher,67.0,male,1.2,North America,The Gap
+1042,Doris Fisher,65.0,female,1.2,North America,The Gap
+1043,David Duffield,55.0,male,1.2,North America,PeopleSoft
+1044,Fayez Sarofim,67.0,male,1.2,North America,Fayez Sarofim & Co
+1045,Paul Mellon,,male,1.2,North America,Mellon Bank
+1046,Susan Thompson Buffett,63.0,female,1.2,North America,Berkshire Hathaway
+1056,Sam Zell,54.0,male,1.2,North America,Equity Group Investments
+1057,Peter Haas Jr,,male,1.2,North America,Levi Strauss & co
+2371,Koh Wee Meng,50.0,male,1.2,East Asia,Fragrance Group
+2372,Konstantin Nikolaev,42.0,male,1.2,Europe,N-Trans
+2373,Kostyantin Zhevago,40.0,male,1.2,Europe,Ferrexpo
+2374,Lang Walker,68.0,male,1.2,North America,The Walker Group
+2375,Len Buckeridge,77.0,male,1.2,North America,Buckeridge Group of Companies
+2376,Leonid Simanovsky,64.0,male,1.2,Europe,Novatek
+2377,Li Li,50.0,male,1.2,East Asia,Shenzhen Hepalink Pharmaceutical
+2378,Lia Maria Aguiar,76.0,female,1.2,Latin America,Bradesco
+2379,Liu Xuejing,63.0,male,1.2,East Asia,GMK Holding
+2380,Maria Ines de Lafuente Lacroze,69.0,female,1.2,Latin America,Loma Negra
+2381,Mark Dixon,55.0,male,1.2,Europe,Regus
+2382,Michael Krasny,60.0,male,1.2,North America,CDW Corporation
+2383,Mofatraj Munot,69.0,male,1.2,South Asia,Kalpataru Group
+2384,Mohammed Al Barwani,62.0,male,1.2,Middle East/North Africa,MB Holding
+2385,Mokhzani Mahathir,53.0,male,1.2,East Asia,SapuraKencana
+2386,Mori Arkin,61.0,male,1.2,Middle East/North Africa,Agis Industries
+2370,Jeff Rothschild,59.0,male,1.2,North America,Facebook
+1033,Dennis Washington,61.0,male,1.2,North America,Washington Companies
+1004,Barbara Piasecka Johnson,59.0,female,1.2,North America,Johnson & Johnson
+1288,Renato Soru,,male,1.2,Europe,Tiscali
+1276,John Fredriksen,56.0,male,1.2,Europe,Frontline Ltd.
+1277,John Krehbiel Jr,,male,1.2,North America,Molex Incorporated
+1278,John Marriott Jr,65.0,male,1.2,North America,Marriot
+1279,Jon Stryker,42.0,male,1.2,North America,Stryker Corporation
+1280,Joseph Jamail Jr,75.0,male,1.2,North America,
+1281,Kunio Busujima,33.0,male,1.2,East Asia,Sankyo
+1282,Lee Seng Wee,76.0,male,1.2,East Asia,Oversea-Chinese Banking Corporation
+1283,Lucio Tan,66.0,male,1.2,East Asia,Asia Brewery
+1284,Marc Rich,66.0,male,1.2,Europe,Glencore
+1003,Richard Goldman,,male,1.2,North America,Goldman Insurance and Risk Management
+1286,Mortimer Zuckerman,63.0,male,1.2,North America,Boston Properties
+1287,Peter Nicholas,60.0,male,1.2,North America,Boston Scientific
+1285,Marguerite Harbert,77.0,female,1.2,North America,Harbart Corporation
+1289,Richard Scaife,,male,1.2,North America,Mellon
+998,Masakazu Shiiki,,male,1.2,East Asia,Sanyo Shinpan
+1002,Josephine Haas,,female,1.2,North America,Levi Strauss & co
+1001,Frances Koshland Geballe,,female,1.2,North America,Levi Strauss & co
+1290,Robert Ziff,31.0,male,1.2,North America,Ziff Davis Inc
+999,Lorenzo Zambrano,51.0,male,1.2,Latin America,Cemex
+1000,Wee Cho Yaw,67.0,male,1.2,East Asia,United Overseas Bank
+985,Conle famle,,,1.2,Europe,Sirosa
+1295,Winthrop Rockefeller,52.0,male,1.2,North America,Standard Oil
+1293,Sydell Miller,,female,1.2,North America,Matrix
+1292,Socrates Kokkalis,,male,1.2,Europe,Intracom
+1291,Ron and Fred Mannix,,male,1.2,North America,Mancal Group
+2436,Alexander Spanos,90.0,male,1.1,North America,A. G. Spanos Companies
+2430,Aerin Lauder Zinterhofer,44.0,female,1.1,North America,Est?Lauder
+2431,Ahmet Calik,56.0,male,1.1,Middle East/North Africa,Calik Holding
+2432,Airat Shaimiev,51.0,male,1.1,Europe,TAIF Group
+2433,Albert Shigaboutdinov,59.0,male,1.1,Europe,TAIF Group
+2434,Albert Yeung,70.0,male,1.1,East Asia,Emperor Group
+2435,Alexander Rovt,61.0,male,1.1,North America,IBE Trade
+2531,Zadik Bino,70.0,male,1.1,Middle East/North Africa,Paz oil company
+2437,Alfred Mann,88.0,male,1.1,North America,Spectrolab
+2496,Stewart Horejsi,76.0,male,1.1,North America,Berkshire Hathaway
+2505,Chen Miaolin,61.0,male,1.1,East Asia,New Century Group
+2504,Alan Rydge,61.0,male,1.1,North America,AHL
+2503,Zhang Guiping,62.0,male,1.1,East Asia,Suning Universal
+2502,Yusuf Hamied,77.0,male,1.1,South Asia,Cipla
+2501,Yan Zhi,41.0,male,1.1,East Asia,Zall Development of Wuhan
+2500,Vito Rodriguez Rodriguez,75.0,male,1.1,Latin America,Jose Rodriguez Banda
+2499,Timothy Boyle,64.0,male,1.1,North America,Columbia Sportswear
+2498,Thomas Straumann,50.0,male,1.1,Europe,Straumann Group
+2497,Sudhir Ruparelia,58.0,male,1.1,Sub-Saharan Africa,Ruparelia Group
+2495,Solomon Lew,68.0,male,1.1,North America,Premier Investments
+2507,Cheung Yan,57.0,female,1.1,East Asia,Nine Dragons Paper
+2494,Shen Wenrong,68.0,male,1.1,East Asia,Shagang Group
+2493,Sergei Sarkisov,54.0,male,1.1,Europe,RESO-Garantiya
+2492,Sergei Kislov,53.0,male,1.1,Europe,Yug Rusi
+2491,Rustem Sulteev,60.0,male,1.1,Europe,RESO-Garantiya
+2490,Robert Piccinini,72.0,male,1.1,North America,Save Mart
+2489,Robert Ell,69.0,male,1.1,North America,Leda Holdings
+2488,Robert Citrone,49.0,male,1.1,North America,Discovery Capital Management
+2487,Ray Irani,79.0,male,1.1,North America,Occidental Petroleum
+2486,Radik Shaimiev,49.0,male,1.1,Europe,TAIF Group
+2506,Chen Zemin,71.0,male,1.1,East Asia,Sanquan Food
+2508,Christopher Hohn,47.0,male,1.1,Europe,Children's Investment Fund
+2438,Aloke Lohia,55.0,male,1.1,East Asia,Indorama Ventures
+2520,Mary Perkins,,female,1.1,North America,Specsavers
+2529,Wang Laisheng,49.0,male,1.1,East Asia,Luxshare Precision Industry
+2528,Wang Laichun,46.0,female,1.1,East Asia,Luxshare Precision Industry
+2527,Vikram Lal,71.0,male,1.1,South Asia,Eicher Motors
+2526,Victor Civita Neto,,male,1.1,Latin America,Grupo Abril
+2525,Sun Hongbin,51.0,male,1.1,North America,Sunac China Holdings
+2524,Sheryl Sandberg,44.0,female,1.1,North America,Facebook
+2523,Ryoichi Jinnai,87.0,male,1.1,East Asia,Promise Consumer Finance
+2522,Roberta Anamaria Civita,,female,1.1,Latin America,Grupo Abril
+2521,Neide Helena de Moraes,59.0,female,1.1,Latin America,Votorantim Group
+2519,Liu Ming Chung,51.0,male,1.1,Latin America,Nine Dragons Paper
+2509,Deniz Sahenk,68.0,female,1.1,Middle East/North Africa,Dogus Holding
+2518,Liu Gexin,62.0,male,1.1,East Asia,Sichuan Kelun Pharmaceutical
+2517,Kim Taek-Jin,,male,1.1,East Asia,NCSOFT
+2516,K. Rai Sahi,67.0,male,1.1,North America,Morgaurd
+2515,K Dinesh,59.0,male,1.1,South Asia,Infosys
+2514,Jose Roberto Ermirio de Moraes,56.0,male,1.1,Latin America,Votorantim Group
+2513,Jose Ermirio de Moraes Neto,61.0,male,1.1,Latin America,Votorantim Group
+2512,Hubert Palfinger,72.0,male,1.1,Europe,Palfinger AG
+2511,Giancarlo Franceso Civita,,male,1.1,Latin America,Grupo Abril
+2510,Douglas Perkins,,male,1.1,North America,Specsavers
+2485,Que Wenbin,50.0,male,1.1,East Asia,Duyiwei Biological Pharmaceutical
+2484,PNC Menon,65.0,male,1.1,Middle East/North Africa,Sobha Developers
+2483,Park Hyeon-Joo,55.0,male,1.1,East Asia,Mirae Asset
+2449,Edir Macedo,69.0,male,1.1,Latin America,Rede Record
+2458,Huang Zhenda,66.0,male,1.1,East Asia,Guangdong Liantai Group
+2457,Hu Kaijun,52.0,male,1.1,East Asia,China Grand Pharmaceutical
+2456,Henry Engelhardt,56.0,male,1.1,North America,Admiral Group
+2455,Harjo Sutanto,87.0,male,1.1,East Asia,Wings Group
+2454,Hajime Satomi,72.0,male,1.1,East Asia,Sammy Corporation
+2453,Gordon Wu,79.0,male,1.1,East Asia,Hopewell Holdings
+2452,Goh Peng Ooi,59.0,male,1.1,East Asia,Silverlake Axis
+2451,Fang Wei,40.0,male,1.1,East Asia,Fangda International Industrial Investment?
+2450,Evgeny (Eugene) Shvidler,49.0,male,1.1,North America,Runicom S.A
+2448,Darwin Deason,73.0,male,1.1,North America,Affiliated Computer Services
+2482,Nobutada Saji,68.0,male,1.1,East Asia,Suntory
+2447,Daniel Hirschfeld,,male,1.1,North America,Buckle
+2446,Choo Chong Ngen,62.0,male,1.1,East Asia,Hotel 81
+2530,Yao Wenbin,43.0,male,1.1,East Asia,Ourpalm
+2444,Charles Brandes,71.0,male,1.1,North America,Brades Investment Partners
+2443,Binod Chaudhary,58.0,male,1.1,South Asia,Chaudhary Group
+2442,Aydin Dogan,77.0,male,1.1,Middle East/North Africa,Dogan Holding
+2441,Andrei Rappoport,50.0,male,1.1,Europe,RAO UES
+2440,Anatoly Sedykh,49.0,male,1.1,Europe,United Metallurigcal Company
+2439,Ana Lucia de Mattos Barretto Villela,40.0,female,1.1,Latin America,Itausa Investimentos Itau SA
+2459,Ilkka Herlin,55.0,male,1.1,Europe,Kone Corporation
+2460,Ilona Herlin,49.0,female,1.1,Europe,Kone Corporation
+2461,Isaac Larian,59.0,male,1.1,North America,MGA Entertainment
+2462,Jean Burelle,75.0,male,1.1,Europe,Plastic Omnium
+2481,Nikolai Sarkisov,45.0,male,1.1,Europe,RESO-Garantiya
+2480,Niklas Herlin,50.0,male,1.1,Europe,Kone Corporation
+2479,Mohammed Ibrahim,67.0,male,1.1,Europe,Celtel
+2478,Miriam Blocher,39.0,female,1.1,Europe,EMS-Chemie
+2477,Michael Steinhardt,73.0,male,1.1,North America,"Steinhardt, Fine, Berkowitz & Co"
+2476,Mark Pincus,48.0,male,1.1,North America,Zynga
+2475,Marcel Adams,93.0,male,1.1,North America,Iberville Developments
+2474,Luo Fei,,male,1.1,East Asia,Biostime International Holdings
+2473,Liu Zhenfeng,52.0,male,1.1,East Asia,Yantai Jereh Oilfield Services Group
+2472,Laurent Burelle,64.0,male,1.1,Europe,Plastic Omnium
+2471,Lachhman Das Mittal,83.0,male,1.1,South Asia,Sonalika Group
+2470,Koo Bon-Neung,64.0,male,1.1,East Asia,LG Group
+2469,Ke Xiping,53.0,male,1.1,East Asia,Xiamen Hengxing group
+2468,Juan Fernando Belmont Anderson,70.0,male,1.1,Latin America,Yanbal Internacional
+2467,Joseph Grendys,52.0,male,1.1,North America,Koch Foods
+2466,Jose Mendes Nogueira,86.0,male,1.1,Latin America,J Mendes
+2465,Jose Maria Aristrain,51.0,male,1.1,Europe,Arcelor
+2464,Jon Huntsman,76.0,male,1.1,North America,Huntsman chemical
+2463,Jiang Wei,52.0,male,1.1,East Asia,Guizhou Bailing Group Pharmaceutical
+2445,Charles Munger,90.0,male,1.1,North America,Berkshire Hathaway
+1346,John Abele,69.0,male,1.1,North America,Boston Scientific
+1347,John McCaw,50.0,male,1.1,North America,McCaw Cellular
+1339,Edward Rogers,67.0,male,1.1,North America,Rogers Communications
+1337,Christopher Goldsbury,58.0,male,1.1,North America,Pace Foods
+1336,Charlotte Colket Weber,50.0,female,1.1,North America,Campbell Soup
+1335,Bruce McCaw,,male,1.1,North America,McCaw Cellular
+1334,Barry Lam,51.0,male,1.1,East Asia,Quanta Computer
+1333,Arthur Rock,74.0,male,1.1,North America,Davis & Rock
+1332,Albert Ueltschi,83.0,male,1.1,North America,FlightSafety International
+1356,Quek Leng Chan,60.0,male,1.1,East Asia,Hong Leong Financial Group
+1355,Peter Woo,55.0,male,1.1,East Asia,Worldwide Shipping Group
+1354,Patrick Ryan,63.0,male,1.1,North America,Aon Corporation
+1353,Patricia Short,,female,1.1,North America,
+1058,Bemberg family,,,1.1,Latin America,Cerveza Quilmes
+1352,Mary Anselmo,72.0,female,1.1,North America,PanAmSat
+1351,Marco Tronchetti Provera,,male,1.1,Europe,Pirelli Group
+1350,Kenkichi Nakajima,,male,1.1,East Asia,Heiwa
+1349,Keith McCaw,,male,1.1,North America,McCaw Cellular
+1338,David Murdock,77.0,male,1.1,North America,Dole Food Company
+1340,Francesco Gaetano Caltagirone,54.0,male,1.1,Europe,Caltagirone Holdings
+1357,Robert Dedman,,male,1.1,North America,ClubCorp
+1341,Harrison McCain,73.0,male,1.1,North America,McCain Foods Limited
+1359,Ronda Stryker,46.0,female,1.1,North America,Stryker Corporation
+1360,Roy Disney,71.0,male,1.1,North America,Disney
+1361,Sidney Kimmel,73.0,male,1.1,North America,Jones Apparel Group
+1362,Stanley Ho,79.0,male,1.1,East Asia,Sociedade de Turismo e Divers?es de Macau
+1363,Thomas Flatley,68.0,male,1.1,North America,The Flatley Co
+1364,Victor Fung,56.0,male,1.1,East Asia,Li & Fung Group
+1365,Viktor Chernomyrdin,,male,1.1,Europe,Gazprom
+1366,Viscount Rothermere,,male,1.1,Europe,Associated Newspapers
+1367,Walter Scott Jr,69.0,male,1.1,North America,Piewit Corporation
+1368,William Cook,69.0,male,1.1,North America,Cook Group
+1369,William Fung,53.0,male,1.1,East Asia,Li & Fung Group
+1345,Jean Coutu,73.0,male,1.1,North America,Jean Coutu Group
+1344,J Joseph Ricketts,59.0,male,1.1,North America,TD Ameritrade
+1343,Ikuo Ogihara,,male,1.1,East Asia,Kyorin Pharmaceutical
+1342,Henry Fok,77.0,male,1.1,East Asia,Sociedade de Turismo e Divers?es de Macau
+1348,Kagemasa Kozuki,,male,1.1,East Asia,Konami
+1358,Robert McLane,64.0,male,1.1,North America,McLane Company
+1130,Reese Rowling,,male,1.1,North America,Tana Exploration Company
+1129,Michael Dell,31.0,male,1.1,North America,Dell
+1114,Robert Haas,,male,1.1,North America,Levi Strauss & co
+1123,Hope Hill Van Beuren,35.0,female,1.1,North America,Campbell Soup
+1125,Evelyn Danzig Haas,,female,1.1,North America,Levi Strauss & co
+1126,Ted Schwartz,,male,1.1,North America,APAC Customer Services
+1127,William Ford,,male,1.1,North America,Ford Motor Company
+1128,Richard Rainwater,51.0,male,1.1,North America,ENSCO International
+1144,Curtis LeRoy Carlson,,male,1.1,North America,Carlson
+1112,Baron Hans Heinrich Thyssen-Bornemisza,,male,1.1,Europe,TBG (Thyssen-Bornemisza Group) Holdings
+1145,Charles Schwab,58.0,male,1.1,North America,Charles Schwab Corporation
+1146,Eli Broad,62.0,male,1.1,North America,"Kaufman and Broad, SunAmerica"
+1147,Carl Lindner Jr,76.0,male,1.1,North America,American Financial Group
+1148,Thomas Frist,57.0,male,1.1,North America,Hostpital Corporation of America
+1149,Charles Gates Jr,74.0,male,1.1,North America,Gates Rubber Company
+1150,Gustavo Cisneros,50.0,male,1.1,Latin America,Cisneros Group
+1113,Chang Yung Fa,69.0,male,1.1,East Asia,Evergreen Group
+1124,Charlotte Colket Weber,35.0,female,1.1,North America,Campbell Soup
+1111,Juan and Carlos March,,male,1.1,Europe,Acciona Trasmediterranea
+1079,Isono family,,,1.1,East Asia,
+1059,Leon Feffer,,male,1.1,Latin America,Suzano Papel e Celulose
+1060,Galen Weston,55.0,male,1.1,North America,George Weston Limited
+1061,Run Run Shaw,,male,1.1,East Asia,Shaw Brothers Studio
+1062,George Wong,,male,1.1,East Asia,Chyau Fwu Corp
+1086,Isaac Saba Raffoul,72.0,male,1.1,Latin America,Groupo Casa Saba
+1064,Kenichi Mabuchi,-7.0,male,1.1,East Asia,Mabuchi Motor Company
+1078,Kazuo Inamori,,male,1.1,East Asia,Kyocera
+1063,Dhirubhai Ambani,,male,1.1,South Asia,Reliance
+1081,Ryusuke Kimura,,,1.1,East Asia,
+1082,Kim Suk-won,,,1.1,East Asia,
+1083,Yahaya Ahmad,,male,1.1,East Asia,DRB-HICOM Group
+1084,Eugenio Garza Lagnera,,male,1.1,Latin America,Femsa
+1085,Roberto Gonzalez Barrera,49.0,male,1.1,Latin America,Maseca
+1080,Renichi Takenaka,,male,1.1,East Asia,Takenaka
+2550,Dmitry Korzhev,50.0,male,1.0,Europe,Mega-Auto
+2545,Chang Pyung-Soon,63.0,male,1.0,East Asia,Kyowon Co
+2542,Brian Higgins,49.0,male,1.0,North America,King Street Capital Management
+2543,C. James Koch,64.0,male,1.0,North America,Boston Beer Company
+2544,Carlos Martins,57.0,male,1.0,Latin America,Wizard language Schools
+2549,Ding Shizhong,43.0,male,1.0,East Asia,China SCE Property Holdings Limited
+2546,Christopher Burch,60.0,male,1.0,North America,Tory Burch LLC
+2547,Dariusz Milek,46.0,male,1.0,Europe,Milek (now CCC)
+2548,Ding Shijia,50.0,male,1.0,East Asia,Anta Sports
+2540,Bent Jensen,62.0,male,1.0,Europe,Linak
+2541,Boris Mints,55.0,male,1.0,Europe,O1 Properties
+2609,Wu Xiong,,male,1.0,East Asia,Biostime International Holdings
+2539,B.R. Shetty,72.0,male,1.0,South Asia,New Medical Centre
+2538,Anne Beaufour,50.0,female,1.0,Europe,Ipsen
+2537,Angela Bennett,69.0,female,1.0,North America,Wright Prospecting
+2536,Andrew Gotianun,86.0,male,1.0,East Asia,Filinvest Development Corporation
+2535,Andrea Reimann-Ciardelli,,female,1.0,North America,Benckiser
+2534,An Kang,65.0,male,1.0,East Asia,Hualan Biological Engineering
+2533,Alexander Vik,59.0,male,1.0,Europe,Scandinavia Fund
+2532,Alberto Alcocer,71.0,male,1.0,Europe,Construcciones y Contratas
+2611,Zdenek Bakala,53.0,male,1.0,Europe,Patria Finance
+2608,Wu Chung-Yi,55.0,male,1.0,East Asia,Tingyi
+2551,Dmitry Troitsky,49.0,male,1.0,Europe,Mega-Auto
+2552,Elena Baturina,50.0,female,1.0,Europe,Inteco
+2553,Enrique Banuelos,48.0,male,1.0,Europe,ASTROC
+2554,Feng Hailiang,53.0,male,1.0,East Asia,Hailiang Group
+2583,Murat Vargi,66.0,male,1.0,Middle East/North Africa,Turkcell
+2584,Nerijus Numavicius,46.0,male,1.0,Europe,VP Group
+2585,O. Francis Biondi,49.0,male,1.0,North America,King Street Capital Management
+2586,Pavel Tykac,49.0,male,1.0,Europe,Motoinvest
+2587,Philip Falcone,51.0,male,1.0,North America,Harbinger Capital
+2588,Richard Chang,67.0,male,1.0,East Asia,Advanced Semiconductor Engineering
+2589,Robert Ingham,82.0,male,1.0,North America,Inghams Enterprises
+2590,Rostam Azizi,49.0,male,1.0,Sub-Saharan Africa,Vodacom Tanzania
+2591,Ryan Kavanaugh,39.0,male,1.0,North America,Relativity Media
+2592,Sara Blakely,43.0,female,1.0,North America,Spanx
+2593,Seo Jung-Jin,56.0,male,1.0,East Asia,Celltrion
+2594,Sergei Petrov,59.0,male,1.0,Europe,Rolf Group
+2595,Sergei Tsikalyuk,55.0,male,1.0,Europe,Military Insurance Company (VSK)
+2596,Serhiy Tihipko,54.0,male,1.0,Europe,PrivatBank
+2597,Shoji Uehara,86.0,male,1.0,East Asia,Taisho Pharmaceutical
+2598,Stefan von Holtzbrinck,50.0,male,1.0,Europe,Verlagsgruppe Holtzbrinck
+2599,T.S. Kalyanaraman,66.0,male,1.0,South Asia,Kalyan Jewellers
+2600,Thomas Bailey,77.0,male,1.0,North America,Janus Capital Group
+2601,Thomas Kaplan,51.0,male,1.0,North America,Apex Silver Mines
+2602,Tory Burch,47.0,female,1.0,North America,Tory Burch LLC
+2603,Vivek Chaand Sehgal,57.0,male,1.0,North America,Samvardhana Motherson Group
+2604,Wang Jianfeng,44.0,male,1.0,East Asia,Ningo Joyson Electric
+2605,Wang Muqing,63.0,male,1.0,East Asia,China ZhengTong Auto Services
+2606,Wang Yong,63.0,male,1.0,East Asia,Xiwang Group
+2607,"William Moncrief, Jr.",93.0,male,1.0,North America,Moncrief Oil
+2582,Morris Kahn,84.0,male,1.0,Middle East/North Africa,Amdocs
+2581,Monika Schoeller,75.0,female,1.0,Europe,Verlagsgruppe Holtzbrinck
+2580,Mikhail Abyzov,41.0,male,1.0,Europe,E4 Group
+2566,John Morgridge,80.0,male,1.0,North America,Cisco Systems
+2555,Fred Chang,57.0,male,1.0,North America,Newegg.com
+2556,Fu Kwan,56.0,male,1.0,East Asia,Macrolink Group
+2557,Graham Kirkham,69.0,male,1.0,Europe,DFS
+2558,Harindarpal Banga,63.0,male,1.0,South Asia,Noble Group
+2559,Henri Beaufour,48.0,male,1.0,Europe,Ipsen
+2560,Horst Julius Pudwill,69.0,male,1.0,Europe,Techtronic Industries
+2561,Huo Qinghua,52.0,male,1.0,East Asia,China Kingho
+2562,Ina Chan,60.0,female,1.0,East Asia,Sociedade de Turismo e Divers?es de Macau
+2563,Jeanine Dick,77.0,female,1.0,Europe,Virbac
+2564,Jim Thompson,74.0,male,1.0,North America,Crown Worldwide Group
+2565,Jitendra Virwani,48.0,male,1.0,South Asia,Embassy Property Developments
+2567,John Van Lieshout,68.0,male,1.0,North America,
+2579,Michael Lynch,49.0,male,1.0,Europe,Autonomy Corporation
+2568,Jorge Rodriguez Rodriguez,68.0,male,1.0,Latin America,Jose Rodriguez Banda
+2569,Kenneth Tuchman,54.0,male,1.0,North America,TeleTech
+2570,Lam Fong Ngo,,female,1.0,East Asia,Macau Legend
+2610,Yang Keng,53.0,male,1.0,East Asia,Blue Ray Corp
+2572,Leonard Schleifer,61.0,male,1.0,North America,Regeneron Pharmaceuicals
+2573,Li Denghai,64.0,male,1.0,East Asia,Shandong Denghai Seeds
+2574,Li Shuirong,57.0,male,1.0,East Asia,Rongsheng Petrochemical
+2575,Lim Hariyanto Wijaya Sarwono,86.0,male,1.0,East Asia,Bumitama Agri
+2576,Lin Ming-Hsiung,64.0,male,1.0,East Asia,Pxmart
+2577,Liu Xiaomeng,59.0,female,1.0,East Asia,Suning Group
+2578,Michael Kors,54.0,male,1.0,North America,Michael Kors
+2571,Leon Charney,72.0,male,1.0,North America,One Times Square
+1412,Alicia Koplowitz,48.0,female,1.0,Europe,Construcciones y Contratas
+1297,Carl Pohlad,80.0,male,1.0,North America,Marquette Bank
+1226,Abdul Aziz Al-Sulaiman,,male,1.0,Middle East/North Africa,Rolaco Trading and Contracting Company
+1228,Henri Andre,,male,1.0,Europe,Andre & Cie
+1229,Eric Andre,,male,1.0,Europe,Andre & Cie
+1230,Boonsong Asavabhokhin,,male,1.0,East Asia,
+1252,John Sall,54.0,male,1.0,North America,SAS institute
+1253,James Jannard,46.0,male,1.0,North America,"Oakley, Inc"
+1254,Kenneth Tuchman,,male,1.0,North America,Teletech
+1255,Michael Bloomberg,53.0,male,1.0,North America,Bloomberg
+1256,Laurance Rockefeller,85.0,male,1.0,North America,Standard Oil
+1257,Randolph Hearst,,male,1.0,North America,Hearst Corporation
+1258,Fred Lennon,,male,1.0,North America,Swagelok Company
+1259,Winthrop Rockefeller,47.0,male,1.0,North America,Standard Oil
+1260,Dirk Ziff,31.0,male,1.0,North America,Ziff Davis Inc
+1261,Robert Ziff,21.0,male,1.0,North America,Ziff Davis Inc
+1262,Daniel Ziff,24.0,male,1.0,North America,Ziff Davis Inc
+1263,James Moran,77.0,male,1.0,North America,JM Family Enterprises
+1264,Jack Taylor,,male,1.0,North America,Enterprise
+1458,William Hearst III,51.0,male,1.0,North America,Hearst Corporation
+1457,William France Jr,68.0,male,1.0,North America,NASCAR
+1456,Wee Cho Yaw,72.0,male,1.0,East Asia,United Overseas Bank
+1227,Alicia and Esther Koplowitz,,female,1.0,Europe,Construcciones y Contratas
+1225,Saleh Kamel,54.0,male,1.0,Middle East/North Africa,Dallah al Baraka Group
+1296,Steven Spielberg,49.0,male,1.0,North America,DreamWorks
+1224,Eugenio Lopez,,male,1.0,East Asia,Jumex
+1151,Ahmed Ali Kanoo,,male,1.0,Middle East/North Africa,YBA Kanoo
+1152,Larragoiti family,,,1.0,Latin America,SulAmerica Seguros
+1153,Norberto Odebrecht,,male,1.0,Latin America,Odebrecht Group
+1154,Gerard Louis-Dreyfus,63.0,male,1.0,Europe,Louis Dreyfus Group
+1155,Nathaniel Rothschild,,male,1.0,Europe,?N M Rothschild & Sons
+1190,Adolf Merckle,61.0,male,1.0,Europe,Ratiopharm
+1199,Strwher family,,,1.0,Europe,
+1200,Werhahn family,,,1.0,Europe,Wilh. Werhahn KG
+1201,Chao Kuang-Piu,,male,1.0,East Asia,
+1202,Shoul Eisenberg,,male,1.0,Middle East/North Africa,Israel Corporation
+1203,Sammy Ofer,,male,1.0,Middle East/North Africa,Zodiac Maritime Agencies
+1204,Otani Family,,,1.0,East Asia,
+1205,Shoichiro Toyoda,,male,1.0,East Asia,Toyota Motors
+1206,Junichi Murata,,,1.0,East Asia,
+1219,Halim Saad,,male,1.0,East Asia,Renong
+1220,Jeronimo Arango,70.0,male,1.0,Latin America,Aurrera
+1221,Ricardo Salinas Pliego,40.0,male,1.0,Latin America,Grupo Salinas/Group Elektra
+1222,Autrey family,,,1.0,Latin America,
+1223,Ana Maria Brescia Cafferata,,female,1.0,Latin America,Grupo Prescia (now Pandora Group)
+1455,Vinod Khosla,46.0,male,1.0,North America,Sun Microsystems
+1454,Tom Gores,36.0,male,1.0,North America,Platinum Equity
+1453,Toichi Takenaka,58.0,male,1.0,East Asia,Takenaka Corporation
+1452,Thomas Bailey,64.0,male,1.0,North America,Janus Capital Group
+1429,Gabriel Escarrer,66.0,male,1.0,Europe,Melia Hotels International
+1428,Frank Levinson,,male,1.0,North America,Finisar
+1427,Esther Koplowitz,50.0,female,1.0,Europe,Construcciones y Contratas
+1426,Ernestina Herrera de Noble,,female,1.0,Latin America,Grupo Clarin
+1425,Dorrance Hill Hamilton,,female,1.0,North America,Campbell Soup
+1424,Donald Schneider,65.0,male,1.0,North America,Schneider National
+1423,Dean White,77.0,male,1.0,North America,Whiteco Industries
+1422,David Filo,34.0,male,1.0,North America,Yahoo!
+1421,Chey Tae-Won,40.0,male,1.0,East Asia,SK Corporation
+1420,Charles Simonyi,53.0,male,1.0,North America,Microsoft
+1419,Bruce Kovner,55.0,male,1.0,North America,Caxton Associates
+1418,Benjamin de Rothschild,,male,1.0,Europe,Edmond de Rothschild Group
+1417,Belmiro de Azevedo,59.0,male,1.0,Europe,Sonae SGPS
+1416,Barry Diller,59.0,male,1.0,North America,IAC 
+1415,Antonia Johnson,57.0,female,1.0,Europe,Axel Johnson Group
+1414,Ananda Krishnan,62.0,male,1.0,East Asia,Usaha Tegas Sdn Bhd
+1413,Amalia Lacroze de Fortabat,,female,1.0,Latin America,Loma Negra
+1411,Alberto Vilar,,male,1.0,North America,Amerindo Investment Advisors
+1410,Albert Frere,75.0,male,1.0,Europe,Groupe Bruxelles Lambert
+1430,George Ying Chow Lien,,male,1.0,East Asia,Overseas Chinese Union Bank
+1431,Gerald Cadogan,,male,1.0,Europe,Cadogan Estates
+1432,German Larrea Mota Velasco,47.0,male,1.0,Latin America,Grupo Mexio
+1443,Malcolm Green Chace III,,male,1.0,North America,First Allied Corporation
+1451,Shoji Uehara,,male,1.0,East Asia,Taisho Pharmaceutical
+1450,Sheldon Adelson,67.0,male,1.0,North America,Las Vegas Sands
+1449,Scott Kriens,,male,1.0,North America,Juniper Networks
+1448,Pincus Green,65.0,male,1.0,Europe,Glencore
+1447,Onsi Sawiris,71.0,male,1.0,Middle East/North Africa,Orascom
+1446,Norman Waitt,,male,1.0,North America,Gateway
+1445,Michael Lee-Chin,50.0,male,1.0,North America,Otto Group
+1444,Mark Dixon,,male,1.0,Europe,Regus
+1442,Lee Hon Chiu,,male,1.0,East Asia,Hysan Development
+1433,Hope Hill Van Beuren,55.0,female,1.0,North America,Campbell Soup
+1441,Julian Robertson,69.0,male,1.0,North America,Tiger Management Corp
+1440,John Todd,,male,1.0,North America,Todd Energy
+1439,John Doerr,50.0,male,1.0,North America,Kleinter Perkins Caufield & Byers
+1438,Jerry Yang,32.0,male,1.0,North America,Yahoo!
+1437,Jerome Kohlberg,75.0,male,1.0,North America,Kohberg Kravis Roberts & Co
+1436,James France,56.0,male,1.0,North America,NASCAR
+1435,Jacques Servier,,male,1.0,Europe,Laboratories Servier
+1434,Jacob and Yehudith Richter,,married couple,1.0,Middle East/North Africa,Medinol
+2612,Zhu Wenchen,48.0,male,1.0,East Asia,Furen Pharmaceutical Group
