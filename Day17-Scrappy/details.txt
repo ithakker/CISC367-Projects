@@ -1,3 +1,3 @@
-Website:
-Data:
-Github:
+Website: CoinMarketCap list of all cryptocurrencies. (https://coinmarketcap.com/all/views/all/)
+Data: Name, Symbol, Market Cap, Price, Circulating Supply, and Volume of the top 200 crypto currencies based on rank.
+Github: https://github.com/ithakker/CISC367-Projects/tree/main/Day17-Scrappy
